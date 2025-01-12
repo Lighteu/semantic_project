@@ -1,0 +1,24 @@
+version: "3.8"
+
+services:
+  fuseki:
+    image: stain/jena-fuseki
+    container_name: fuseki
+    ports:
+      - "3030:3030"
+    environment:
+      ADMIN_PASSWORD: admin
+    volumes:
+      - ./data/fuseki-data:/fuseki-base
+
+  python:
+    build:
+      context: ./python
+    container_name: python_env
+    volumes:
+      - ./python:/app
+      - ./data/python-data:/data
+    working_dir: /app
+    command: python app.py
+    depends_on:
+      - fuseki
