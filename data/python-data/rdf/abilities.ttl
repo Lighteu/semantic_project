@@ -1,0 +1,2766 @@
+@prefix bulba: <http://localhost:3030/bulba_vocab#> .
+@prefix schema1: <http://schema.org/> .
+
+bulba:Adaptability_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "IV" ;
+    bulba:jpname "てきおうりょく" ;
+    bulba:jptrans "Adaptability" ;
+    bulba:jptranslit "Tekiōryoku" ;
+    bulba:name "Adaptability" .
+
+bulba:Aerilate_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "flying" ;
+    bulba:gen "VI" ;
+    bulba:jpname "スカイスキン" ;
+    bulba:jptrans "Sky Skin" ;
+    bulba:jptranslit "Sukai Sukin" ;
+    bulba:name "Aerilate" .
+
+bulba:Aftermath_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Poison" ;
+    bulba:gen "IV" ;
+    bulba:jpname "<span style=\"color:#FFF\">ゆうばく</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Induced Explosion</span>" ;
+    bulba:jptranslit "Yūbaku" ;
+    bulba:name "<span style=\"color:#FFF\">Aftermath</span>" .
+
+bulba:Air_Lock_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "flying" ;
+    bulba:gen "III" ;
+    bulba:jpname "エアロック" ;
+    bulba:jptrans "Air Lock" ;
+    bulba:jptranslit "Ea Rokku" ;
+    bulba:name "Air Lock" .
+
+bulba:Analytic_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Normal" ;
+    bulba:gen "V" ;
+    bulba:jpname "アナライズ" ;
+    bulba:jptrans "Analyze" ;
+    bulba:jptranslit "Anaraizu" ;
+    bulba:name "Analytic" .
+
+bulba:Anger_Point_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "attack" ;
+    bulba:gen "IV" ;
+    bulba:jpname "いかりのつぼ" ;
+    bulba:jptrans "Anger Point" ;
+    bulba:jptranslit "Ikari no Tsubo" ;
+    bulba:name "Anger Point" .
+
+bulba:Anger_Shell_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "attack" ;
+    bulba:gen "IX" ;
+    bulba:jpname "いかりのこうら" ;
+    bulba:jptrans "Anger Shell" ;
+    bulba:jptranslit "Ikari no Kōra" ;
+    bulba:name "Anger Shell" .
+
+bulba:Anticipation_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fighting" ;
+    bulba:gen "IV" ;
+    bulba:jpname "きけんよち" ;
+    bulba:jptrans "Danger Premonition" ;
+    bulba:jptranslit "Kikenyochi" ;
+    bulba:name "Anticipation" .
+
+bulba:Arena_Trap_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ground" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">ありじごく</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Antlion</span>" ;
+    bulba:jptranslit "Arijigoku" ;
+    bulba:name "<span style=\"color:#FFF\">Arena Trap</span>" .
+
+bulba:Armor_Tail_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "psychic" ;
+    bulba:gen "IX" ;
+    bulba:jpname "テイルアーマー" ;
+    bulba:jptrans "Tail Armor" ;
+    bulba:jptranslit "Teiru Āmā" ;
+    bulba:name "Armor Tail" .
+
+bulba:Aroma_Veil_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fairy" ;
+    bulba:gen "VI" ;
+    bulba:jpname "アロマベール" ;
+    bulba:jptrans "Aroma Veil" ;
+    bulba:jptranslit "Aroma Bēru" ;
+    bulba:name "Aroma Veil" .
+
+bulba:As_One_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "psychic" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "じんばいったい" ;
+    bulba:jptrans "Rider and Mount in Unison" ;
+    bulba:jptranslit "Jinba Ittai" ;
+    bulba:name "As One" .
+
+bulba:Aura_Break_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "dragon" ;
+    bulba:gen "VI" ;
+    bulba:jpname "<span style=\"color:#FFF\">オーラブレイク</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Aura Break</span>" ;
+    bulba:jptranslit "Ōra Bureiku" ;
+    bulba:name "<span style=\"color:#FFF\">Aura Break</span>" .
+
+bulba:Bad_Dreams_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "dark" ;
+    bulba:gen "IV" ;
+    bulba:jpname "<span style=\"color:#FFF\">ナイトメア</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Nightmare</span>" ;
+    bulba:jptranslit "Naitomea" ;
+    bulba:name "<span style=\"color:#FFF\">Bad Dreams</span>" .
+
+bulba:Ball_Fetch_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Poké Balls" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "たまひろい" ;
+    bulba:jptrans "Ball Fetch" ;
+    bulba:jptranslit "Tama Hiroi" ;
+    bulba:name "Ball Fetch" .
+
+bulba:Battery_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "special" ;
+    bulba:gen "VII" ;
+    bulba:jpname "<span style=\"color:#FFF\">バッテリー</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Battery</span>" ;
+    bulba:jptranslit "Batterī" ;
+    bulba:name "<span style=\"color:#FFF\">Battery</span>" .
+
+bulba:Battle_Armor_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "rock" ;
+    bulba:gen "III" ;
+    bulba:jpname "カブトアーマー" ;
+    bulba:jptrans "Kabuto Armor" ;
+    bulba:jptranslit "Kabuto Āmā" ;
+    bulba:name "Battle Armor" .
+
+bulba:Battle_Bond_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Water" ;
+    bulba:gen "VII" ;
+    bulba:jpname "きずなへんげ" ;
+    bulba:jptrans "Bond Transformation" ;
+    bulba:jptranslit "Kizuna Henge" ;
+    bulba:name "Battle Bond" .
+
+bulba:Beads_of_Ruin_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Special Defense" ;
+    bulba:gen "IX" ;
+    bulba:jpname "<span style=\"color:#FFF\">わざわいのたま</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Beads of Ruin</span>" ;
+    bulba:jptranslit "Wazawai no Tama" ;
+    bulba:name "<span style=\"color:#FFF\">Beads of Ruin</span>" .
+
+bulba:Beast_Boost_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "status" ;
+    bulba:gen "VII" ;
+    bulba:jpname "ビーストブースト" ;
+    bulba:jptrans "Beast Boost" ;
+    bulba:jptranslit "Bīsuto Būsuto" ;
+    bulba:name "Beast Boost" .
+
+bulba:Berserk_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Special Attack" ;
+    bulba:gen "VII" ;
+    bulba:jpname "ぎゃくじょう" ;
+    bulba:jptrans "Frenzy" ;
+    bulba:jptranslit "Gyakujō" ;
+    bulba:name "Berserk" .
+
+bulba:Big_Pecks_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "defense" ;
+    bulba:gen "V" ;
+    bulba:jpname "はとむね" ;
+    bulba:jptrans "Pigeon Breast" ;
+    bulba:jptranslit "Hatomune" ;
+    bulba:name "Big Pecks" .
+
+bulba:Blaze_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fire" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">もうか</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Raging Flames</span>" ;
+    bulba:jptranslit "Mōka" ;
+    bulba:name "<span style=\"color:#FFF\">Blaze</span>" .
+
+bulba:Bulletproof_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "special" ;
+    bulba:gen "VI" ;
+    bulba:jpname "<span style=\"color:#FFF\">ぼうだん</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Bulletproof</span>" ;
+    bulba:jptranslit "Bōdan" ;
+    bulba:name "<span style=\"color:#FFF\">Bulletproof</span>" .
+
+bulba:Cacophony_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "???" ;
+    bulba:gen "III" ;
+    bulba:jpname "そうおん" ;
+    bulba:jptrans "Noise" ;
+    bulba:jptranslit "Sōon" ;
+    bulba:name "Cacophony" .
+
+bulba:Cheek_Pouch_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "berries" ;
+    bulba:gen "VI" ;
+    bulba:jpname "ほおぶくろ" ;
+    bulba:jptrans "Cheek Pouch" ;
+    bulba:jptranslit "Hō Bukuro" ;
+    bulba:name "Cheek Pouch" .
+
+bulba:Chilling_Neigh_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ice" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "しろのいななき" ;
+    bulba:jptrans "White Neigh" ;
+    bulba:jptranslit "Shiro no Inanaki" ;
+    bulba:name "Chilling Neigh" .
+
+bulba:Chlorophyll_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "grass" ;
+    bulba:gen "III" ;
+    bulba:jpname "ようりょくそ" ;
+    bulba:jptrans "Chlorophyll" ;
+    bulba:jptranslit "Yōryokuso" ;
+    bulba:name "Chlorophyll" .
+
+bulba:Clear_Body_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "status" ;
+    bulba:gen "III" ;
+    bulba:jpname "クリアボディ" ;
+    bulba:jptrans "Clear Body" ;
+    bulba:jptranslit "Kuria Bodi" ;
+    bulba:name "Clear Body" .
+
+bulba:Cloud_Nine_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Normal" ;
+    bulba:gen "III" ;
+    bulba:jpname "ノーてんき" ;
+    bulba:jptrans "No Weather" ;
+    bulba:jptranslit "Nō Tenki" ;
+    bulba:name "Cloud Nine" .
+
+bulba:Color_Change_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "arceus" ;
+    bulba:gen "III" ;
+    bulba:jpname "へんしょく" ;
+    bulba:jptrans "Color Change" ;
+    bulba:jptranslit "Henshoku" ;
+    bulba:name "Color Change" .
+
+bulba:Comatose_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Status" ;
+    bulba:gen "VII" ;
+    bulba:jpname "ぜったいねむり" ;
+    bulba:jptrans "Sure Sleeper" ;
+    bulba:jptranslit "Zettai Nemuri" ;
+    bulba:name "Comatose" .
+
+bulba:Commander_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "dragon" ;
+    bulba:gen "IX" ;
+    bulba:jpname "<span style=\"color:#FFF\">しれいとう</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Commander</span>" ;
+    bulba:jptranslit "Shireitō" ;
+    bulba:name "<span style=\"color:#FFF\">Commander</span>" .
+
+bulba:Competitive_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "special attack" ;
+    bulba:gen "VI" ;
+    bulba:jpname "かちき" ;
+    bulba:jptrans "Determined Spirit" ;
+    bulba:jptranslit "Kachiki" ;
+    bulba:name "Competitive" .
+
+bulba:Compound_Eyes_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "bug" ;
+    bulba:gen "III" ;
+    bulba:jpname "ふくがん" ;
+    bulba:jptrans "Compound Eyes" ;
+    bulba:jptranslit "Fukugan" ;
+    bulba:name "Compound Eyes" .
+
+bulba:Contrary_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Grass" ;
+    bulba:gen "V" ;
+    bulba:jpname "あまのじゃく" ;
+    bulba:jptrans "Amanojaku" ;
+    bulba:jptranslit "Amanojaku" ;
+    bulba:name "Contrary" .
+
+bulba:Corrosion_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Poison" ;
+    bulba:gen "VII" ;
+    bulba:jpname "<span style=\"color:#FFF\">ふしょく</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Corrosion</span>" ;
+    bulba:jptranslit "Fushoku" ;
+    bulba:name "<span style=\"color:#FFF\">Corrosion</span>" .
+
+bulba:Costar_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "status" ;
+    bulba:gen "IX" ;
+    bulba:jpname "きょうえん" ;
+    bulba:jptrans "Costarring" ;
+    bulba:jptranslit "Kyōen" ;
+    bulba:name "Costar" .
+
+bulba:Cotton_Down_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Grass" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "わたげ" ;
+    bulba:jptrans "Cotton Down" ;
+    bulba:jptranslit "Watage" ;
+    bulba:name "Cotton Down" .
+
+bulba:Cud_Chew_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "berries" ;
+    bulba:gen "IX" ;
+    bulba:jpname "はんすう" ;
+    bulba:jptrans "Cud Chew" ;
+    bulba:jptranslit "Hansū" ;
+    bulba:name "Cud Chew" .
+
+bulba:Curious_Medicine_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "poison" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "<span style=\"color:#FFF\">きみょうなくすり</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Curious Medicine</span>" ;
+    bulba:jptranslit "Kimyō na Kusuri" ;
+    bulba:name "<span style=\"color:#FFF\">Curious Medicine</span>" .
+
+bulba:Cursed_Body_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ghost" ;
+    bulba:gen "V" ;
+    bulba:jpname "<span style=\"color:#FFF\">のろわれボディ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Cursed Body</span>" ;
+    bulba:jptranslit "Noroware Bodi" ;
+    bulba:name "<span style=\"color:#FFF\">Cursed Body</span>" .
+
+bulba:Cute_Charm_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fairy" ;
+    bulba:gen "III" ;
+    bulba:jpname "メロメロボディ" ;
+    bulba:jptrans "Mad Love Body" ;
+    bulba:jptranslit "Meromero Bodi" ;
+    bulba:name "Cute Charm" .
+
+bulba:Damp_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "III" ;
+    bulba:jpname "しめりけ" ;
+    bulba:jptrans "Moisture" ;
+    bulba:jptranslit "Shimerike" ;
+    bulba:name "Damp" .
+
+bulba:Dancer_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Flying" ;
+    bulba:gen "VII" ;
+    bulba:jpname "おどりこ" ;
+    bulba:jptrans "Dancer" ;
+    bulba:jptranslit "Odoriko" ;
+    bulba:name "Dancer" .
+
+bulba:Dark_Aura_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "dark" ;
+    bulba:gen "VI" ;
+    bulba:jpname "<span style=\"color:#FFF\">ダークオーラ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Dark Aura</span>" ;
+    bulba:jptranslit "Dāku Ōra" ;
+    bulba:name "<span style=\"color:#FFF\">Dark Aura</span>" .
+
+bulba:Dauntless_Shield_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Fighting" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "ふくつのたて" ;
+    bulba:jptrans "Fortitude Shield" ;
+    bulba:jptranslit "Fukutsu no Tate" ;
+    bulba:name "Dauntless Shield" .
+
+bulba:Dazzling_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Psychic" ;
+    bulba:gen "VII" ;
+    bulba:jpname "ビビッドボディ" ;
+    bulba:jptrans "Vivid Body" ;
+    bulba:jptranslit "Bibiddo Bodi" ;
+    bulba:name "Dazzling" .
+
+bulba:Defeatist_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Rock" ;
+    bulba:gen "V" ;
+    bulba:jpname "よわき" ;
+    bulba:jptrans "Timid" ;
+    bulba:jptranslit "Yowaki" ;
+    bulba:name "Defeatist" .
+
+bulba:Defiant_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "attack" ;
+    bulba:gen "V" ;
+    bulba:jpname "まけんき" ;
+    bulba:jptrans "Competitive Spirit" ;
+    bulba:jptranslit "Makenki" ;
+    bulba:name "Defiant" .
+
+bulba:Delta_Stream_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "flying" ;
+    bulba:gen "VI" ;
+    bulba:jpname "デルタストリーム" ;
+    bulba:jptrans "Delta Stream" ;
+    bulba:jptranslit "Deruta Sutorīmu" ;
+    bulba:name "Delta Stream" .
+
+bulba:Desolate_Land_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fire" ;
+    bulba:gen "VI" ;
+    bulba:jpname "<span style=\"color:#FFF\">おわりのだいち</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Land of the End</span>" ;
+    bulba:jptranslit "Owari no Daichi" ;
+    bulba:name "<span style=\"color:#FFF\">Desolate Land</span>" .
+
+bulba:Disguise_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Ghost" ;
+    bulba:gen "VII" ;
+    bulba:jpname "ばけのかわ" ;
+    bulba:jptrans "Disguise" ;
+    bulba:jptranslit "Bakenokawa" ;
+    bulba:name "Disguise" .
+
+bulba:Download_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "special attack" ;
+    bulba:gen "IV" ;
+    bulba:jpname "ダウンロード" ;
+    bulba:jptrans "Download" ;
+    bulba:jptranslit "Daunrōdo" ;
+    bulba:name "Download" .
+
+bulba:Dragon%27s_Maw_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "dragon" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "<span style=\"color:#FFF\">りゅうのあぎと</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Dragon's Jaw</span>" ;
+    bulba:jptranslit "Ryū no Agito" ;
+    bulba:name "<span style=\"color:#FFF\">Dragon's Maw</span>" .
+
+bulba:Drizzle_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "III" ;
+    bulba:jpname "あめふらし" ;
+    bulba:jptrans "Rainfall" ;
+    bulba:jptranslit "Amefurashi" ;
+    bulba:name "Drizzle" .
+
+bulba:Drought_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fire" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">ひでり</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Drought</span>" ;
+    bulba:jptranslit "Hideri" ;
+    bulba:name "<span style=\"color:#FFF\">Drought</span>" .
+
+bulba:Dry_Skin_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "IV" ;
+    bulba:jpname "かんそうはだ" ;
+    bulba:jptrans "Dry Skin" ;
+    bulba:jptranslit "Kansō Hada" ;
+    bulba:name "Dry Skin" .
+
+bulba:Early_Bird_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "flying" ;
+    bulba:gen "III" ;
+    bulba:jpname "はやおき" ;
+    bulba:jptrans "Early Rising" ;
+    bulba:jptranslit "Hayaoki" ;
+    bulba:name "Early Bird" .
+
+bulba:Earth_Eater_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ground" ;
+    bulba:gen "IX" ;
+    bulba:jpname "<span style=\"color:#FFF\">どしょく</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Geophagy</span>" ;
+    bulba:jptranslit "Doshoku" ;
+    bulba:name "<span style=\"color:#FFF\">Earth Eater</span>" .
+
+bulba:Effect_Spore_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "grass" ;
+    bulba:gen "III" ;
+    bulba:jpname "ほうし" ;
+    bulba:jptrans "Spore" ;
+    bulba:jptranslit "Hōshi" ;
+    bulba:name "Effect Spore" .
+
+bulba:Electric_Surge_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Electric" ;
+    bulba:gen "VII" ;
+    bulba:jpname "エレキメイカー" ;
+    bulba:jptrans "Electric Maker" ;
+    bulba:jptranslit "Ereki Meikā" ;
+    bulba:name "Electric Surge" .
+
+bulba:Electromorphosis_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "electric" ;
+    bulba:gen "IX" ;
+    bulba:jpname "でんきにかえる" ;
+    bulba:jptrans "Change into Electricity" ;
+    bulba:jptranslit "Denki ni Kaeru" ;
+    bulba:name "Electromorphosis" .
+
+bulba:Embody_Aspect_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "grass" ;
+    bulba:gen "IX" ;
+    bulba:jpname "おもかげやどし" ;
+    bulba:jptrans "Bearing Visage" ;
+    bulba:jptranslit "Omokage Yadoshi" ;
+    bulba:name "Embody Aspect" .
+
+bulba:Emergency_Exit_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "bug" ;
+    bulba:gen "VII" ;
+    bulba:jpname "ききかいひ" ;
+    bulba:jptrans "Crisis Prevention" ;
+    bulba:jptranslit "Kiki Kaihi" ;
+    bulba:name "Emergency Exit" .
+
+bulba:Fairy_Aura_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fairy" ;
+    bulba:gen "VI" ;
+    bulba:jpname "フェアリーオーラ" ;
+    bulba:jptrans "Fairy Aura" ;
+    bulba:jptranslit "Fearī Ōra" ;
+    bulba:name "Fairy Aura" .
+
+bulba:Filter_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "steel" ;
+    bulba:gen "IV" ;
+    bulba:jpname "フィルター" ;
+    bulba:jptrans "Filter" ;
+    bulba:jptranslit "Firutā" ;
+    bulba:name "Filter" .
+
+bulba:Flame_Body_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fire" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">ほのおのからだ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Flame Body</span>" ;
+    bulba:jptranslit "Honō no Karada" ;
+    bulba:name "<span style=\"color:#FFF\">Flame Body</span>" .
+
+bulba:Flare_Boost_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ghost" ;
+    bulba:gen "V" ;
+    bulba:jpname "<span style=\"color:#FFF\">ねつぼうそう</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Thermal Runaway</span>" ;
+    bulba:jptranslit "Netsu Bōsō" ;
+    bulba:name "<span style=\"color:#FFF\">Flare Boost</span>" .
+
+bulba:Flash_Fire_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fire" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">もらいび</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Received Fire</span>" ;
+    bulba:jptranslit "Moraibi" ;
+    bulba:name "<span style=\"color:#FFF\">Flash Fire</span>" .
+
+bulba:Flower_Gift_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "grass" ;
+    bulba:gen "IV" ;
+    bulba:jpname "フラワーギフト" ;
+    bulba:jptrans "Flower Gift" ;
+    bulba:jptranslit "Furawā Gifuto" ;
+    bulba:name "Flower Gift" .
+
+bulba:Flower_Veil_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Grass" ;
+    bulba:gen "VI" ;
+    bulba:jpname "フラワーベール" ;
+    bulba:jptrans "Flower Veil" ;
+    bulba:jptranslit "Furawā Bēru" ;
+    bulba:name "Flower Veil" .
+
+bulba:Fluffy_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Cute" ;
+    bulba:gen "VII" ;
+    bulba:jpname "<span style=\"color:#FFF\">もふもふ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Fluffy</span>" ;
+    bulba:jptranslit "Mofumofu" ;
+    bulba:name "<span style=\"color:#FFF\">Fluffy</span>" .
+
+bulba:Forecast_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Normal" ;
+    bulba:gen "III" ;
+    bulba:jpname "てんきや" ;
+    bulba:jptrans "Temperamental" ;
+    bulba:jptranslit "Tenkiya" ;
+    bulba:name "Forecast" .
+
+bulba:Forewarn_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "psychic" ;
+    bulba:gen "IV" ;
+    bulba:jpname "よちむ" ;
+    bulba:jptrans "Prophetic Dream" ;
+    bulba:jptranslit "Yochimu" ;
+    bulba:name "Forewarn" .
+
+bulba:Friend_Guard_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fairy" ;
+    bulba:gen "V" ;
+    bulba:jpname "フレンドガード" ;
+    bulba:jptrans "Friend Guard" ;
+    bulba:jptranslit "Furendo Gādo" ;
+    bulba:name "Friend Guard" .
+
+bulba:Frisk_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "items" ;
+    bulba:gen "IV" ;
+    bulba:jpname "おみとおし" ;
+    bulba:jptrans "Unobstructed Sight" ;
+    bulba:jptranslit "Omitōshi" ;
+    bulba:name "Frisk" .
+
+bulba:Full_Metal_Body_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Steel" ;
+    bulba:gen "VII" ;
+    bulba:jpname "メタルプロテクト" ;
+    bulba:jptrans "Metal Protect" ;
+    bulba:jptranslit "Metaru Purotekuto" ;
+    bulba:name "Full Metal Body" .
+
+bulba:Fur_Coat_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "physical" ;
+    bulba:gen "VI" ;
+    bulba:jpname "<span style=\"color:#FFF\">ファーコート</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Fur Coat</span>" ;
+    bulba:jptranslit "Fā Kōto" ;
+    bulba:name "<span style=\"color:#FFF\">Fur Coat</span>" .
+
+bulba:Gale_Wings_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "flying" ;
+    bulba:gen "VI" ;
+    bulba:jpname "はやてのつばさ" ;
+    bulba:jptrans "Gale Wings" ;
+    bulba:jptranslit "Hayate no Tsubasa" ;
+    bulba:name "Gale Wings" .
+
+bulba:Galvanize_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "electric" ;
+    bulba:gen "VII" ;
+    bulba:jpname "エレキスキン" ;
+    bulba:jptrans "Electric Skin" ;
+    bulba:jptranslit "Ereki Sukin" ;
+    bulba:name "Galvanize" .
+
+bulba:Gluttony_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "berries" ;
+    bulba:gen "IV" ;
+    bulba:jpname "くいしんぼう" ;
+    bulba:jptrans "Glutton" ;
+    bulba:jptranslit "Kuishinbō" ;
+    bulba:name "Gluttony" .
+
+bulba:Good_as_Gold_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "gold" ;
+    bulba:gen "IX" ;
+    bulba:jpname "おうごんのからだ" ;
+    bulba:jptrans "Gold Body" ;
+    bulba:jptranslit "Ōgon no Karada" ;
+    bulba:name "Good as Gold" .
+
+bulba:Gooey_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "dragon" ;
+    bulba:gen "VI" ;
+    bulba:jpname "<span style=\"color:#FFF\">ぬめぬめ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Gooey</span>" ;
+    bulba:jptranslit "Numenume" ;
+    bulba:name "<span style=\"color:#FFF\">Gooey</span>" .
+
+bulba:Gorilla_Tactics_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "attack" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "ごりむちゅう" ;
+    bulba:jptrans "Obsessed Gorilla" ;
+    bulba:jptranslit "Gori Muchū" ;
+    bulba:name "Gorilla Tactics" .
+
+bulba:Grass_Pelt_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "grass" ;
+    bulba:gen "VI" ;
+    bulba:jpname "くさのけがわ" ;
+    bulba:jptrans "Grass Pelt" ;
+    bulba:jptranslit "Kusa no Kegawa" ;
+    bulba:name "Grass Pelt" .
+
+bulba:Grassy_Surge_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Grass" ;
+    bulba:gen "VII" ;
+    bulba:jpname "グラスメイカー" ;
+    bulba:jptrans "Grass Maker" ;
+    bulba:jptranslit "Gurasu Meikā" ;
+    bulba:name "Grassy Surge" .
+
+bulba:Grim_Neigh_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ghost" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "<span style=\"color:#FFF\">くろのいななき</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Black Neigh</span>" ;
+    bulba:jptranslit "Kuro no Inanaki" ;
+    bulba:name "<span style=\"color:#FFF\">Grim Neigh</span>" .
+
+bulba:Guard_Dog_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "attack" ;
+    bulba:gen "IX" ;
+    bulba:jpname "ばんけん" ;
+    bulba:jptrans "Guard Dog" ;
+    bulba:jptranslit "Banken" ;
+    bulba:name "Guard Dog" .
+
+bulba:Gulp_Missile_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "うのミサイル" ;
+    bulba:jptrans "Gulp Missile" ;
+    bulba:jptranslit "U no Misairu" ;
+    bulba:name "Gulp Missile" .
+
+bulba:Guts_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "attack" ;
+    bulba:gen "III" ;
+    bulba:jpname "こんじょう" ;
+    bulba:jptrans "Guts" ;
+    bulba:jptranslit "Konjō" ;
+    bulba:name "Guts" .
+
+bulba:Hadron_Engine_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Violet" ;
+    bulba:gen "IX" ;
+    bulba:jpname "<span style=\"color:#FFF\">ハドロンエンジン</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Hadron Engine</span>" ;
+    bulba:jptranslit "Hadoron Enjin" ;
+    bulba:name "<span style=\"color:#FFF\">Hadron Engine</span>" .
+
+bulba:Harvest_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "berries" ;
+    bulba:gen "V" ;
+    bulba:jpname "しゅうかく" ;
+    bulba:jptrans "Harvest" ;
+    bulba:jptranslit "Shūkaku" ;
+    bulba:name "Harvest" .
+
+bulba:Healer_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "V" ;
+    bulba:jpname "いやしのこころ" ;
+    bulba:jptrans "Healing Heart" ;
+    bulba:jptranslit "Iyashi no Kokoro" ;
+    bulba:name "Healer" .
+
+bulba:Heatproof_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "steel" ;
+    bulba:gen "IV" ;
+    bulba:jpname "たいねつ" ;
+    bulba:jptrans "Heatproof" ;
+    bulba:jptranslit "Tainetsu" ;
+    bulba:name "Heatproof" .
+
+bulba:Heavy_Metal_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "steel" ;
+    bulba:gen "V" ;
+    bulba:jpname "ヘヴィメタル" ;
+    bulba:jptrans "Heavy Metal" ;
+    bulba:jptranslit "Hevi Metaru" ;
+    bulba:name "Heavy Metal" .
+
+bulba:Honey_Gather_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "gold" ;
+    bulba:gen "IV" ;
+    bulba:jpname "みつあつめ" ;
+    bulba:jptrans "Honey Gather" ;
+    bulba:jptranslit "Mitsu Atsume" ;
+    bulba:name "Honey Gather" .
+
+bulba:Hospitality_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "HP" ;
+    bulba:gen "IX" ;
+    bulba:jpname "おもてなし" ;
+    bulba:jptrans "Hospitality" ;
+    bulba:jptranslit "Omotenashi" ;
+    bulba:name "Hospitality" .
+
+bulba:Huge_Power_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "attack" ;
+    bulba:gen "III" ;
+    bulba:jpname "ちからもち" ;
+    bulba:jptrans "Muscleman" ;
+    bulba:jptranslit "Chikaramochi" ;
+    bulba:name "Huge Power" .
+
+bulba:Hunger_Switch_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "electric" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "はらぺこスイッチ" ;
+    bulba:jptrans "Hunger Switch" ;
+    bulba:jptranslit "Harapeko Suitchi" ;
+    bulba:name "Hunger Switch" .
+
+bulba:Hustle_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "attack" ;
+    bulba:gen "III" ;
+    bulba:jpname "はりきり" ;
+    bulba:jptrans "Enthusiasm" ;
+    bulba:jptranslit "Harikiri" ;
+    bulba:name "Hustle" .
+
+bulba:Hydration_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "IV" ;
+    bulba:jpname "うるおいボディ" ;
+    bulba:jptrans "Moist Body" ;
+    bulba:jptranslit "Uruoi Bodi" ;
+    bulba:name "Hydration" .
+
+bulba:Hyper_Cutter_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "attack" ;
+    bulba:gen "III" ;
+    bulba:jpname "かいりきバサミ" ;
+    bulba:jptrans "Superpowerful Claws" ;
+    bulba:jptranslit "Kairiki Basami" ;
+    bulba:name "Hyper Cutter" .
+
+bulba:Ice_Body_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ice" ;
+    bulba:gen "IV" ;
+    bulba:jpname "アイスボディ" ;
+    bulba:jptrans "Ice Body" ;
+    bulba:jptranslit "Aisu Bodi" ;
+    bulba:name "Ice Body" .
+
+bulba:Ice_Face_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Ice" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "アイスフェイス" ;
+    bulba:jptrans "Ice Face" ;
+    bulba:jptranslit "Aisu Feisu" ;
+    bulba:name "Ice Face" .
+
+bulba:Ice_Scales_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Ice" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "こおりのりんぷん" ;
+    bulba:jptrans "Ice Scales" ;
+    bulba:jptranslit "Kōri no Rinpun" ;
+    bulba:name "Ice Scales" .
+
+bulba:Illuminate_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "electric" ;
+    bulba:gen "III" ;
+    bulba:jpname "はっこう" ;
+    bulba:jptrans "Luminescence" ;
+    bulba:jptranslit "Hakkō" ;
+    bulba:name "Illuminate" .
+
+bulba:Illusion_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "dark" ;
+    bulba:gen "V" ;
+    bulba:jpname "<span style=\"color:#FFF\">イリュージョン</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Illusion</span>" ;
+    bulba:jptranslit "Iryūjon" ;
+    bulba:name "<span style=\"color:#FFF\">Illusion</span>" .
+
+bulba:Immunity_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "poison" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">めんえき</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Immunity</span>" ;
+    bulba:jptranslit "Men'eki" ;
+    bulba:name "<span style=\"color:#FFF\">Immunity</span>" .
+
+bulba:Imposter_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ditto egg" ;
+    bulba:gen "V" ;
+    bulba:jpname "かわりもの" ;
+    bulba:jptrans "Changer" ;
+    bulba:jptranslit "Kawarimono" ;
+    bulba:name "Imposter" .
+
+bulba:Infiltrator_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Flying" ;
+    bulba:gen "V" ;
+    bulba:jpname "すりぬけ" ;
+    bulba:jptrans "Slip Through" ;
+    bulba:jptranslit "Surinuke" ;
+    bulba:name "Infiltrator" .
+
+bulba:Innards_Out_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Water" ;
+    bulba:gen "VII" ;
+    bulba:jpname "とびだすなかみ" ;
+    bulba:jptrans "Flying Innards" ;
+    bulba:jptranslit "Tobidasu Nakami" ;
+    bulba:name "Innards Out" .
+
+bulba:Inner_Focus_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fighting" ;
+    bulba:gen "III" ;
+    bulba:jpname "せいしんりょく" ;
+    bulba:jptrans "Force of Will" ;
+    bulba:jptranslit "Seishinryoku" ;
+    bulba:name "Inner Focus" .
+
+bulba:Insomnia_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "status" ;
+    bulba:gen "III" ;
+    bulba:jpname "ふみん" ;
+    bulba:jptrans "Insomnia" ;
+    bulba:jptranslit "Fumin" ;
+    bulba:name "Insomnia" .
+
+bulba:Intimidate_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "attack" ;
+    bulba:gen "III" ;
+    bulba:jpname "いかく" ;
+    bulba:jptrans "Intimidate" ;
+    bulba:jptranslit "Ikaku" ;
+    bulba:name "Intimidate" .
+
+bulba:Intrepid_Sword_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Fairy" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "ふとうのけん" ;
+    bulba:jptrans "Tenacity Sword" ;
+    bulba:jptranslit "Futō no Ken" ;
+    bulba:name "Intrepid Sword" .
+
+bulba:Iron_Barbs_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "steel" ;
+    bulba:gen "V" ;
+    bulba:jpname "てつのトゲ" ;
+    bulba:jptrans "Iron Thorns" ;
+    bulba:jptranslit "Tetsu no Toge" ;
+    bulba:name "Iron Barbs" .
+
+bulba:Iron_Fist_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fighting" ;
+    bulba:gen "IV" ;
+    bulba:jpname "てつのこぶし" ;
+    bulba:jptrans "Iron Fist" ;
+    bulba:jptranslit "Tetsu no Kobushi" ;
+    bulba:name "Iron Fist" .
+
+bulba:Justified_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Fighting" ;
+    bulba:gen "V" ;
+    bulba:jpname "せいぎのこころ" ;
+    bulba:jptrans "Heart of Justice" ;
+    bulba:jptranslit "Seigi no Kokoro" ;
+    bulba:name "Justified" .
+
+bulba:Keen_Eye_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "flying" ;
+    bulba:gen "III" ;
+    bulba:jpname "するどいめ" ;
+    bulba:jptrans "Keen Eye" ;
+    bulba:jptranslit "Surudoi Me" ;
+    bulba:name "Keen Eye" .
+
+bulba:Klutz_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "items" ;
+    bulba:gen "IV" ;
+    bulba:jpname "ぶきよう" ;
+    bulba:jptrans "Clumsy" ;
+    bulba:jptranslit "Bukiyō" ;
+    bulba:name "Klutz" .
+
+bulba:Leaf_Guard_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "grass" ;
+    bulba:gen "IV" ;
+    bulba:jpname "リーフガード" ;
+    bulba:jptrans "Leaf Guard" ;
+    bulba:jptranslit "Rīfu Gādo" ;
+    bulba:name "Leaf Guard" .
+
+bulba:Levitate_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "flying" ;
+    bulba:gen "III" ;
+    bulba:jpname "ふゆう" ;
+    bulba:jptrans "Floating" ;
+    bulba:jptranslit "Fuyū" ;
+    bulba:name "Levitate" .
+
+bulba:Libero_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Fire" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "<span style=\"color:#FFF\">リベロ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Libero</span>" ;
+    bulba:jptranslit "Ribero" ;
+    bulba:name "<span style=\"color:#FFF\">Libero</span>" .
+
+bulba:Light_Metal_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "steel" ;
+    bulba:gen "V" ;
+    bulba:jpname "ライトメタル" ;
+    bulba:jptrans "Light Metal" ;
+    bulba:jptranslit "Raito Metaru" ;
+    bulba:name "Light Metal" .
+
+bulba:Lightning_Rod_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "electric" ;
+    bulba:gen "III" ;
+    bulba:jpname "ひらいしん" ;
+    bulba:jptrans "Lightning Rod" ;
+    bulba:jptranslit "Hiraishin" ;
+    bulba:name "Lightning Rod" .
+
+bulba:Limber_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Electric" ;
+    bulba:gen "III" ;
+    bulba:jpname "じゅうなん" ;
+    bulba:jptrans "Flexible" ;
+    bulba:jptranslit "Jūnan" ;
+    bulba:name "Limber" .
+
+bulba:Lingering_Aroma_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "IX" ;
+    bulba:jpname "とれないにおい" ;
+    bulba:jptrans "Lingering Scent" ;
+    bulba:jptranslit "Torenai Nioi" ;
+    bulba:name "Lingering Aroma" .
+
+bulba:Liquid_Ooze_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "poison" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">ヘドロえき</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Oozing Liquid</span>" ;
+    bulba:jptranslit "Hedoro Eki" ;
+    bulba:name "<span style=\"color:#FFF\">Liquid Ooze</span>" .
+
+bulba:Liquid_Voice_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "VII" ;
+    bulba:jpname "うるおいボイス" ;
+    bulba:jptrans "Moist Voice" ;
+    bulba:jptranslit "Uruoi Boisu" ;
+    bulba:name "Liquid Voice" .
+
+bulba:Long_Reach_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "special" ;
+    bulba:gen "VII" ;
+    bulba:jpname "<span style=\"color:#FFF\">えんかく</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Distant</span>" ;
+    bulba:jptranslit "Enkaku" ;
+    bulba:name "<span style=\"color:#FFF\">Long Reach</span>" .
+
+bulba:Magic_Bounce_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "psychic" ;
+    bulba:gen "V" ;
+    bulba:jpname "マジックミラー" ;
+    bulba:jptrans "Magic Mirror" ;
+    bulba:jptranslit "Majikku Mirā" ;
+    bulba:name "Magic Bounce" .
+
+bulba:Magic_Guard_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "psychic" ;
+    bulba:gen "IV" ;
+    bulba:jpname "マジックガード" ;
+    bulba:jptrans "Magic Guard" ;
+    bulba:jptranslit "Majikku Gādo" ;
+    bulba:name "Magic Guard" .
+
+bulba:Magician_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "psychic" ;
+    bulba:gen "VI" ;
+    bulba:jpname "マジシャン" ;
+    bulba:jptrans "Magician" ;
+    bulba:jptranslit "Majishan" ;
+    bulba:name "Magician" .
+
+bulba:Magma_Armor_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fire" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">マグマのよろい</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Magma Armor</span>" ;
+    bulba:jptranslit "Maguma no Yoroi" ;
+    bulba:name "<span style=\"color:#FFF\">Magma Armor</span>" .
+
+bulba:Magnet_Pull_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "steel" ;
+    bulba:gen "III" ;
+    bulba:jpname "じりょく" ;
+    bulba:jptrans "Magnetism" ;
+    bulba:jptranslit "Jiryoku" ;
+    bulba:name "Magnet Pull" .
+
+bulba:Marvel_Scale_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "defense" ;
+    bulba:gen "III" ;
+    bulba:jpname "ふしぎなうろこ" ;
+    bulba:jptrans "Marvelous Scale" ;
+    bulba:jptranslit "Fushigina Uroko" ;
+    bulba:name "Marvel Scale" .
+
+bulba:Mega_Launcher_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Special" ;
+    bulba:gen "VI" ;
+    bulba:jpname "<span style=\"color:#FFF\">メガランチャー</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Mega Launcher</span>" ;
+    bulba:jptranslit "Mega Ranchā" ;
+    bulba:name "<span style=\"color:#FFF\">Mega Launcher</span>" .
+
+bulba:Merciless_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "poison" ;
+    bulba:gen "VII" ;
+    bulba:jpname "<span style=\"color:#FFF\">ひとでなし</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Brute</span>" ;
+    bulba:jptranslit "Hitodenashi" ;
+    bulba:name "<span style=\"color:#FFF\">Merciless</span>" .
+
+bulba:Mimicry_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "arceus" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "ぎたい" ;
+    bulba:jptrans "Mimicry" ;
+    bulba:jptranslit "Gitai" ;
+    bulba:name "Mimicry" .
+
+bulba:Mind%27s_Eye_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "IX" ;
+    bulba:jpname "しんがん" ;
+    bulba:jptrans "Mind's Eye" ;
+    bulba:jptranslit "Shingan" ;
+    bulba:name "Mind's Eye" .
+
+bulba:Minus_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "special attack" ;
+    bulba:gen "III" ;
+    bulba:jpname "マイナス" ;
+    bulba:jptrans "Minus" ;
+    bulba:jptranslit "Mainasu" ;
+    bulba:name "Minus" .
+
+bulba:Mirror_Armor_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "steel" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "ミラーアーマー" ;
+    bulba:jptrans "Mirror Armor" ;
+    bulba:jptranslit "Mirā Āmā" ;
+    bulba:name "Mirror Armor" .
+
+bulba:Misty_Surge_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Fairy" ;
+    bulba:gen "VII" ;
+    bulba:jpname "ミストメイカー" ;
+    bulba:jptrans "Mist Maker" ;
+    bulba:jptranslit "Misuto Meikā" ;
+    bulba:name "Misty Surge" .
+
+bulba:Mold_Breaker_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "rock" ;
+    bulba:gen "IV" ;
+    bulba:jpname "かたやぶり" ;
+    bulba:jptrans "Mold-Breaking" ;
+    bulba:jptranslit "Katayaburi" ;
+    bulba:name "Mold Breaker" .
+
+bulba:Moody_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "V" ;
+    bulba:jpname "ムラっけ" ;
+    bulba:jptrans "Caprice" ;
+    bulba:jptranslit "Murakke" ;
+    bulba:name "Moody" .
+
+bulba:Motor_Drive_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "electric" ;
+    bulba:gen "IV" ;
+    bulba:jpname "でんきエンジン" ;
+    bulba:jptrans "Electric Engine" ;
+    bulba:jptranslit "Denki Enjin" ;
+    bulba:name "Motor Drive" .
+
+bulba:Moxie_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "attack" ;
+    bulba:gen "V" ;
+    bulba:jpname "じしんかじょう" ;
+    bulba:jptrans "Overconfident" ;
+    bulba:jptranslit "Jishinkajō" ;
+    bulba:name "Moxie" .
+
+bulba:Multiscale_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Flying" ;
+    bulba:gen "V" ;
+    bulba:jpname "マルチスケイル" ;
+    bulba:jptrans "Multiscale" ;
+    bulba:jptranslit "Maruchisukeiru" ;
+    bulba:name "Multiscale" .
+
+bulba:Multitype_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Normal" ;
+    bulba:gen "IV" ;
+    bulba:jpname "マルチタイプ" ;
+    bulba:jptrans "Multitype" ;
+    bulba:jptranslit "Maruchitaipu" ;
+    bulba:name "Multitype" .
+
+bulba:Mummy_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ghost" ;
+    bulba:gen "V" ;
+    bulba:jpname "<span style=\"color:#FFF\">ミイラ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Mummy</span>" ;
+    bulba:jptranslit "Miira" ;
+    bulba:name "<span style=\"color:#FFF\">Mummy</span>" .
+
+bulba:Mycelium_Might_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "status" ;
+    bulba:gen "IX" ;
+    bulba:jpname "きんしのちから" ;
+    bulba:jptrans "Hyphal Power" ;
+    bulba:jptranslit "Kinshi no Chikara" ;
+    bulba:name "Mycelium Might" .
+
+bulba:Natural_Cure_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "status" ;
+    bulba:gen "III" ;
+    bulba:jpname "しぜんかいふく" ;
+    bulba:jptrans "Natural Recovery" ;
+    bulba:jptranslit "Shizen Kaifuku" ;
+    bulba:name "Natural Cure" .
+
+bulba:Neuroforce_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "psychic" ;
+    bulba:gen "VII" ;
+    bulba:jpname "ブレインフォース" ;
+    bulba:jptrans "Brain Force" ;
+    bulba:jptranslit "Burein Fōsu" ;
+    bulba:name "Neuroforce" .
+
+bulba:Neutralizing_Gas_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "poison" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "<span style=\"color:#FFF\">かがくへんかガス</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Chemical Change Gas</span>" ;
+    bulba:jptranslit "Kagaku Henka Gasu" ;
+    bulba:name "<span style=\"color:#FFF\">Neutralizing Gas</span>" .
+
+bulba:No_Guard_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fighting" ;
+    bulba:gen "IV" ;
+    bulba:jpname "ノーガード" ;
+    bulba:jptrans "No Guard" ;
+    bulba:jptranslit "Nō Gādo" ;
+    bulba:name "No Guard" .
+
+bulba:Normalize_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "IV" ;
+    bulba:jpname "ノーマルスキン" ;
+    bulba:jptrans "Normal Skin" ;
+    bulba:jptranslit "Nōmaru Sukin" ;
+    bulba:name "Normalize" .
+
+bulba:Oblivious_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "psychic" ;
+    bulba:gen "III" ;
+    bulba:jpname "どんかん" ;
+    bulba:jptrans "Thickheaded" ;
+    bulba:jptranslit "Donkan" ;
+    bulba:name "Oblivious" .
+
+bulba:Opportunist_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "psychic" ;
+    bulba:gen "IX" ;
+    bulba:jpname "びんじょう" ;
+    bulba:jptrans "Opportunist" ;
+    bulba:jptranslit "Binjō" ;
+    bulba:name "Opportunist" .
+
+bulba:Orichalcum_Pulse_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Scarlet" ;
+    bulba:gen "IX" ;
+    bulba:jpname "<span style=\"color:#FFF\">ひひいろのこどう</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Scarlet Pulse</span>" ;
+    bulba:jptranslit "Hihi'iro no Kodō" ;
+    bulba:name "<span style=\"color:#FFF\">Orichalcum Pulse</span>" .
+
+bulba:Overcoat_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "bug" ;
+    bulba:gen "V" ;
+    bulba:jpname "ぼうじん" ;
+    bulba:jptrans "Dustproof" ;
+    bulba:jptranslit "Bōjin" ;
+    bulba:name "Overcoat" .
+
+bulba:Overgrow_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "grass" ;
+    bulba:gen "III" ;
+    bulba:jpname "しんりょく" ;
+    bulba:jptrans "Fresh Greenery" ;
+    bulba:jptranslit "Shinryoku" ;
+    bulba:name "Overgrow" .
+
+bulba:Own_Tempo_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "psychic" ;
+    bulba:gen "III" ;
+    bulba:jpname "マイペース" ;
+    bulba:jptrans "My Pace" ;
+    bulba:jptranslit "Mai Pēsu" ;
+    bulba:name "Own Tempo" .
+
+bulba:Parental_Bond_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "VI" ;
+    bulba:jpname "おやこあい" ;
+    bulba:jptrans "Parent-Child Love" ;
+    bulba:jptranslit "Oyako Ai" ;
+    bulba:name "Parental Bond" .
+
+bulba:Pastel_Veil_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "psychic" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "パステルベール" ;
+    bulba:jptrans "Pastel Veil" ;
+    bulba:jptranslit "Pasuteru Bēru" ;
+    bulba:name "Pastel Veil" .
+
+bulba:Perish_Body_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Ghost" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "<span style=\"color:#FFF\">ほろびのボディ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Perish Body</span>" ;
+    bulba:jptranslit "Horobi no Body" ;
+    bulba:name "<span style=\"color:#FFF\">Perish Body</span>" .
+
+bulba:Pickpocket_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "dark" ;
+    bulba:gen "V" ;
+    bulba:jpname "<span style=\"color:#FFF\">わるいてぐせ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Bad Habit</span>" ;
+    bulba:jptranslit "Warui Teguse" ;
+    bulba:name "<span style=\"color:#FFF\">Pickpocket</span>" .
+
+bulba:Pickup_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "items" ;
+    bulba:gen "III" ;
+    bulba:jpname "ものひろい" ;
+    bulba:jptrans "Pickup" ;
+    bulba:jptranslit "Monohiroi" ;
+    bulba:name "Pickup" .
+
+bulba:Pixilate_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fairy" ;
+    bulba:gen "VI" ;
+    bulba:jpname "フェアリースキン" ;
+    bulba:jptrans "Fairy Skin" ;
+    bulba:jptranslit "Fearī Sukin" ;
+    bulba:name "Pixilate" .
+
+bulba:Plus_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Special Attack" ;
+    bulba:gen "III" ;
+    bulba:jpname "プラス" ;
+    bulba:jptrans "Plus" ;
+    bulba:jptranslit "Purasu" ;
+    bulba:name "Plus" .
+
+bulba:Poison_Heal_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "poison" ;
+    bulba:gen "IV" ;
+    bulba:jpname "<span style=\"color:#FFF\">ポイズンヒール</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Poison Heal</span>" ;
+    bulba:jptranslit "Poizun Hīru" ;
+    bulba:name "<span style=\"color:#FFF\">Poison Heal</span>" .
+
+bulba:Poison_Point_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "poison" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">どくのトゲ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Poison Spine</span>" ;
+    bulba:jptranslit "Doku no Toge" ;
+    bulba:name "<span style=\"color:#FFF\">Poison Point</span>" .
+
+bulba:Poison_Puppeteer_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Poison" ;
+    bulba:gen "IX" ;
+    bulba:jpname "<span style=\"color:#FFF\">どくくぐつ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Poison Puppeteer</span>" ;
+    bulba:jptranslit "Doku Kugutsu" ;
+    bulba:name "<span style=\"color:#FFF\">Poison Puppeteer</span>" .
+
+bulba:Poison_Touch_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "poison" ;
+    bulba:gen "V" ;
+    bulba:jpname "<span style=\"color:#FFF\">どくしゅ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Underhanded Trick</span>" ;
+    bulba:jptranslit "Dokushu" ;
+    bulba:name "<span style=\"color:#FFF\">Poison Touch</span>" .
+
+bulba:Power_Construct_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Dragon" ;
+    bulba:gen "VII" ;
+    bulba:jpname "<span style=\"color:#FFF\">スワームチェンジ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Swarm Change</span>" ;
+    bulba:jptranslit "Suwāmu Chenji" ;
+    bulba:name "<span style=\"color:#FFF\">Power Construct</span>" .
+
+bulba:Power_Spot_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Rock" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "パワースポット" ;
+    bulba:jptrans "Power Spot" ;
+    bulba:jptranslit "Pawā Supotto" ;
+    bulba:name "Power Spot" .
+
+bulba:Power_of_Alchemy_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Status" ;
+    bulba:gen "VII" ;
+    bulba:jpname "かがくのちから" ;
+    bulba:jptrans "Power of Chemistry" ;
+    bulba:jptranslit "Kagaku no Chikara" ;
+    bulba:name "Power of Alchemy" .
+
+bulba:Prankster_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "status" ;
+    bulba:gen "V" ;
+    bulba:jpname "いたずらごころ" ;
+    bulba:jptrans "Prank Desire" ;
+    bulba:jptranslit "Itazuragokoro" ;
+    bulba:name "Prankster" .
+
+bulba:Pressure_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "dragon" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">プレッシャー</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Pressure</span>" ;
+    bulba:jptranslit "Puresshā" ;
+    bulba:name "<span style=\"color:#FFF\">Pressure</span>" .
+
+bulba:Primordial_Sea_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "VI" ;
+    bulba:jpname "はじまりのうみ" ;
+    bulba:jptrans "Sea of the Beginning" ;
+    bulba:jptranslit "Hajimari no Umi" ;
+    bulba:name "Primordial Sea" .
+
+bulba:Prism_Armor_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "psychic" ;
+    bulba:gen "VII" ;
+    bulba:jpname "プリズムアーマー" ;
+    bulba:jptrans "Prism Armor" ;
+    bulba:jptranslit "Purizumu Āmā" ;
+    bulba:name "Prism Armor" .
+
+bulba:Propeller_Tail_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Water" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "スクリューおびれ" ;
+    bulba:jptrans "Screw Tailfin" ;
+    bulba:jptranslit "Sukuryū Obire" ;
+    bulba:name "Propeller Tail" .
+
+bulba:Protean_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "arceus" ;
+    bulba:gen "VI" ;
+    bulba:jpname "へんげんじざい" ;
+    bulba:jptrans "Protean" ;
+    bulba:jptranslit "Hengen Jizai" ;
+    bulba:name "Protean" .
+
+bulba:Protosynthesis_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Fire" ;
+    bulba:gen "IX" ;
+    bulba:jpname "<span style=\"color:#FFF\">こだいかっせい</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Ancient Activation</span>" ;
+    bulba:jptranslit "Kodaikassei" ;
+    bulba:name "<span style=\"color:#FFF\">Protosynthesis</span>" .
+
+bulba:Psychic_Surge_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Psychic" ;
+    bulba:gen "VII" ;
+    bulba:jpname "サイコメイカー" ;
+    bulba:jptrans "Psycho Maker" ;
+    bulba:jptranslit "Saiko Meikā" ;
+    bulba:name "Psychic Surge" .
+
+bulba:Punk_Rock_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "electric" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "パンクロック" ;
+    bulba:jptrans "Punk Rock" ;
+    bulba:jptranslit "Panku Rokku" ;
+    bulba:name "Punk Rock" .
+
+bulba:Pure_Power_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "attack" ;
+    bulba:gen "III" ;
+    bulba:jpname "ヨガパワー" ;
+    bulba:jptrans "Yoga Power" ;
+    bulba:jptranslit "Yoga Pawā" ;
+    bulba:name "Pure Power" .
+
+bulba:Purifying_Salt_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "white" ;
+    bulba:gen "IX" ;
+    bulba:jpname "きよめのしお" ;
+    bulba:jptrans "Purifying Salt" ;
+    bulba:jptranslit "Kiyome no Shio" ;
+    bulba:name "Purifying Salt" .
+
+bulba:Quark_Drive_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Electric" ;
+    bulba:gen "IX" ;
+    bulba:jpname "クォークチャージ" ;
+    bulba:jptrans "Quark Charge" ;
+    bulba:jptranslit "Kwōku Chāji" ;
+    bulba:name "Quark Drive" .
+
+bulba:Queenly_Majesty_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Grass" ;
+    bulba:gen "VII" ;
+    bulba:jpname "じょおうのいげん" ;
+    bulba:jptrans "Queen's Majesty" ;
+    bulba:jptranslit "Joō no Igen" ;
+    bulba:name "Queenly Majesty" .
+
+bulba:Quick_Draw_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "poison" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "<span style=\"color:#FFF\">クイックドロウ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Quick Draw</span>" ;
+    bulba:jptranslit "Kuikku Dorō" ;
+    bulba:name "<span style=\"color:#FFF\">Quick Draw</span>" .
+
+bulba:Quick_Feet_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "speed" ;
+    bulba:gen "IV" ;
+    bulba:jpname "<span style=\"color:#FFF\">はやあし</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Quick Feet</span>" ;
+    bulba:jptranslit "Haya'ashi" ;
+    bulba:name "<span style=\"color:#FFF\">Quick Feet</span>" .
+
+bulba:RKS_System_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Normal" ;
+    bulba:gen "VII" ;
+    bulba:jpname "ＡＲシステム" ;
+    bulba:jptrans "AR System" ;
+    bulba:jptranslit "AR Shisutemu" ;
+    bulba:name "RKS System" .
+
+bulba:Rain_Dish_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "III" ;
+    bulba:jpname "あめうけざら" ;
+    bulba:jptrans "Rain Saucer" ;
+    bulba:jptranslit "Ameukezara" ;
+    bulba:name "Rain Dish" .
+
+bulba:Rattled_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "V" ;
+    bulba:jpname "びびり" ;
+    bulba:jptrans "Jitter" ;
+    bulba:jptranslit "Bibiri" ;
+    bulba:name "Rattled" .
+
+bulba:Receiver_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Status" ;
+    bulba:gen "VII" ;
+    bulba:jpname "レシーバー" ;
+    bulba:jptrans "Receiver" ;
+    bulba:jptranslit "Reshībā" ;
+    bulba:name "Receiver" .
+
+bulba:Reckless_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "physical" ;
+    bulba:gen "IV" ;
+    bulba:jpname "すてみ" ;
+    bulba:jptrans "Life-Risking" ;
+    bulba:jptranslit "Sutemi" ;
+    bulba:name "Reckless" .
+
+bulba:Refrigerate_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ice" ;
+    bulba:gen "VI" ;
+    bulba:jpname "フリーズスキン" ;
+    bulba:jptrans "Freeze Skin" ;
+    bulba:jptranslit "Furīzu Sukin" ;
+    bulba:name "Refrigerate" .
+
+bulba:Regenerator_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "HP" ;
+    bulba:gen "V" ;
+    bulba:jpname "さいせいりょく" ;
+    bulba:jptrans "Regenerative Power" ;
+    bulba:jptranslit "Saisei Ryoku" ;
+    bulba:name "Regenerator" .
+
+bulba:Ripen_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Berries" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "じゅくせい" ;
+    bulba:jptrans "Ripen" ;
+    bulba:jptranslit "Jukusei" ;
+    bulba:name "Ripen" .
+
+bulba:Rivalry_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "dragon" ;
+    bulba:gen "IV" ;
+    bulba:jpname "<span style=\"color:#FFF\">とうそうしん</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Belligerence</span>" ;
+    bulba:jptranslit "Tōsōshin" ;
+    bulba:name "<span style=\"color:#FFF\">Rivalry</span>" .
+
+bulba:Rock_Head_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "rock" ;
+    bulba:gen "III" ;
+    bulba:jpname "いしあたま" ;
+    bulba:jptrans "Rock Head" ;
+    bulba:jptranslit "Ishi Atama" ;
+    bulba:name "Rock Head" .
+
+bulba:Rocky_Payload_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "rock" ;
+    bulba:gen "IX" ;
+    bulba:jpname "いわはこび" ;
+    bulba:jptrans "Rock Transport" ;
+    bulba:jptranslit "Iwahakobi" ;
+    bulba:name "Rocky Payload" .
+
+bulba:Rough_Skin_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "dragon" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">さめはだ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Rough Skin</span>" ;
+    bulba:jptranslit "Samehada" ;
+    bulba:name "<span style=\"color:#FFF\">Rough Skin</span>" .
+
+bulba:Run_Away_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "III" ;
+    bulba:jpname "にげあし" ;
+    bulba:jptrans "Run Away" ;
+    bulba:jptranslit "Nigeashi" ;
+    bulba:name "Run Away" .
+
+bulba:Sand_Force_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Ground" ;
+    bulba:gen "V" ;
+    bulba:jpname "<span style=\"color:#FFF\">すなのちから</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Sand Force</span>" ;
+    bulba:jptranslit "Suna no Chikara" ;
+    bulba:name "<span style=\"color:#FFF\">Sand Force</span>" .
+
+bulba:Sand_Rush_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Ground" ;
+    bulba:gen "V" ;
+    bulba:jpname "<span style=\"color:#FFF\">すなかき</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Sand Paddle</span>" ;
+    bulba:jptranslit "Sunakaki" ;
+    bulba:name "<span style=\"color:#FFF\">Sand Rush</span>" .
+
+bulba:Sand_Spit_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Ground" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "<span style=\"color:#FFF\">すなはき</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Sand Spit</span>" ;
+    bulba:jptranslit "Sunahaki" ;
+    bulba:name "<span style=\"color:#FFF\">Sand Spit</span>" .
+
+bulba:Sand_Stream_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ground" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">すなおこし</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Sand Raising</span>" ;
+    bulba:jptranslit "Suna Okoshi" ;
+    bulba:name "<span style=\"color:#FFF\">Sand Stream</span>" .
+
+bulba:Sand_Veil_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ground" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">すながくれ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Hidden in Sand</span>" ;
+    bulba:jptranslit "Suna Gakure" ;
+    bulba:name "<span style=\"color:#FFF\">Sand Veil</span>" .
+
+bulba:Sap_Sipper_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "grass" ;
+    bulba:gen "V" ;
+    bulba:jpname "そうしょく" ;
+    bulba:jptrans "Herbivorous" ;
+    bulba:jptranslit "Sōshoku" ;
+    bulba:name "Sap Sipper" .
+
+bulba:Schooling_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Water" ;
+    bulba:gen "VII" ;
+    bulba:jpname "ぎょぐん" ;
+    bulba:jptrans "Schooling" ;
+    bulba:jptranslit "Gyogun" ;
+    bulba:name "Schooling" .
+
+bulba:Scrappy_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "IV" ;
+    bulba:jpname "きもったま" ;
+    bulba:jptrans "Spunk" ;
+    bulba:jptranslit "Kimottama" ;
+    bulba:name "Scrappy" .
+
+bulba:Screen_Cleaner_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Psychic" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "バリアフリー" ;
+    bulba:jptrans "Barrier-Free" ;
+    bulba:jptranslit "Baria Furī" ;
+    bulba:name "Screen Cleaner" .
+
+bulba:Seed_Sower_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Grass" ;
+    bulba:gen "IX" ;
+    bulba:jpname "こぼれダネ" ;
+    bulba:jptrans "Self-Sowing Seeds" ;
+    bulba:jptranslit "Koboredane" ;
+    bulba:name "Seed Sower" .
+
+bulba:Serene_Grace_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "III" ;
+    bulba:jpname "てんのめぐみ" ;
+    bulba:jptrans "Heavenly Blessing" ;
+    bulba:jptranslit "Ten no Megumi" ;
+    bulba:name "Serene Grace" .
+
+bulba:Shadow_Shield_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Ghost" ;
+    bulba:gen "VII" ;
+    bulba:jpname "<span style=\"color:#FFF\">ファントムガード</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Phantom Guard</span>" ;
+    bulba:jptranslit "Fantomu Gādo" ;
+    bulba:name "<span style=\"color:#FFF\">Shadow Shield</span>" .
+
+bulba:Shadow_Tag_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ghost" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">かげふみ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Stepping on Shadows</span>" ;
+    bulba:jptranslit "Kage Fumi" ;
+    bulba:name "<span style=\"color:#FFF\">Shadow Tag</span>" .
+
+bulba:Sharpness_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Attack" ;
+    bulba:gen "IX" ;
+    bulba:jpname "きれあじ" ;
+    bulba:jptrans "Sharpness" ;
+    bulba:jptranslit "Kireaji" ;
+    bulba:name "Sharpness" .
+
+bulba:Shed_Skin_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Bug" ;
+    bulba:gen "III" ;
+    bulba:jpname "だっぴ" ;
+    bulba:jptrans "Shed Skin" ;
+    bulba:jptranslit "Dappi" ;
+    bulba:name "Shed Skin" .
+
+bulba:Sheer_Force_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Fighting" ;
+    bulba:gen "V" ;
+    bulba:jpname "ちからずく" ;
+    bulba:jptrans "Sheer Force" ;
+    bulba:jptranslit "Chikarazuku" ;
+    bulba:name "Sheer Force" .
+
+bulba:Shell_Armor_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "III" ;
+    bulba:jpname "シェルアーマー" ;
+    bulba:jptrans "Shell Armor" ;
+    bulba:jptranslit "Sheru Āmā" ;
+    bulba:name "Shell Armor" .
+
+bulba:Shield_Dust_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "bug" ;
+    bulba:gen "III" ;
+    bulba:jpname "りんぷん" ;
+    bulba:jptrans "Scales" ;
+    bulba:jptranslit "Rinpun" ;
+    bulba:name "Shield Dust" .
+
+bulba:Shields_Down_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Rock" ;
+    bulba:gen "VII" ;
+    bulba:jpname "リミットシールド" ;
+    bulba:jptrans "Limit Shield" ;
+    bulba:jptranslit "Rimitto Shīrudo" ;
+    bulba:name "Shields Down" .
+
+bulba:Simple_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "IV" ;
+    bulba:jpname "たんじゅん" ;
+    bulba:jptrans "Simple" ;
+    bulba:jptranslit "Tanjun" ;
+    bulba:name "Simple" .
+
+bulba:Skill_Link_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "IV" ;
+    bulba:jpname "スキルリンク" ;
+    bulba:jptrans "Skill Link" ;
+    bulba:jptranslit "Sukiru Rinku" ;
+    bulba:name "Skill Link" .
+
+bulba:Slow_Start_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "IV" ;
+    bulba:jpname "スロースタート" ;
+    bulba:jptrans "Slow Start" ;
+    bulba:jptranslit "Surō Sutāto" ;
+    bulba:name "Slow Start" .
+
+bulba:Slush_Rush_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ice" ;
+    bulba:gen "VII" ;
+    bulba:jpname "ゆきかき" ;
+    bulba:jptrans "Snow Removal" ;
+    bulba:jptranslit "Yuki Kaki" ;
+    bulba:name "Slush Rush" .
+
+bulba:Sniper_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "IV" ;
+    bulba:jpname "スナイパー" ;
+    bulba:jptrans "Sniper" ;
+    bulba:jptranslit "Sunaipā" ;
+    bulba:name "Sniper" .
+
+bulba:Snow_Cloak_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ice" ;
+    bulba:gen "IV" ;
+    bulba:jpname "ゆきがくれ" ;
+    bulba:jptrans "Hidden in the Snow" ;
+    bulba:jptranslit "Yukigakure" ;
+    bulba:name "Snow Cloak" .
+
+bulba:Snow_Warning_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ice" ;
+    bulba:gen "IV" ;
+    bulba:jpname "ゆきふらし" ;
+    bulba:jptrans "Snowfall" ;
+    bulba:jptranslit "Yuki Furashi" ;
+    bulba:name "Snow Warning" .
+
+bulba:Solar_Power_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Fire" ;
+    bulba:gen "IV" ;
+    bulba:jpname "<span style=\"color:#FFF\">サンパワー</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Sun Power</span>" ;
+    bulba:jptranslit "San Pawā" ;
+    bulba:name "<span style=\"color:#FFF\">Solar Power</span>" .
+
+bulba:Solid_Rock_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "rock" ;
+    bulba:gen "IV" ;
+    bulba:jpname "ハードロック" ;
+    bulba:jptrans "Hard Rock" ;
+    bulba:jptranslit "Hādo Rokku" ;
+    bulba:name "Solid Rock" .
+
+bulba:Soul-Heart_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Steel" ;
+    bulba:gen "VII" ;
+    bulba:jpname "ソウルハート" ;
+    bulba:jptrans "Soul-Heart" ;
+    bulba:jptranslit "Sōru Hāto" ;
+    bulba:name "Soul-Heart" .
+
+bulba:Soundproof_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "III" ;
+    bulba:jpname "ぼうおん" ;
+    bulba:jptrans "Soundproof" ;
+    bulba:jptranslit "Bōon" ;
+    bulba:name "Soundproof" .
+
+bulba:Speed_Boost_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "speed" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">かそく</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Speed Up</span>" ;
+    bulba:jptranslit "Kasoku" ;
+    bulba:name "<span style=\"color:#FFF\">Speed Boost</span>" .
+
+bulba:Stakeout_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Normal" ;
+    bulba:gen "VII" ;
+    bulba:jpname "はりこみ" ;
+    bulba:jptrans "Stakeout" ;
+    bulba:jptranslit "Harikomi" ;
+    bulba:name "Stakeout" .
+
+bulba:Stall_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ghost" ;
+    bulba:gen "IV" ;
+    bulba:jpname "<span style=\"color:#FFF\">あとだし</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Going After</span>" ;
+    bulba:jptranslit "Atodashi" ;
+    bulba:name "<span style=\"color:#FFF\">Stall</span>" .
+
+bulba:Stalwart_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Steel" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "すじがねいり" ;
+    bulba:jptrans "Staunch" ;
+    bulba:jptranslit "Suji ga neiri" ;
+    bulba:name "Stalwart" .
+
+bulba:Stamina_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "defense" ;
+    bulba:gen "VII" ;
+    bulba:jpname "じきゅうりょく" ;
+    bulba:jptrans "Stamina" ;
+    bulba:jptranslit "Jikyūryoku" ;
+    bulba:name "Stamina" .
+
+bulba:Stance_Change_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "steel" ;
+    bulba:gen "VI" ;
+    bulba:jpname "バトルスイッチ" ;
+    bulba:jptrans "Battle Switch" ;
+    bulba:jptranslit "Batoru Suitchi" ;
+    bulba:name "Stance Change" .
+
+bulba:Static_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "electric" ;
+    bulba:gen "III" ;
+    bulba:jpname "せいでんき" ;
+    bulba:jptrans "Static Electricity" ;
+    bulba:jptranslit "Seidenki" ;
+    bulba:name "Static" .
+
+bulba:Steadfast_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fighting" ;
+    bulba:gen "IV" ;
+    bulba:jpname "ふくつのこころ" ;
+    bulba:jptrans "Indomitable Heart" ;
+    bulba:jptranslit "Fukutsu no Kokoro" ;
+    bulba:name "Steadfast" .
+
+bulba:Steam_Engine_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "rock" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "じょうききかん" ;
+    bulba:jptrans "Steam Engine" ;
+    bulba:jptranslit "Jōki Kikan" ;
+    bulba:name "Steam Engine" .
+
+bulba:Steelworker_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "steel" ;
+    bulba:gen "VII" ;
+    bulba:jpname "はがねつかい" ;
+    bulba:jptrans "Steelworker" ;
+    bulba:jptranslit "Hagane Tsukai" ;
+    bulba:name "Steelworker" .
+
+bulba:Steely_Spirit_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Steel" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "はがねのせいしん" ;
+    bulba:jptrans "Steely Spirit" ;
+    bulba:jptranslit "Hagane no Seishin" ;
+    bulba:name "Steely Spirit" .
+
+bulba:Stench_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "poison" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">あくしゅう</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Stench</span>" ;
+    bulba:jptranslit "Akushū" ;
+    bulba:name "<span style=\"color:#FFF\">Stench</span>" .
+
+bulba:Sticky_Hold_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "poison" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">ねんちゃく</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Adhesion</span>" ;
+    bulba:jptranslit "Nenchaku" ;
+    bulba:name "<span style=\"color:#FFF\">Sticky Hold</span>" .
+
+bulba:Storm_Drain_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "IV" ;
+    bulba:jpname "よびみず" ;
+    bulba:jptrans "Pump Priming" ;
+    bulba:jptranslit "Yobimizu" ;
+    bulba:name "Storm Drain" .
+
+bulba:Strong_Jaw_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "physical" ;
+    bulba:gen "VI" ;
+    bulba:jpname "<span style=\"color:#FFF\">がんじょうあご</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Strong Jaw</span>" ;
+    bulba:jptranslit "Ganjō Ago" ;
+    bulba:name "<span style=\"color:#FFF\">Strong Jaw</span>" .
+
+bulba:Sturdy_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "rock" ;
+    bulba:gen "III" ;
+    bulba:jpname "がんじょう" ;
+    bulba:jptrans "Sturdy" ;
+    bulba:jptranslit "Ganjō" ;
+    bulba:name "Sturdy" .
+
+bulba:Suction_Cups_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "III" ;
+    bulba:jpname "きゅうばん" ;
+    bulba:jptrans "Suction Cups" ;
+    bulba:jptranslit "Kyūban" ;
+    bulba:name "Suction Cups" .
+
+bulba:Super_Luck_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Flying" ;
+    bulba:gen "IV" ;
+    bulba:jpname "きょううん" ;
+    bulba:jptrans "Good Luck" ;
+    bulba:jptranslit "Kyōun" ;
+    bulba:name "Super Luck" .
+
+bulba:Supersweet_Syrup_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Grass" ;
+    bulba:gen "IX" ;
+    bulba:jpname "かんろなミツ" ;
+    bulba:jptrans "Sweet Nectar" ;
+    bulba:jptranslit "Kanro na Mitsu" ;
+    bulba:name "Supersweet Syrup" .
+
+bulba:Supreme_Overlord_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "attack" ;
+    bulba:gen "IX" ;
+    bulba:jpname "そうだいしょう" ;
+    bulba:jptrans "Supreme Commander" ;
+    bulba:jptranslit "Sōdaishō" ;
+    bulba:name "Supreme Overlord" .
+
+bulba:Surge_Surfer_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Electric" ;
+    bulba:gen "VII" ;
+    bulba:jpname "サーフテール" ;
+    bulba:jptrans "Surf Tail" ;
+    bulba:jptranslit "Sāfu Tēru" ;
+    bulba:name "Surge Surfer" .
+
+bulba:Swarm_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "bug" ;
+    bulba:gen "III" ;
+    bulba:jpname "むしのしらせ" ;
+    bulba:jptrans "Bug Notification" ;
+    bulba:jptranslit "Mushi no Shirase" ;
+    bulba:name "Swarm" .
+
+bulba:Sweet_Veil_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Status" ;
+    bulba:gen "VI" ;
+    bulba:jpname "スイートベール" ;
+    bulba:jptrans "Sweet Veil" ;
+    bulba:jptranslit "Suīto Bēru" ;
+    bulba:name "Sweet Veil" .
+
+bulba:Swift_Swim_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "III" ;
+    bulba:jpname "すいすい" ;
+    bulba:jptrans "Smooth Swim" ;
+    bulba:jptranslit "Suisui" ;
+    bulba:name "Swift Swim" .
+
+bulba:Sword_of_Ruin_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "defense" ;
+    bulba:gen "IX" ;
+    bulba:jpname "わざわいのつるぎ" ;
+    bulba:jptrans "Sword of Ruin" ;
+    bulba:jptranslit "Wazawai no Tsurugi" ;
+    bulba:name "Sword of Ruin" .
+
+bulba:Symbiosis_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "items" ;
+    bulba:gen "VI" ;
+    bulba:jpname "きょうせい" ;
+    bulba:jptrans "Symbiosis" ;
+    bulba:jptranslit "Kyōsei" ;
+    bulba:name "Symbiosis" .
+
+bulba:Synchronize_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "psychic" ;
+    bulba:gen "III" ;
+    bulba:jpname "シンクロ" ;
+    bulba:jptrans "Synchro" ;
+    bulba:jptranslit "Shinkuro" ;
+    bulba:name "Synchronize" .
+
+bulba:Tablets_of_Ruin_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "attack" ;
+    bulba:gen "IX" ;
+    bulba:jpname "わざわいのおふだ" ;
+    bulba:jptrans "Talismans of Ruin" ;
+    bulba:jptranslit "Wazawai no Ofuda" ;
+    bulba:name "Tablets of Ruin" .
+
+bulba:Tangled_Feet_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "IV" ;
+    bulba:jpname "ちどりあし" ;
+    bulba:jptrans "Tottering Steps" ;
+    bulba:jptranslit "Chidori Ashi" ;
+    bulba:name "Tangled Feet" .
+
+bulba:Tangling_Hair_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "steel" ;
+    bulba:gen "VII" ;
+    bulba:jpname "カーリーヘアー" ;
+    bulba:jptrans "Curly Hair" ;
+    bulba:jptranslit "Kārī Heā" ;
+    bulba:name "Tangling Hair" .
+
+bulba:Technician_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "IV" ;
+    bulba:jpname "テクニシャン" ;
+    bulba:jptrans "Technician" ;
+    bulba:jptranslit "Tekunishan" ;
+    bulba:name "Technician" .
+
+bulba:Telepathy_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Psychic" ;
+    bulba:gen "V" ;
+    bulba:jpname "テレパシー" ;
+    bulba:jptrans "Telepathy" ;
+    bulba:jptranslit "Terepashī" ;
+    bulba:name "Telepathy" .
+
+bulba:Tera_Shell_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Stellar" ;
+    bulba:gen "IX" ;
+    bulba:jpname "<span style=\"color:#FFF\">テラスシェル</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Tera Shell</span>" ;
+    bulba:jptranslit "Terasu Sheru" ;
+    bulba:name "<span style=\"color:#FFF\">Tera Shell</span>" .
+
+bulba:Tera_Shift_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Stellar" ;
+    bulba:gen "IX" ;
+    bulba:jpname "<span style=\"color:#FFF\">テラスチェンジ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Tera Change</span>" ;
+    bulba:jptranslit "Terasu Chenji" ;
+    bulba:name "<span style=\"color:#FFF\">Tera Shift</span>" .
+
+bulba:Teraform_Zero_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Stellar" ;
+    bulba:gen "IX" ;
+    bulba:jpname "ゼロフォーミング" ;
+    bulba:jptrans "Zero-Forming" ;
+    bulba:jptranslit "Zero-Fōmingu" ;
+    bulba:name "Teraform Zero" .
+
+bulba:Teravolt_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Electric" ;
+    bulba:gen "V" ;
+    bulba:jpname "テラボルテージ" ;
+    bulba:jptrans "Teravoltage" ;
+    bulba:jptranslit "Teraborutēji" ;
+    bulba:name "Teravolt" .
+
+bulba:Thermal_Exchange_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Ice" ;
+    bulba:gen "IX" ;
+    bulba:jpname "ねつこうかん" ;
+    bulba:jptrans "Thermal Exchange" ;
+    bulba:jptranslit "Netsu Kōkan" ;
+    bulba:name "Thermal Exchange" .
+
+bulba:Thick_Fat_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fire" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">あついしぼう</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Thick Fat</span>" ;
+    bulba:jptranslit "Atsui Shibō" ;
+    bulba:name "<span style=\"color:#FFF\">Thick Fat</span>" .
+
+bulba:Tinted_Lens_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "bug" ;
+    bulba:gen "IV" ;
+    bulba:jpname "いろめがね" ;
+    bulba:jptrans "Tinted Glasses" ;
+    bulba:jptranslit "Iromegane" ;
+    bulba:name "Tinted Lens" .
+
+bulba:Torrent_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "III" ;
+    bulba:jpname "げきりゅう" ;
+    bulba:jptrans "Raging Rapids" ;
+    bulba:jptranslit "Gekiryū" ;
+    bulba:name "Torrent" .
+
+bulba:Tough_Claws_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Physical" ;
+    bulba:gen "VI" ;
+    bulba:jpname "<span style=\"color:#FFF\">かたいツメ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Tough Claws</span>" ;
+    bulba:jptranslit "Katai Tsume" ;
+    bulba:name "<span style=\"color:#FFF\">Tough Claws</span>" .
+
+bulba:Toxic_Boost_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "poison" ;
+    bulba:gen "V" ;
+    bulba:jpname "<span style=\"color:#FFF\">どくぼうそう </span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Poison Rampage</span>" ;
+    bulba:jptranslit "Doku Bōsō" ;
+    bulba:name "<span style=\"color:#FFF\">Toxic Boost</span>" .
+
+bulba:Toxic_Chain_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "poison" ;
+    bulba:gen "IX" ;
+    bulba:jpname "<span style=\"color:#FFF\">どくのくさり</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Toxic Chain</span>" ;
+    bulba:jptranslit "Doku no Kusari" ;
+    bulba:name "<span style=\"color:#FFF\">Toxic Chain</span>" .
+
+bulba:Toxic_Debris_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "poison" ;
+    bulba:gen "IX" ;
+    bulba:jpname "<span style=\"color:#FFF\">どくげしょう</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Scattered Poison</span>" ;
+    bulba:jptranslit "Dokugeshō" ;
+    bulba:name "<span style=\"color:#FFF\">Toxic Debris</span>" .
+
+bulba:Trace_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "psychic" ;
+    bulba:gen "III" ;
+    bulba:jpname "トレース" ;
+    bulba:jptrans "Trace" ;
+    bulba:jptranslit "Torēsu" ;
+    bulba:name "Trace" .
+
+bulba:Transistor_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "electric" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "トランジスタ" ;
+    bulba:jptrans "Transistor" ;
+    bulba:jptranslit "Toranjisuta" ;
+    bulba:name "Transistor" .
+
+bulba:Triage_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "HP" ;
+    bulba:gen "VII" ;
+    bulba:jpname "ヒーリングシフト" ;
+    bulba:jptrans "Healing Shift" ;
+    bulba:jptranslit "Hīringu Shifuto" ;
+    bulba:name "Triage" .
+
+bulba:Truant_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "III" ;
+    bulba:jpname "なまけ" ;
+    bulba:jptrans "Lazy" ;
+    bulba:jptranslit "Namake" ;
+    bulba:name "Truant" .
+
+bulba:Turboblaze_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Fire" ;
+    bulba:gen "V" ;
+    bulba:jpname "<span style=\"color:#FFF\">ターボブレイズ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Turboblaze</span>" ;
+    bulba:jptranslit "Tābobureizu" ;
+    bulba:name "<span style=\"color:#FFF\">Turboblaze</span>" .
+
+bulba:Unaware_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "normal" ;
+    bulba:gen "IV" ;
+    bulba:jpname "てんねん" ;
+    bulba:jptrans "Airhead" ;
+    bulba:jptranslit "Ten'nen" ;
+    bulba:name "Unaware" .
+
+bulba:Unburden_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "speed" ;
+    bulba:gen "IV" ;
+    bulba:jpname "<span style=\"color:#FFF\">かるわざ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Acrobatics</span>" ;
+    bulba:jptranslit "Karuwaza" ;
+    bulba:name "<span style=\"color:#FFF\">Unburden</span>" .
+
+bulba:Unnerve_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "berries" ;
+    bulba:gen "V" ;
+    bulba:jpname "きんちょうかん" ;
+    bulba:jptrans "Tension" ;
+    bulba:jptranslit "Kinchōkan" ;
+    bulba:name "Unnerve" .
+
+bulba:Unseen_Fist_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fighting" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "ふかしのこぶし" ;
+    bulba:jptrans "Invisible Fist" ;
+    bulba:jptranslit "Fukashi no Kobushi" ;
+    bulba:name "Unseen Fist" .
+
+bulba:Vessel_of_Ruin_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "special Attack" ;
+    bulba:gen "IX" ;
+    bulba:jpname "わざわいのうつわ" ;
+    bulba:jptrans "Vessel of Ruin" ;
+    bulba:jptranslit "Wazawai no Utsuwa" ;
+    bulba:name "Vessel of Ruin" .
+
+bulba:Victory_Star_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "psychic" ;
+    bulba:gen "V" ;
+    bulba:jpname "しょうりのほし" ;
+    bulba:jptrans "Victory Star" ;
+    bulba:jptranslit "Shōri no Hoshi" ;
+    bulba:name "Victory Star" .
+
+bulba:Vital_Spirit_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "status" ;
+    bulba:gen "III" ;
+    bulba:jpname "やるき" ;
+    bulba:jptrans "Willingness" ;
+    bulba:jptranslit "Yaruki" ;
+    bulba:name "Vital Spirit" .
+
+bulba:Volt_Absorb_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "electric" ;
+    bulba:gen "III" ;
+    bulba:jpname "ちくでん" ;
+    bulba:jptrans "Electricity Storage" ;
+    bulba:jptranslit "Chikuden" ;
+    bulba:name "Volt Absorb" .
+
+bulba:Wandering_Spirit_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ghost" ;
+    bulba:gen "VIII" ;
+    bulba:jpname "<span style=\"color:#FFF\">さまようたましい</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Wandering Spirit</span>" ;
+    bulba:jptranslit "Samayou Tamashii" ;
+    bulba:name "<span style=\"color:#FFF\">Wandering Spirit</span>" .
+
+bulba:Water_Absorb_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "III" ;
+    bulba:jpname "ちょすい" ;
+    bulba:jptrans "Water Storage" ;
+    bulba:jptranslit "Chosui" ;
+    bulba:name "Water Absorb" .
+
+bulba:Water_Bubble_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "VII" ;
+    bulba:jpname "すいほう" ;
+    bulba:jptrans "Water Bubble" ;
+    bulba:jptranslit "Suihō" ;
+    bulba:name "Water Bubble" .
+
+bulba:Water_Compaction_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Ground" ;
+    bulba:gen "VII" ;
+    bulba:jpname "<span style=\"color:#FFF\">みずがため </span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Water Fortifying</span>" ;
+    bulba:jptranslit "Mizu Gatame" ;
+    bulba:name "<span style=\"color:#FFF\">Water Compaction</span>" .
+
+bulba:Water_Veil_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "III" ;
+    bulba:jpname "みずのベール" ;
+    bulba:jptrans "Water Veil" ;
+    bulba:jptranslit "Mizu no Bēru" ;
+    bulba:name "Water Veil" .
+
+bulba:Weak_Armor_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "rock" ;
+    bulba:gen "V" ;
+    bulba:jpname "くだけるよろい" ;
+    bulba:jptrans "Broken Armor" ;
+    bulba:jptranslit "Kudakeru Yoroi" ;
+    bulba:name "Weak Armor" .
+
+bulba:Well-Baked_Body_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fire" ;
+    bulba:gen "IX" ;
+    bulba:jpname "<span style=\"color:#FFF\">こんがりボディ</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Well-Baked Body</span>" ;
+    bulba:jptranslit "Kongari Bodi" ;
+    bulba:name "<span style=\"color:#FFF\">Well-Baked Body</span>" .
+
+bulba:White_Smoke_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "fire" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">しろいけむり</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">White Smoke</span>" ;
+    bulba:jptranslit "Shiroi Kemuri" ;
+    bulba:name "<span style=\"color:#FFF\">White Smoke</span>" .
+
+bulba:Wimp_Out_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Bug" ;
+    bulba:gen "VII" ;
+    bulba:jpname "にげごし" ;
+    bulba:jptrans "Back Off" ;
+    bulba:jptranslit "Nigegoshi" ;
+    bulba:name "Wimp Out" .
+
+bulba:Wind_Power_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Electric" ;
+    bulba:gen "IX" ;
+    bulba:jpname "ふうりょくでんき" ;
+    bulba:jptrans "Wind-Powered Electricity" ;
+    bulba:jptranslit "Fūryoku Denki" ;
+    bulba:name "Wind Power" .
+
+bulba:Wind_Rider_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Flying" ;
+    bulba:gen "IX" ;
+    bulba:jpname "かぜのり" ;
+    bulba:jptrans "Wind Riding" ;
+    bulba:jptranslit "Kazenori" ;
+    bulba:name "Wind Rider" .
+
+bulba:Wonder_Guard_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "ghost" ;
+    bulba:gen "III" ;
+    bulba:jpname "<span style=\"color:#FFF\">ふしぎなまもり</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Mysterious Protection</span>" ;
+    bulba:jptranslit "Fushigina Mamori" ;
+    bulba:name "<span style=\"color:#FFF\">Wonder Guard</span>" .
+
+bulba:Wonder_Skin_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "status" ;
+    bulba:gen "V" ;
+    bulba:jpname "ミラクルスキン" ;
+    bulba:jptrans "Miracle Skin" ;
+    bulba:jptranslit "Mirakuru Sukin" ;
+    bulba:name "Wonder Skin" .
+
+bulba:Zen_Mode_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "Fire" ;
+    bulba:gen "V" ;
+    bulba:jpname "<span style=\"color:#FFF\">ダルマモード</span>" ;
+    bulba:jptrans "<span style=\"color:#FFF\">Daruma Mode</span>" ;
+    bulba:jptranslit "Daruma Mōdo" ;
+    bulba:name "<span style=\"color:#FFF\">Zen Mode</span>" .
+
+bulba:Zero_to_Hero_%28Ability%29 a bulba:Ability,
+        schema1:Thing ;
+    bulba:colorscheme "water" ;
+    bulba:gen "IX" ;
+    bulba:jpname "マイティチェンジ" ;
+    bulba:jptrans "Mighty Change" ;
+    bulba:jptranslit "Maiti Chenji" ;
+    bulba:name "Zero to Hero" .
+

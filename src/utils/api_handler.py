@@ -2,6 +2,8 @@ import requests
 import time
 from tqdm import tqdm
 from src.config import *
+import mwparserfromhell
+
 
 # Handle API requests with retries and throttling
 def make_request(params, retries=3):
@@ -51,7 +53,6 @@ def fetch_page_source(page_title):
 
 # Extract infobox from wikitext
 def extract_infobox(wikitext, template_name):
-    import mwparserfromhell
     wikicode = mwparserfromhell.parse(wikitext)
     templates = wikicode.filter_templates()
     for template in templates:

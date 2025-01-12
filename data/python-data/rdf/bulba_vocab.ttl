@@ -1,0 +1,419 @@
+@prefix bulba: <http://localhost:3030/bulba_vocab#> .
+@prefix ns1: <http://schema.org/> .
+
+bulba:Ability a ns1:Class ;
+    ns1:description "A concept representing abilities in the Pokémon context." ;
+    ns1:name "Ability" .
+
+bulba:Pokemon a ns1:Class ;
+    ns1:description "A concept representing Pokémon creatures" ;
+    ns1:name "Pokémon" .
+
+bulba:ability1 a ns1:Property ;
+    ns1:description "The primary ability associated with the Pokémon." ;
+    ns1:name "Primary Ability" .
+
+bulba:ability1note a ns1:Property ;
+    ns1:description "Additional notes about the Pokémon's primary ability." ;
+    ns1:name "Primary Ability Note" .
+
+bulba:ability2 a ns1:Property ;
+    ns1:description "The secondary ability associated with the Pokémon." ;
+    ns1:name "Secondary Ability" .
+
+bulba:ability2-1 a ns1:Property ;
+    ns1:description "The first variant of the secondary ability." ;
+    ns1:name "Secondary Ability (Variant 1)" .
+
+bulba:ability2-2 a ns1:Property ;
+    ns1:description "The second variant of the secondary ability." ;
+    ns1:name "Secondary Ability (Variant 2)" .
+
+bulba:ability2note a ns1:Property ;
+    ns1:description "Additional notes about the Pokémon's secondary ability." ;
+    ns1:name "Secondary Ability Note" .
+
+bulba:ability3-1 a ns1:Property ;
+    ns1:description "The first variant of the hidden ability associated with the Pokémon." ;
+    ns1:name "Hidden Ability (Variant 1)" .
+
+bulba:ability3-2 a ns1:Property ;
+    ns1:description "The second variant of the hidden ability associated with the Pokémon." ;
+    ns1:name "Hidden Ability (Variant 2)" .
+
+bulba:abilitycol3 a ns1:Property ;
+    ns1:description "Indicates which column the hidden ability is listed in Pokémon tables." ;
+    ns1:name "Hidden Ability Column" .
+
+bulba:abilitycold a ns1:Property ;
+    ns1:description "Indicates the default column for the hidden ability in Pokémon tables." ;
+    ns1:name "Hidden Ability Column (Default)" .
+
+bulba:abilitycolm a ns1:Property ;
+    ns1:description "Indicates the modified column for the hidden ability in Pokémon tables." ;
+    ns1:name "Hidden Ability Column (Modified)" .
+
+bulba:abilityd a ns1:Property ;
+    ns1:description "The default ability associated with the Pokémon." ;
+    ns1:name "Default Ability" .
+
+bulba:abilityd2 a ns1:Property ;
+    ns1:description "An alternate default ability associated with the Pokémon." ;
+    ns1:name "Alternate Default Ability" .
+
+bulba:abilityd2caption a ns1:Property ;
+    ns1:description "Caption describing the Pokémon associated with the alternate default ability." ;
+    ns1:name "Alternate Default Ability Caption" .
+
+bulba:abilitydcaption a ns1:Property ;
+    ns1:description "Caption describing the Pokémon associated with the default ability." ;
+    ns1:name "Default Ability Caption" .
+
+bulba:abilitylayout a ns1:Property ;
+    ns1:description "The layout pattern of abilities in the Pokémon's data table." ;
+    ns1:name "Ability Layout" .
+
+bulba:abilitym a ns1:Property ;
+    ns1:description "The ability associated with the Pokémon in its Mega Evolution form." ;
+    ns1:name "Mega Ability" .
+
+bulba:abilitym2 a ns1:Property ;
+    ns1:description "An alternate ability associated with the Pokémon in its Mega Evolution form." ;
+    ns1:name "Alternate Mega Ability" .
+
+bulba:abilityn a ns1:Property ;
+    ns1:description "A non-standard ability associated with the Pokémon." ;
+    ns1:name "Non-standard Ability" .
+
+bulba:abilityold a ns1:Property ;
+    ns1:description "An ability previously associated with the Pokémon." ;
+    ns1:name "Old Ability" .
+
+bulba:abilityoldcaption a ns1:Property ;
+    ns1:description "Caption describing the Pokémon associated with the old ability." ;
+    ns1:name "Old Ability Caption" .
+
+bulba:body a ns1:Property ;
+    ns1:description "The body style of the Pokémon, typically represented by a numerical code." ;
+    ns1:name "Body Style" .
+
+bulba:catchrate a ns1:Property ;
+    ns1:description "The likelihood of catching the Pokémon, represented as a numerical value." ;
+    ns1:name "Catch Rate" .
+
+bulba:category a ns1:Property ;
+    ns1:description "The Pokémon's category, often reflecting its type or behavior (e.g., Frost Tree Pokémon)." ;
+    ns1:name "Category" .
+
+bulba:color a ns1:Property ;
+    ns1:description "The primary color associated with the Pokémon." ;
+    ns1:name "Color" .
+
+bulba:colorscheme a ns1:Property ;
+    ns1:description "The color scheme associated with a Pokémon ability." ;
+    ns1:name "Color Scheme" .
+
+bulba:eggcycles a ns1:Property ;
+    ns1:description "The number of egg cycles required to hatch the Pokémon." ;
+    ns1:name "Egg Cycles" .
+
+bulba:egggroup1 a ns1:Property ;
+    ns1:description "The primary egg group associated with the Pokémon." ;
+    ns1:name "Primary Egg Group" .
+
+bulba:egggroup1note a ns1:Property ;
+    ns1:description "Additional notes about the primary egg group, including generation details." ;
+    ns1:name "Primary Egg Group Note" .
+
+bulba:egggroup2 a ns1:Property ;
+    ns1:description "The secondary egg group associated with the Pokémon." ;
+    ns1:name "Secondary Egg Group" .
+
+bulba:egggroup2note a ns1:Property ;
+    ns1:description "Additional notes about the secondary egg group, including generation details." ;
+    ns1:name "Secondary Egg Group Note" .
+
+bulba:egggroupn a ns1:Property ;
+    ns1:description "The number of egg groups the Pokémon belongs to." ;
+    ns1:name "Number of Egg Groups" .
+
+bulba:evat a ns1:Property ;
+    ns1:description "The base effort value (EV) yield for Attack when this Pokémon is defeated." ;
+    ns1:name "Attack EV Yield" .
+
+bulba:evat2 a ns1:Property ;
+    ns1:description "A variant of the EV yield for Attack, including generation-specific details." ;
+    ns1:name "Attack EV Yield (Variant 2)" .
+
+bulba:evat3 a ns1:Property ;
+    ns1:description "Another variant of the EV yield for Attack." ;
+    ns1:name "Attack EV Yield (Variant 3)" .
+
+bulba:evde a ns1:Property ;
+    ns1:description "The base effort value (EV) yield for Defense when this Pokémon is defeated." ;
+    ns1:name "Defense EV Yield" .
+
+bulba:evde2 a ns1:Property ;
+    ns1:description "A variant of the EV yield for Defense, including generation-specific details." ;
+    ns1:name "Defense EV Yield (Variant 2)" .
+
+bulba:evforms a ns1:Property ;
+    ns1:description "The number of forms contributing to effort value distribution." ;
+    ns1:name "EV Forms" .
+
+bulba:evhp a ns1:Property ;
+    ns1:description "The base effort value (EV) yield for HP when this Pokémon is defeated." ;
+    ns1:name "HP EV Yield" .
+
+bulba:evhp2 a ns1:Property ;
+    ns1:description "A variant of the EV yield for HP, including generation-specific details." ;
+    ns1:name "HP EV Yield (Variant 2)" .
+
+bulba:evsa a ns1:Property ;
+    ns1:description "The base effort value (EV) yield for Special Attack when this Pokémon is defeated." ;
+    ns1:name "Special Attack EV Yield" .
+
+bulba:evsa2 a ns1:Property ;
+    ns1:description "A variant of the EV yield for Special Attack, including generation-specific details." ;
+    ns1:name "Special Attack EV Yield (Variant 2)" .
+
+bulba:evsd a ns1:Property ;
+    ns1:description "The base effort value (EV) yield for Special Defense when this Pokémon is defeated." ;
+    ns1:name "Special Defense EV Yield" .
+
+bulba:evsd2 a ns1:Property ;
+    ns1:description "A variant of the EV yield for Special Defense, including generation-specific details." ;
+    ns1:name "Special Defense EV Yield (Variant 2)" .
+
+bulba:evsp a ns1:Property ;
+    ns1:description "The base effort value (EV) yield for Speed when this Pokémon is defeated." ;
+    ns1:name "Speed EV Yield" .
+
+bulba:evsp2 a ns1:Property ;
+    ns1:description "A variant of the EV yield for Speed, including generation-specific details." ;
+    ns1:name "Speed EV Yield (Variant 2)" .
+
+bulba:evtotal a ns1:Property ;
+    ns1:description "The total base effort value (EV) yield when this Pokémon is defeated." ;
+    ns1:name "Total EV Yield" .
+
+bulba:expyield a ns1:Property ;
+    ns1:description "The amount of experience points awarded when this Pokémon is defeated." ;
+    ns1:name "Experience Yield" .
+
+bulba:female a ns1:Property ;
+    ns1:description "The percentage chance of this Pokémon being female." ;
+    ns1:name "Female Percentage" .
+
+bulba:foot2 a ns1:Property ;
+    ns1:description "An alternate footprint associated with the Pokémon." ;
+    ns1:name "Alternate Footprint" .
+
+bulba:form a ns1:Property ;
+    ns1:description "The specific form of the Pokémon (e.g., alternate forms or regional variants)." ;
+    ns1:name "Form" .
+
+bulba:form1 a ns1:Property ;
+    ns1:description "The first alternate form of the Pokémon." ;
+    ns1:name "Form 1" .
+
+bulba:form2 a ns1:Property ;
+    ns1:description "The second alternate form of the Pokémon." ;
+    ns1:name "Form 2" .
+
+bulba:form2type1 a ns1:Property ;
+    ns1:description "The primary type of the Pokémon in its second form." ;
+    ns1:name "Form 2 Primary Type" .
+
+bulba:form2type2 a ns1:Property ;
+    ns1:description "The secondary type of the Pokémon in its second form." ;
+    ns1:name "Form 2 Secondary Type" .
+
+bulba:form3 a ns1:Property ;
+    ns1:description "The third alternate form of the Pokémon." ;
+    ns1:name "Form 3" .
+
+bulba:form3type1 a ns1:Property ;
+    ns1:description "The primary type of the Pokémon in its third form." ;
+    ns1:name "Form 3 Primary Type" .
+
+bulba:form3type2 a ns1:Property ;
+    ns1:description "The secondary type of the Pokémon in its third form." ;
+    ns1:name "Form 3 Secondary Type" .
+
+bulba:form4 a ns1:Property ;
+    ns1:description "The fourth alternate form of the Pokémon." ;
+    ns1:name "Form 4" .
+
+bulba:form4type1 a ns1:Property ;
+    ns1:description "The primary type of the Pokémon in its fourth form." ;
+    ns1:name "Form 4 Primary Type" .
+
+bulba:form4type2 a ns1:Property ;
+    ns1:description "The secondary type of the Pokémon in its fourth form." ;
+    ns1:name "Form 4 Secondary Type" .
+
+bulba:form5 a ns1:Property ;
+    ns1:description "The fifth alternate form of the Pokémon." ;
+    ns1:name "Form 5" .
+
+bulba:form5type1 a ns1:Property ;
+    ns1:description "The primary type of the Pokémon in its fifth form." ;
+    ns1:name "Form 5 Primary Type" .
+
+bulba:form5type2 a ns1:Property ;
+    ns1:description "The secondary type of the Pokémon in its fifth form." ;
+    ns1:name "Form 5 Secondary Type" .
+
+bulba:form6 a ns1:Property ;
+    ns1:description "The sixth alternate form of the Pokémon." ;
+    ns1:name "Form 6" .
+
+bulba:form6type1 a ns1:Property ;
+    ns1:description "The primary type of the Pokémon in its sixth form." ;
+    ns1:name "Form 6 Primary Type" .
+
+bulba:form6type2 a ns1:Property ;
+    ns1:description "The secondary type of the Pokémon in its sixth form." ;
+    ns1:name "Form 6 Secondary Type" .
+
+bulba:formbody a ns1:Property ;
+    ns1:description "Whether the Pokémon form has a unique body style." ;
+    ns1:name "Form Body" .
+
+bulba:formcolors a ns1:Property ;
+    ns1:description "Whether the Pokémon form has unique colors." ;
+    ns1:name "Form Colors" .
+
+bulba:forme a ns1:Property ;
+    ns1:description "The number of alternate forms for the Pokémon." ;
+    ns1:name "Form Count" .
+
+bulba:forme1 a ns1:Property ;
+    ns1:description "The name of the Pokémon's first alternate form." ;
+    ns1:name "Form 1 Name" .
+
+bulba:forme2 a ns1:Property ;
+    ns1:description "The name of the Pokémon's second alternate form (e.g., Primal)." ;
+    ns1:name "Form 2 Name" .
+
+bulba:friendship a ns1:Property ;
+    ns1:description "The Pokémon's base friendship value." ;
+    ns1:name "Base Friendship" .
+
+bulba:g4exp a ns1:Property ;
+    ns1:description "The experience yield for the Pokémon in Generation 4." ;
+    ns1:name "Generation 4 Experience" .
+
+bulba:gen a ns1:Property ;
+    ns1:description "The Pokémon generation in which the ability was introduced." ;
+    ns1:name "Generation" .
+
+bulba:gender a ns1:Property ;
+    ns1:description "The gender availability of the Pokémon (e.g., both, male-only, etc.)." ;
+    ns1:name "Gender Availability" .
+
+bulba:gendercode a ns1:Property ;
+    ns1:description "The numerical code representing the Pokémon's gender ratio." ;
+    ns1:name "Gender Code" .
+
+bulba:generation a ns1:Property ;
+    ns1:description "The Pokémon's generation of introduction." ;
+    ns1:name "Generation" .
+
+bulba:height-ftin a ns1:Property ;
+    ns1:description "The Pokémon's height in feet and inches." ;
+    ns1:name "Height (Feet and Inches)" .
+
+bulba:height-ftin2 a ns1:Property ;
+    ns1:description "The Pokémon's height in feet and inches for a specific form." ;
+    ns1:name "Height (Feet and Inches) Variant 2" .
+
+bulba:height-m a ns1:Property ;
+    ns1:description "The Pokémon's height in meters." ;
+    ns1:name "Height (Meters)" .
+
+bulba:height-m2 a ns1:Property ;
+    ns1:description "The Pokémon's height in meters for a specific form." ;
+    ns1:name "Height (Meters) Variant 2" .
+
+bulba:image a ns1:Property ;
+    ns1:description "The main image representing the Pokémon." ;
+    ns1:name "Image" .
+
+bulba:image2 a ns1:Property ;
+    ns1:description "An alternate image representing a specific form of the Pokémon." ;
+    ns1:name "Image Variant 2" .
+
+bulba:jname a ns1:Property ;
+    ns1:description "The Pokémon's name in Japanese." ;
+    ns1:name "Japanese Name" .
+
+bulba:jpname a ns1:Property ;
+    ns1:description "The Japanese name of the Pokémon ability." ;
+    ns1:name "Japanese Name" .
+
+bulba:jptrans a ns1:Property ;
+    ns1:description "The English translation of the Japanese name for the Pokémon ability." ;
+    ns1:name "Japanese Translation" .
+
+bulba:jptranslit a ns1:Property ;
+    ns1:description "The Romanized transliteration of the Japanese name for the Pokémon ability." ;
+    ns1:name "Japanese Transliteration" .
+
+bulba:jtranslit a ns1:Property ;
+    ns1:description "The Romanized transliteration of the Pokémon's Japanese name." ;
+    ns1:name "Japanese Transliteration" .
+
+bulba:lv100exp a ns1:Property ;
+    ns1:description "The total experience required for the Pokémon to reach level 100." ;
+    ns1:name "Level 100 Experience" .
+
+bulba:male a ns1:Property ;
+    ns1:description "The percentage chance of the Pokémon being male." ;
+    ns1:name "Male Percentage" .
+
+bulba:mega a ns1:Property ;
+    ns1:description "The item required for the Pokémon's Mega Evolution." ;
+    ns1:name "Mega Evolution Item" .
+
+bulba:mega2 a ns1:Property ;
+    ns1:description "An alternate item required for the Pokémon's Mega Evolution." ;
+    ns1:name "Mega Evolution Item Variant 2" .
+
+bulba:name a ns1:Property ;
+    ns1:description "The English name of the Pokémon ability." ;
+    ns1:name "Name" .
+
+bulba:ndex a ns1:Property ;
+    ns1:description "The Pokémon's National Pokédex number." ;
+    ns1:name "National Dex Number" .
+
+bulba:oldexp a ns1:Property ;
+    ns1:description "The Pokémon's experience yield in previous generations." ;
+    ns1:name "Old Experience Yield" .
+
+bulba:pokefordex a ns1:Property ;
+    ns1:description "The Pokémon's name as it appears in the Pokédex." ;
+    ns1:name "Pokémon Name for Dex" .
+
+bulba:tmname a ns1:Property ;
+    ns1:description "The Pokémon's transliterated name for TMs." ;
+    ns1:name "Transliteration Name" .
+
+bulba:type1 a ns1:Property ;
+    ns1:description "The primary type of the Pokémon." ;
+    ns1:name "Primary Type" .
+
+bulba:type2 a ns1:Property ;
+    ns1:description "The secondary type of the Pokémon." ;
+    ns1:name "Secondary Type" .
+
+bulba:weight-kg a ns1:Property ;
+    ns1:description "The Pokémon's weight in kilograms." ;
+    ns1:name "Weight (Kilograms)" .
+
+bulba:weight-lbs a ns1:Property ;
+    ns1:description "The Pokémon's weight in pounds." ;
+    ns1:name "Weight (Pounds)" .
+

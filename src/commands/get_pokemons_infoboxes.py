@@ -25,7 +25,7 @@ def main() :
             )
         time.sleep(0.5)
                 
-    with open('data/python-data/pokemon_infoboxes.json', 'w', encoding='utf-8') as file:
+    with open('data/python-data/infoboxes/pokemon_infoboxes.json', 'w', encoding='utf-8') as file:
         json.dump(infoboxes_data, file, ensure_ascii=False)
     
 
