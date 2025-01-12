@@ -86,7 +86,7 @@ bulba:Absol_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Pressure" ;
     bulba:ability2 "Super Luck" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilitycolm "2" ;
     bulba:abilityd "Justified" ;
     bulba:abilitylayout "2+1" ;
@@ -342,7 +342,7 @@ bulba:Alakazam_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evsa "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "225<!--221 in Gen V-VI-->" ;
+    bulba:expyield "225" ;
     bulba:form2 "Mega Alakazam" ;
     bulba:forme "2" ;
     bulba:friendship "70" ;
@@ -599,7 +599,7 @@ bulba:Ampharos_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "2" ;
     bulba:evsa "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "230<!--225 in Gen V-VI-->" ;
+    bulba:expyield "230" ;
     bulba:form2 "Mega Ampharos" ;
     bulba:form2type1 "Electric" ;
     bulba:form2type2 "Dragon" ;
@@ -818,7 +818,7 @@ bulba:Arbok_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "2" ;
     bulba:evat "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "157<!--153 in Gen V-VI-->" ;
+    bulba:expyield "157" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "1" ;
@@ -1172,7 +1172,7 @@ bulba:Ariados_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evat "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "140<!--137 in Gen V-VI-->" ;
+    bulba:expyield "140" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "2" ;
@@ -1372,7 +1372,7 @@ bulba:Articuno_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityn "d" ;
     bulba:body "09" ;
     bulba:catchrate "3" ;
-    bulba:category "{{tt|Freeze|Articuno}} Pokémon<br/>{{tt|Cruel|Galarian Articuno}}" ;
+    bulba:category "{{tt|Freeze|Articuno}} Pokémon{{tt|Cruel|Galarian Articuno}}" ;
     bulba:color "Blue" ;
     bulba:eggcycles "80" ;
     bulba:egggroup1 "No Eggs Discovered" ;
@@ -1500,7 +1500,7 @@ bulba:Avalugg_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Monster" ;
     bulba:egggroup2 "Mineral" ;
-    bulba:egggroup2note "<sup>{{color2|000|Generation VIII|Gen VIII}}+</sup>" ;
+    bulba:egggroup2note "{{color2|000|Generation VIII|Gen VIII}}+" ;
     bulba:egggroupn "2" ;
     bulba:evde "2" ;
     bulba:evtotal "2" ;
@@ -1613,7 +1613,7 @@ bulba:Azumarill_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "2" ;
     bulba:evhp "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "189<!--185 in Gen V-VI-->" ;
+    bulba:expyield "189" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "2" ;
@@ -1734,7 +1734,7 @@ bulba:Banette_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Insomnia" ;
     bulba:ability2 "Frisk" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilitycolm "2" ;
     bulba:abilityd "Cursed Body" ;
     bulba:abilitylayout "2+1" ;
@@ -1814,7 +1814,7 @@ bulba:Barboach_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Oblivious" ;
     bulba:ability2 "Anticipation" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Hydration" ;
     bulba:abilityn "d" ;
     bulba:body "03" ;
@@ -1923,7 +1923,7 @@ bulba:Basculin_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityn "2d" ;
     bulba:body "03" ;
     bulba:catchrate "190" ;
-    bulba:category "{{tt|Hostile|Red-Striped/Blue-Striped Basculin}} Pokémon<br/>{{tt|Mellow|White-Striped Basculin}}" ;
+    bulba:category "{{tt|Hostile|Red-Striped/Blue-Striped Basculin}} Pokémon{{tt|Mellow|White-Striped Basculin}}" ;
     bulba:color "Green" ;
     bulba:eggcycles "40" ;
     bulba:egggroup1 "Water 2" ;
@@ -2063,7 +2063,7 @@ bulba:Beartic_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Snow Cloak" ;
     bulba:ability2 "Slush Rush" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VII|Gen VII+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VII|Gen VII+}}" ;
     bulba:abilityd "Swift Swim" ;
     bulba:abilityn "d" ;
     bulba:body "08" ;
@@ -2075,7 +2075,7 @@ bulba:Beartic_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evat "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "177<!--170 in Gen V-VI-->" ;
+    bulba:expyield "177" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "5" ;
@@ -2106,7 +2106,7 @@ bulba:Beautifly_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evsa "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "178<!--173 in Gen V-VI-->" ;
+    bulba:expyield "178" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "3" ;
@@ -2142,7 +2142,7 @@ bulba:Beedrill_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:evat "2" ;
     bulba:evsd "1" ;
     bulba:evtotal "3" ;
-    bulba:expyield "178<!--173 in Gen V-VI-->" ;
+    bulba:expyield "178" ;
     bulba:form2 "Mega Beedrill" ;
     bulba:forme "2" ;
     bulba:friendship "70" ;
@@ -2286,7 +2286,7 @@ bulba:Bellossom_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evsd "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "221<!--216 in Gen V-VI-->" ;
+    bulba:expyield "221" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "2" ;
@@ -2349,7 +2349,7 @@ bulba:Bergmite_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Monster" ;
     bulba:egggroup2 "Mineral" ;
-    bulba:egggroup2note "<sup>{{color2|000|Generation VIII|Gen VIII}}+</sup>" ;
+    bulba:egggroup2note "{{color2|000|Generation VIII|Gen VIII}}+" ;
     bulba:egggroupn "2" ;
     bulba:evde "1" ;
     bulba:evtotal "1" ;
@@ -2759,7 +2759,7 @@ bulba:Boldore_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Sturdy" ;
     bulba:ability2 "Weak Armor" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VII|Gen VII+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VII|Gen VII+}}" ;
     bulba:abilityd "Sand Force" ;
     bulba:abilityn "d" ;
     bulba:body "10" ;
@@ -3070,7 +3070,7 @@ bulba:Braviary_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityn "d" ;
     bulba:body "09" ;
     bulba:catchrate "60" ;
-    bulba:category "{{tt|Valiant|Braviary}} Pokémon<br/>{{tt|Battle Cry|Hisuian Braviary}}" ;
+    bulba:category "{{tt|Valiant|Braviary}} Pokémon{{tt|Battle Cry|Hisuian Braviary}}" ;
     bulba:color "Red" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Flying" ;
@@ -3114,7 +3114,7 @@ bulba:Breloom_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Effect Spore" ;
     bulba:ability2 "Poison Heal" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Technician" ;
     bulba:abilityn "d" ;
     bulba:body "06" ;
@@ -3542,7 +3542,7 @@ bulba:Butterfree_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:evsa "2" ;
     bulba:evsd "1" ;
     bulba:evtotal "3" ;
-    bulba:expyield "178<!--173 in Gen V-VI-->" ;
+    bulba:expyield "178" ;
     bulba:form2 "Gigantamax Butterfree" ;
     bulba:forme "2" ;
     bulba:friendship "70" ;
@@ -3677,7 +3677,7 @@ bulba:Calyrex_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityoldcaption "Ice Rider/Shadow Rider Calyrex" ;
     bulba:body "12" ;
     bulba:catchrate "3" ;
-    bulba:category "{{tt|King|Calyrex}} Pokémon<br/>{{tt|High King|Ice Rider/Shadow Rider Calyrex}}" ;
+    bulba:category "{{tt|King|Calyrex}} Pokémon{{tt|High King|Ice Rider/Shadow Rider Calyrex}}" ;
     bulba:color "Green" ;
     bulba:eggcycles "120" ;
     bulba:egggroup1 "No Eggs Discovered" ;
@@ -3688,10 +3688,10 @@ bulba:Calyrex_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:evsa3 "3" ;
     bulba:evtotal "3" ;
     bulba:expyield "250" ;
-    bulba:form2 "Ice&nbsp;Rider&nbsp;Calyrex" ;
+    bulba:form2 "Ice Rider Calyrex" ;
     bulba:form2type1 "Psychic" ;
     bulba:form2type2 "Ice" ;
-    bulba:form3 "Shadow&nbsp;Rider&nbsp;Calyrex" ;
+    bulba:form3 "Shadow Rider Calyrex" ;
     bulba:form3type1 "Psychic" ;
     bulba:form3type2 "Ghost" ;
     bulba:formbody "yes" ;
@@ -3726,7 +3726,7 @@ bulba:Camerupt_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Magma Armor" ;
     bulba:ability2 "Solid Rock" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilitycolm "2" ;
     bulba:abilityd "Anger Point" ;
     bulba:abilitylayout "2+1" ;
@@ -3985,7 +3985,7 @@ bulba:Cascoon_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evde "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "72<!--41 in Gen V-VI-->" ;
+    bulba:expyield "72" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "3" ;
@@ -4421,7 +4421,7 @@ bulba:Charizard_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:form2 "Mega Charizard X" ;
     bulba:form2type1 "Fire" ;
     bulba:form2type2 "Dragon" ;
-    bulba:form3 "Mega&nbsp;Charizard&nbsp;Y" ;
+    bulba:form3 "Mega Charizard Y" ;
     bulba:form3type1 "Fire" ;
     bulba:form3type2 "Flying" ;
     bulba:form4 "Gigantamax Charizard" ;
@@ -4908,7 +4908,7 @@ bulba:Chimecho_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:evsa "1" ;
     bulba:evsd "1" ;
     bulba:evtotal "2" ;
-    bulba:expyield "159<!--149 in Gen V-VI-->" ;
+    bulba:expyield "159" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "3" ;
@@ -5195,7 +5195,7 @@ bulba:Clefable_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Cute Charm" ;
     bulba:ability2 "Magic Guard" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Unaware" ;
     bulba:abilityn "d" ;
     bulba:body "06" ;
@@ -5207,7 +5207,7 @@ bulba:Clefable_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evhp "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "217<!--213 in Gen V-VI-->" ;
+    bulba:expyield "217" ;
     bulba:friendship "140" ;
     bulba:gendercode "191" ;
     bulba:generation "1" ;
@@ -5229,7 +5229,7 @@ bulba:Clefairy_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Cute Charm" ;
     bulba:ability2 "Magic Guard" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Friend Guard" ;
     bulba:abilityn "d" ;
     bulba:body "06" ;
@@ -5262,7 +5262,7 @@ bulba:Cleffa_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Cute Charm" ;
     bulba:ability2 "Magic Guard" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Friend Guard" ;
     bulba:abilityn "d" ;
     bulba:body "06" ;
@@ -5366,7 +5366,7 @@ bulba:Cloyster_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Shell Armor" ;
     bulba:ability2 "Skill Link" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Overcoat" ;
     bulba:abilityn "d" ;
     bulba:body "01" ;
@@ -5726,7 +5726,7 @@ bulba:Corsola_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:evsd "1" ;
     bulba:evsd2 "1" ;
     bulba:evtotal "2" ;
-    bulba:expyield "144<!--133 in Gen V-VI-->" ;
+    bulba:expyield "144" ;
     bulba:form1 "Corsola" ;
     bulba:form2 "Galarian Corsola" ;
     bulba:form2type1 "Ghost" ;
@@ -6309,7 +6309,7 @@ bulba:Crustle_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "2" ;
     bulba:evde "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "170<!--166 in Gen V-VI-->" ;
+    bulba:expyield "170" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "5" ;
@@ -6362,7 +6362,7 @@ bulba:Cubchoo_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Snow Cloak" ;
     bulba:ability2 "Slush Rush" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VII|Gen VII+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VII|Gen VII+}}" ;
     bulba:abilityd "Rattled" ;
     bulba:abilityn "d" ;
     bulba:body "06" ;
@@ -6668,7 +6668,7 @@ bulba:Darmanitan_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityn "2d" ;
     bulba:body "08" ;
     bulba:catchrate "60" ;
-    bulba:category "{{tt|Blazing|Darmanitan, Zen Mode Darmanitan, Galarian Zen Mode Darmanitan}} Pokémon<br/>{{tt|Zen Charm|Galarian Darmanitan}}" ;
+    bulba:category "{{tt|Blazing|Darmanitan, Zen Mode Darmanitan, Galarian Zen Mode Darmanitan}} Pokémon{{tt|Zen Charm|Galarian Darmanitan}}" ;
     bulba:color "Red" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Field" ;
@@ -6940,7 +6940,7 @@ bulba:Delcatty_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Cute Charm" ;
     bulba:ability2 "Normalize" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Wonder Skin" ;
     bulba:abilitylayout "2" ;
     bulba:body "08" ;
@@ -6954,7 +6954,7 @@ bulba:Delcatty_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:evhp "1" ;
     bulba:evsp "1" ;
     bulba:evtotal "2" ;
-    bulba:expyield "140<!--133 in Gen V-VI-->" ;
+    bulba:expyield "140" ;
     bulba:friendship "70" ;
     bulba:gendercode "191" ;
     bulba:generation "3" ;
@@ -7091,7 +7091,7 @@ bulba:Dewgong_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Thick Fat" ;
     bulba:ability2 "Hydration" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Ice Body" ;
     bulba:abilityn "d" ;
     bulba:body "03" ;
@@ -7465,7 +7465,7 @@ bulba:Dodrio_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evat "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "165<!--161 in Gen V-VI-->" ;
+    bulba:expyield "165" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "1" ;
@@ -8239,7 +8239,7 @@ bulba:Drowzee_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Insomnia" ;
     bulba:ability2 "Forewarn" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Inner Focus" ;
     bulba:abilityn "d" ;
     bulba:body "12" ;
@@ -8436,7 +8436,7 @@ bulba:Dugtrio_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:evforms "2" ;
     bulba:evsp "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "149<!--142 in Gen V-VI-->" ;
+    bulba:expyield "149" ;
     bulba:form1 "Dugtrio" ;
     bulba:form2 "Alolan Dugtrio" ;
     bulba:form2type1 "Ground" ;
@@ -8722,7 +8722,7 @@ bulba:Dustox_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evsd "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "173<!--135 in Gen V-VI-->" ;
+    bulba:expyield "173" ;
     bulba:friendship "70" ;
     bulba:g4exp "161" ;
     bulba:gendercode "127" ;
@@ -8839,7 +8839,7 @@ bulba:Eevee_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Run Away" ;
     bulba:ability2 "Adaptability" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Anticipation" ;
     bulba:abilityn "d" ;
     bulba:body "08" ;
@@ -9083,14 +9083,14 @@ bulba:Electrode_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilitylayout "2" ;
     bulba:body "01" ;
     bulba:catchrate "60" ;
-    bulba:category "{{tt|Ball|Electrode}} Pokémon<br/>{{tt|Sphere|Hisuian Electrode}}" ;
+    bulba:category "{{tt|Ball|Electrode}} Pokémon{{tt|Sphere|Hisuian Electrode}}" ;
     bulba:color "Red" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Mineral" ;
     bulba:egggroupn "1" ;
     bulba:evsp "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "172<!--168 in Gen V-VI-->" ;
+    bulba:expyield "172" ;
     bulba:form1 "Electrode" ;
     bulba:form2 "Hisuian Electrode" ;
     bulba:form2type1 "Electric" ;
@@ -9617,7 +9617,7 @@ bulba:Exeggutor_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evsa "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "186<!--182 in Gen V-VI-->" ;
+    bulba:expyield "186" ;
     bulba:form1 "Exeggutor" ;
     bulba:form2 "Alolan Exeggutor" ;
     bulba:form2type1 "Grass" ;
@@ -9661,7 +9661,7 @@ bulba:Exploud_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "2" ;
     bulba:evhp "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "221<!--216 in Gen V-VI-->" ;
+    bulba:expyield "221" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "3" ;
@@ -9732,7 +9732,7 @@ bulba:Farfetch%27d_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "2" ;
     bulba:evat "1" ;
     bulba:evtotal "1" ;
-    bulba:expyield "132<!--123 in Gen V-VI-->" ;
+    bulba:expyield "132" ;
     bulba:form1 "Farfetch'd" ;
     bulba:form2 "Galarian Farfetch'd" ;
     bulba:form2type1 "Fighting" ;
@@ -9831,7 +9831,7 @@ bulba:Feebas_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Swift Swim" ;
     bulba:ability2 "Oblivious" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VI|Gen VI+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VI|Gen VI+}}" ;
     bulba:abilityd "Adaptability" ;
     bulba:abilityn "d" ;
     bulba:body "03" ;
@@ -10473,8 +10473,7 @@ bulba:Floette_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:form2 "Yellow Flower" ;
     bulba:form3 "Orange Flower" ;
     bulba:form4 "Blue Flower" ;
-    bulba:form5 """White Flower
-<!--|form6=Eternal Flower-->""" ;
+    bulba:form5 "White Flower" ;
     bulba:forme "5" ;
     bulba:friendship "70" ;
     bulba:gendercode "254" ;
@@ -10482,8 +10481,7 @@ bulba:Floette_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:image2 "HOME0670Y.png" ;
     bulba:image3 "HOME0670O.png" ;
     bulba:image4 "HOME0670B.png" ;
-    bulba:image5 """HOME0670W.png
-<!--|image6=AZ's Floette.png-->""" ;
+    bulba:image5 "HOME0670W.png" ;
     bulba:jname "フラエッテ" ;
     bulba:jtranslit "Furaette" ;
     bulba:lv100exp "1,000,000" ;
@@ -10625,7 +10623,7 @@ bulba:Flygon_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Bug" ;
     bulba:egggroup2 "Dragon" ;
-    bulba:egggroup2note "<sup>{{color2|000|Generation VIII|Gen VIII}}+</sup>" ;
+    bulba:egggroup2note "{{color2|000|Generation VIII|Gen VIII}}+" ;
     bulba:egggroupn "2" ;
     bulba:evat "1" ;
     bulba:evsp "2" ;
@@ -11114,7 +11112,7 @@ bulba:Gallade_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Steadfast" ;
     bulba:ability2 "Sharpness" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IX|Gen IX+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IX|Gen IX+}}" ;
     bulba:abilitycolm "2" ;
     bulba:abilityd "Justified" ;
     bulba:abilitylayout "2+1" ;
@@ -11126,7 +11124,7 @@ bulba:Gallade_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:color "White" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Human-Like" ;
-    bulba:egggroup1note "<sup>{{color2|000|Generation VIII|Gen VIII+}}</sup>" ;
+    bulba:egggroup1note "{{color2|000|Generation VIII|Gen VIII+}}" ;
     bulba:egggroup2 "Amorphous" ;
     bulba:egggroupn "2" ;
     bulba:evat "3" ;
@@ -11284,7 +11282,7 @@ bulba:Gardevoir_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:color "White" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Human-Like" ;
-    bulba:egggroup1note "<sup>{{color2|000|Generation VIII|Gen VIII+}}</sup>" ;
+    bulba:egggroup1note "{{color2|000|Generation VIII|Gen VIII+}}" ;
     bulba:egggroup2 "Amorphous" ;
     bulba:egggroupn "2" ;
     bulba:evsa "3" ;
@@ -11462,7 +11460,7 @@ bulba:Genesect_%28Pok%C3%A9mon%29 a bulba:Pokemon,
 bulba:Gengar_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Cursed Body" ;
-    bulba:ability1note "<sup>Gen VII+</sup>" ;
+    bulba:ability1note "Gen VII+" ;
     bulba:abilitylayout "2" ;
     bulba:abilitym "Shadow Tag" ;
     bulba:abilityn "m" ;
@@ -11629,7 +11627,7 @@ bulba:Gigalith_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Sturdy" ;
     bulba:ability2 "Sand Stream" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VII|Gen VII+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VII|Gen VII+}}" ;
     bulba:abilityd "Sand Force" ;
     bulba:abilityn "d" ;
     bulba:body "10" ;
@@ -11641,7 +11639,7 @@ bulba:Gigalith_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evat "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "232<!--227 in Gen V-VI-->" ;
+    bulba:expyield "232" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "5" ;
@@ -11665,7 +11663,7 @@ bulba:Gimmighoul_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityn "1" ;
     bulba:body "05" ;
     bulba:catchrate "45" ;
-    bulba:category "{{tt|Coin Chest|Chest Form}} Pokémon<br/>{{tt|Coin Hunter|Roaming Form}}" ;
+    bulba:category "{{tt|Coin Chest|Chest Form}} Pokémon{{tt|Coin Hunter|Roaming Form}}" ;
     bulba:color "Red" ;
     bulba:eggcycles "50" ;
     bulba:egggroup1 "No Eggs Discovered" ;
@@ -11819,7 +11817,7 @@ bulba:Glalie_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Inner Focus" ;
     bulba:ability2 "Ice Body" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilitycolm "2" ;
     bulba:abilityd "Moody" ;
     bulba:abilitylayout "2+1" ;
@@ -12256,7 +12254,7 @@ bulba:Golem_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evde "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "223<!--218 in Gen V-VI-->" ;
+    bulba:expyield "223" ;
     bulba:form1 "Golem" ;
     bulba:form2 "Alolan Golem" ;
     bulba:form2type1 "Rock" ;
@@ -12397,7 +12395,7 @@ bulba:Goodra_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityn "2d" ;
     bulba:body "06" ;
     bulba:catchrate "45" ;
-    bulba:category "{{tt|Dragon|Goodra}} Pokémon<br/>{{tt|Shell Bunker|Hisuian Goodra}}" ;
+    bulba:category "{{tt|Dragon|Goodra}} Pokémon{{tt|Shell Bunker|Hisuian Goodra}}" ;
     bulba:color "Purple" ;
     bulba:eggcycles "40" ;
     bulba:egggroup1 "Dragon" ;
@@ -12531,7 +12529,7 @@ bulba:Gothita_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Frisk" ;
     bulba:ability2 "Competitive" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VI|Gen VI+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VI|Gen VI+}}" ;
     bulba:abilityd "Shadow Tag" ;
     bulba:abilityn "d" ;
     bulba:body "12" ;
@@ -12564,7 +12562,7 @@ bulba:Gothitelle_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Frisk" ;
     bulba:ability2 "Competitive" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VI|Gen VI+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VI|Gen VI+}}" ;
     bulba:abilityd "Shadow Tag" ;
     bulba:abilityn "d" ;
     bulba:body "12" ;
@@ -12597,7 +12595,7 @@ bulba:Gothorita_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Frisk" ;
     bulba:ability2 "Competitive" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VI|Gen VI+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VI|Gen VI+}}" ;
     bulba:abilityd "Shadow Tag" ;
     bulba:abilityn "d" ;
     bulba:body "12" ;
@@ -12754,7 +12752,7 @@ bulba:Granbull_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Intimidate" ;
     bulba:ability2 "Quick Feet" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Rattled" ;
     bulba:abilityn "d" ;
     bulba:body "06" ;
@@ -12979,9 +12977,9 @@ bulba:Greninja_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:color "Blue" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Water 1" ;
-    bulba:egggroup1note "<sup>Greninja</sup>" ;
+    bulba:egggroup1note "Greninja" ;
     bulba:egggroup2 "No Eggs Discovered" ;
-    bulba:egggroup2note "<sup>{{color2|000|Ash-Greninja|Battle Bond Greninja}}</sup>" ;
+    bulba:egggroup2note "{{color2|000|Ash-Greninja|Battle Bond Greninja}}" ;
     bulba:egggroupn "3" ;
     bulba:evsp "3" ;
     bulba:evtotal "3" ;
@@ -13251,7 +13249,7 @@ bulba:Growlithe_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityn "d" ;
     bulba:body "08" ;
     bulba:catchrate "190" ;
-    bulba:category "{{tt|Puppy|Growlithe}} Pokémon<br/>{{tt|Scout|Hisuian Growlithe}}" ;
+    bulba:category "{{tt|Puppy|Growlithe}} Pokémon{{tt|Scout|Hisuian Growlithe}}" ;
     bulba:color "Brown" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Field" ;
@@ -13771,7 +13769,7 @@ bulba:Hawlucha_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:color "Green" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Flying" ;
-    bulba:egggroup1note "<sup>{{color2|000|Generation VIII|Gen VIII}}+</sup>" ;
+    bulba:egggroup1note "{{color2|000|Generation VIII|Gen VIII}}+" ;
     bulba:egggroup2 "Human-Like" ;
     bulba:egggroupn "2" ;
     bulba:evat "2" ;
@@ -14121,7 +14119,7 @@ bulba:Hitmonchan_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Keen Eye" ;
     bulba:ability2 "Iron Fist" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Inner Focus" ;
     bulba:abilityn "d" ;
     bulba:body "12" ;
@@ -14156,7 +14154,7 @@ bulba:Hitmonlee_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Limber" ;
     bulba:ability2 "Reckless" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Unburden" ;
     bulba:abilityn "d" ;
     bulba:body "12" ;
@@ -14191,7 +14189,7 @@ bulba:Hitmontop_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Intimidate" ;
     bulba:ability2 "Technician" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Steadfast" ;
     bulba:abilityn "d" ;
     bulba:body "06" ;
@@ -14282,7 +14280,7 @@ bulba:Honchkrow_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:ndex "0430" ;
     bulba:oldexp "187" ;
     bulba:pokefordex "honchkrow" ;
-    bulba:tmname "Dongkarasu<!--Do not change this to Donkarasu, Dongkarasu is the official TRADEMARKED romanisation.-->" ;
+    bulba:tmname "Dongkarasu" ;
     bulba:type1 "Dark" ;
     bulba:type2 "Flying" ;
     bulba:typebox "1" ;
@@ -14328,7 +14326,7 @@ bulba:Hoopa_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityn "1" ;
     bulba:body "04" ;
     bulba:catchrate "3" ;
-    bulba:category "{{tt|Mischief|Hoopa Confined}} Pokémon<br/>{{tt|Djinn|Hoopa Unbound}}" ;
+    bulba:category "{{tt|Mischief|Hoopa Confined}} Pokémon{{tt|Djinn|Hoopa Unbound}}" ;
     bulba:color "Purple" ;
     bulba:eggcycles "120" ;
     bulba:egggroup1 "No Eggs Discovered" ;
@@ -14405,7 +14403,7 @@ bulba:Hoppip_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Chlorophyll" ;
     bulba:ability2 "Leaf Guard" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Infiltrator" ;
     bulba:abilityn "d" ;
     bulba:body "06" ;
@@ -14442,7 +14440,7 @@ bulba:Horsea_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Swift Swim" ;
     bulba:ability2 "Sniper" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Damp" ;
     bulba:abilityn "d" ;
     bulba:body "05" ;
@@ -14696,7 +14694,7 @@ bulba:Hypno_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Insomnia" ;
     bulba:ability2 "Forewarn" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Inner Focus" ;
     bulba:abilityn "d" ;
     bulba:body "12" ;
@@ -14731,7 +14729,7 @@ bulba:Igglybuff_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Cute Charm" ;
     bulba:ability2 "Competitive" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VI|Gen VI+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VI|Gen VI+}}" ;
     bulba:abilityd "Friend Guard" ;
     bulba:abilityn "d" ;
     bulba:body "12" ;
@@ -14766,7 +14764,7 @@ bulba:Illumise_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Oblivious" ;
     bulba:ability2 "Tinted Lens" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Prankster" ;
     bulba:abilitylayout "2" ;
     bulba:body "12" ;
@@ -14779,7 +14777,7 @@ bulba:Illumise_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "2" ;
     bulba:evsp "1" ;
     bulba:evtotal "1" ;
-    bulba:expyield "151<!--140 in Gen V-VI-->" ;
+    bulba:expyield "151" ;
     bulba:friendship "70" ;
     bulba:gendercode "254" ;
     bulba:generation "3" ;
@@ -15468,7 +15466,7 @@ bulba:Jigglypuff_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Cute Charm" ;
     bulba:ability2 "Competitive" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VI|Gen VI+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VI|Gen VI+}}" ;
     bulba:abilityd "Friend Guard" ;
     bulba:body "12" ;
     bulba:catchrate "170" ;
@@ -15597,7 +15595,7 @@ bulba:Jumpluff_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Chlorophyll" ;
     bulba:ability2 "Leaf Guard" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Infiltrator" ;
     bulba:abilitylayout "2" ;
     bulba:body "06" ;
@@ -15610,7 +15608,7 @@ bulba:Jumpluff_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "2" ;
     bulba:evsp "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "207<!--203 in Gen V-VI-->" ;
+    bulba:expyield "207" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "2" ;
@@ -15633,7 +15631,7 @@ bulba:Jynx_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Oblivious" ;
     bulba:ability2 "Forewarn" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Dry Skin" ;
     bulba:abilityn "d" ;
     bulba:body "12" ;
@@ -15807,7 +15805,7 @@ bulba:Kangaskhan_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Early Bird" ;
     bulba:ability2 "Scrappy" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilitycolm "2" ;
     bulba:abilityd "Inner Focus" ;
     bulba:abilitylayout "2+1" ;
@@ -16055,7 +16053,7 @@ bulba:Kingdra_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Swift Swim" ;
     bulba:ability2 "Sniper" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Damp" ;
     bulba:abilityn "d" ;
     bulba:body "05" ;
@@ -16142,7 +16140,7 @@ bulba:Kirlia_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:color "White" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Human-Like" ;
-    bulba:egggroup1note "<sup>{{color2|000|Generation VIII|Gen VIII+}}</sup>" ;
+    bulba:egggroup1note "{{color2|000|Generation VIII|Gen VIII+}}" ;
     bulba:egggroup2 "Amorphous" ;
     bulba:egggroupn "2" ;
     bulba:evsa "2" ;
@@ -16365,8 +16363,8 @@ bulba:Klinklang_%28Pok%C3%A9mon%29 a bulba:Pokemon,
 bulba:Koffing_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Levitate" ;
-    bulba:ability2 "Neutralizing&nbsp;Gas" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VIII|Gen&nbsp;VIII+}}</sup>" ;
+    bulba:ability2 "Neutralizing Gas" ;
+    bulba:ability2note "{{color2|000|Generation VIII|Gen VIII+}}" ;
     bulba:abilityd "Stench" ;
     bulba:abilitydcaption "Gen VIII+" ;
     bulba:abilitylayout "2" ;
@@ -16642,7 +16640,7 @@ bulba:Krookodile_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evat "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "234<!--229 in Gen V-VI-->" ;
+    bulba:expyield "234" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "5" ;
@@ -17160,7 +17158,7 @@ bulba:Leavanny_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evat "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "225<!--221 in Gen V-VI-->" ;
+    bulba:expyield "225" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "5" ;
@@ -17425,7 +17423,7 @@ bulba:Lilligant_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityn "2d" ;
     bulba:body "05" ;
     bulba:catchrate "75" ;
-    bulba:category "{{tt|Flowering|Lilligant}} Pokémon<br/>{{tt|Spinning|Hisuian Lilligant}}" ;
+    bulba:category "{{tt|Flowering|Lilligant}} Pokémon{{tt|Spinning|Hisuian Lilligant}}" ;
     bulba:color "Green" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Grass" ;
@@ -17501,7 +17499,7 @@ bulba:Linoone_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Pickup" ;
     bulba:ability2 "Gluttony" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Quick Feet" ;
     bulba:abilityn "d" ;
     bulba:body "08" ;
@@ -18016,7 +18014,7 @@ bulba:Lunatone_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evsa "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "161<!--154 in Gen V-VI-->" ;
+    bulba:expyield "161" ;
     bulba:friendship "70" ;
     bulba:gendercode "255" ;
     bulba:generation "3" ;
@@ -18255,7 +18253,7 @@ bulba:Machamp_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Guts" ;
     bulba:ability2 "No Guard" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Steadfast" ;
     bulba:body "12" ;
     bulba:catchrate "45" ;
@@ -18294,7 +18292,7 @@ bulba:Machoke_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Guts" ;
     bulba:ability2 "No Guard" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Steadfast" ;
     bulba:body "12" ;
     bulba:catchrate "90" ;
@@ -18327,7 +18325,7 @@ bulba:Machop_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Guts" ;
     bulba:ability2 "No Guard" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Steadfast" ;
     bulba:body "06" ;
     bulba:catchrate "180" ;
@@ -18403,7 +18401,7 @@ bulba:Magcargo_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evde "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "151<!--144 in Gen V-VI-->" ;
+    bulba:expyield "151" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "2" ;
@@ -18864,7 +18862,7 @@ bulba:Mankey_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Vital Spirit" ;
     bulba:ability2 "Anger Point" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Defiant" ;
     bulba:body "06" ;
     bulba:catchrate "190" ;
@@ -18908,7 +18906,7 @@ bulba:Mantine_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evsd "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "170<!--163 in Gen V-VI-->" ;
+    bulba:expyield "170" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "2" ;
@@ -19260,7 +19258,7 @@ bulba:Masquerain_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:evsa "1" ;
     bulba:evsd "1" ;
     bulba:evtotal "2" ;
-    bulba:expyield "159<!--145 in Gen V-VI-->" ;
+    bulba:expyield "159" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "3" ;
@@ -19666,25 +19664,11 @@ bulba:Meowth_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Pickup" ;
     bulba:ability2 "Technician" ;
-    bulba:ability2note """<sup>{{color2|000|Generation IV|Gen IV+}}</sup> <small>(Meowth)</small><br>{{acolor|Pickup|000}} or {{acolor|Technician|000}} <small>(Alolan Meowth)</small><br>{{acolor|Pickup|000}} or {{acolor|Tough Claws|000}} <small>(Galarian Meowth)</small>
-<hr style="border-top: 1px solid #{{normal color}};" />""" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}} (Meowth){{acolor|Pickup|000}} or {{acolor|Technician|000}} (Alolan Meowth){{acolor|Pickup|000}} or {{acolor|Tough Claws|000}} (Galarian Meowth)" ;
     bulba:abilityd "Unnerve" ;
     bulba:abilityd2 "Rattled" ;
-    bulba:abilityd2caption """Alolan Meowth<br>
-<!--|abilitylayout=3+3
-|ability1=Pickup
-|ability2=Technician
-|ability2-1=Pickup
-|ability2-2=Technician
-|ability3-1=Pickup
-|ability3-2=Tough Claws
-|abilityd=Unnerve
-|abilitydcaption=Meowth
-|abilityd2=Rattled
-|abilityd2caption=Alolan Meowth
-|abilityd3=Unnerve
-|abilityd3caption=Galarian Meowth-->""" ;
-    bulba:abilitydcaption "Meowth and Galarian Meowth<br>" ;
+    bulba:abilityd2caption "Alolan Meowth" ;
+    bulba:abilitydcaption "Meowth and Galarian Meowth" ;
     bulba:abilitylayout "1+2" ;
     bulba:body "08" ;
     bulba:catchrate "255" ;
@@ -20028,7 +20012,7 @@ bulba:Mightyena_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Intimidate" ;
     bulba:ability2 "Quick Feet" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Moxie" ;
     bulba:abilityn "d" ;
     bulba:body "08" ;
@@ -20095,7 +20079,7 @@ bulba:Milotic_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Marvel Scale" ;
     bulba:ability2 "Competitive" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VI|Gen VI+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VI|Gen VI+}}" ;
     bulba:abilityd "Cute Charm" ;
     bulba:body "02" ;
     bulba:catchrate "60" ;
@@ -20129,7 +20113,7 @@ bulba:Miltank_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Thick Fat" ;
     bulba:ability2 "Scrappy" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Sap Sipper" ;
     bulba:body "06" ;
     bulba:catchrate "45" ;
@@ -20446,7 +20430,7 @@ bulba:Moltres_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityn "d" ;
     bulba:body "09" ;
     bulba:catchrate "3" ;
-    bulba:category "{{tt|Flame|Moltres}} Pokémon<br/>{{tt|Malevolent|Galarian Moltres}}" ;
+    bulba:category "{{tt|Flame|Moltres}} Pokémon{{tt|Malevolent|Galarian Moltres}}" ;
     bulba:color "Yellow" ;
     bulba:eggcycles "80" ;
     bulba:egggroup1 "No Eggs Discovered" ;
@@ -20664,7 +20648,7 @@ bulba:Mr._Mime_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:ability2 "Filter" ;
     bulba:ability2-1 "Vital Spirit" ;
     bulba:ability2-2 "Screen Cleaner" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Technician" ;
     bulba:abilityd2 "Ice Body" ;
     bulba:abilityd2caption "Galarian Mr. Mime" ;
@@ -20673,7 +20657,7 @@ bulba:Mr._Mime_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityn "d" ;
     bulba:body "12" ;
     bulba:catchrate "45" ;
-    bulba:category "{{tt|Barrier|Mr. Mime}} Pokémon<br/>{{tt|Dancing|Galarian Mr. Mime}}" ;
+    bulba:category "{{tt|Barrier|Mr. Mime}} Pokémon{{tt|Dancing|Galarian Mr. Mime}}" ;
     bulba:color "Pink" ;
     bulba:eggcycles "25" ;
     bulba:egggroup1 "Human-Like" ;
@@ -20989,7 +20973,7 @@ bulba:Murkrow_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Insomnia" ;
     bulba:ability2 "Super Luck" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Prankster" ;
     bulba:abilitylayout "2" ;
     bulba:body "09" ;
@@ -21215,13 +21199,13 @@ bulba:Necrozma_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:evtotal "3" ;
     bulba:expyield "270" ;
     bulba:form1 "Necrozma" ;
-    bulba:form2 "Dusk&nbsp;Mane&nbsp;Necrozma" ;
+    bulba:form2 "Dusk Mane Necrozma" ;
     bulba:form2type1 "Psychic" ;
     bulba:form2type2 "Steel" ;
-    bulba:form3 "Dawn&nbsp;Wings&nbsp;Necrozma" ;
+    bulba:form3 "Dawn Wings Necrozma" ;
     bulba:form3type1 "Psychic" ;
     bulba:form3type2 "Ghost" ;
-    bulba:form4 "Ultra&nbsp;Necrozma" ;
+    bulba:form4 "Ultra Necrozma" ;
     bulba:form4type1 "Psychic" ;
     bulba:form4type2 "Dragon" ;
     bulba:formbody "yes" ;
@@ -21291,7 +21275,7 @@ bulba:Nidoking_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Poison Point" ;
     bulba:ability2 "Rivalry" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Sheer Force" ;
     bulba:abilitylayout "2" ;
     bulba:body "06" ;
@@ -21304,7 +21288,7 @@ bulba:Nidoking_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "2" ;
     bulba:evat "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "227<!--223 in Gen V-VI-->" ;
+    bulba:expyield "227" ;
     bulba:friendship "70" ;
     bulba:gendercode "0" ;
     bulba:generation "1" ;
@@ -21327,7 +21311,7 @@ bulba:Nidoqueen_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Poison Point" ;
     bulba:ability2 "Rivalry" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Sheer Force" ;
     bulba:abilitylayout "2" ;
     bulba:body "06" ;
@@ -21339,7 +21323,7 @@ bulba:Nidoqueen_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evhp "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "227<!--223 in Gen V-VI-->" ;
+    bulba:expyield "227" ;
     bulba:friendship "70" ;
     bulba:gendercode "254" ;
     bulba:generation "1" ;
@@ -21362,7 +21346,7 @@ bulba:Nidoran%E2%99%80_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Poison Point" ;
     bulba:ability2 "Rivalry" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Hustle" ;
     bulba:abilityn "d" ;
     bulba:body "08" ;
@@ -21398,7 +21382,7 @@ bulba:Nidoran%E2%99%82_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Poison Point" ;
     bulba:ability2 "Rivalry" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Hustle" ;
     bulba:abilityn "d" ;
     bulba:body "08" ;
@@ -21434,7 +21418,7 @@ bulba:Nidorina_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Poison Point" ;
     bulba:ability2 "Rivalry" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Hustle" ;
     bulba:abilityn "d" ;
     bulba:body "08" ;
@@ -21468,7 +21452,7 @@ bulba:Nidorino_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Poison Point" ;
     bulba:ability2 "Rivalry" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Hustle" ;
     bulba:abilityn "d" ;
     bulba:body "08" ;
@@ -21659,7 +21643,7 @@ bulba:Noctowl_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evhp "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "158<!--155 in Gen V-VI-->" ;
+    bulba:expyield "158" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "2" ;
@@ -21690,7 +21674,7 @@ bulba:Noibat_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Flying" ;
     bulba:egggroup2 "Dragon" ;
-    bulba:egggroup2note "<sup>{{color2|000|Generation VIII|Gen VIII}}+</sup>" ;
+    bulba:egggroup2note "{{color2|000|Generation VIII|Gen VIII}}+" ;
     bulba:egggroupn "1" ;
     bulba:evsp "1" ;
     bulba:evtotal "1" ;
@@ -21726,7 +21710,7 @@ bulba:Noivern_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Flying" ;
     bulba:egggroup2 "Dragon" ;
-    bulba:egggroup2note "<sup>{{color2|000|Generation VIII|Gen VIII}}+</sup>" ;
+    bulba:egggroup2note "{{color2|000|Generation VIII|Gen VIII}}+" ;
     bulba:egggroupn "1" ;
     bulba:evsp "2" ;
     bulba:evtotal "2" ;
@@ -21786,7 +21770,7 @@ bulba:Numel_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Oblivious" ;
     bulba:ability2 "Simple" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Own Tempo" ;
     bulba:abilityn "d" ;
     bulba:body "08" ;
@@ -21924,7 +21908,7 @@ bulba:Octillery_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Suction Cups" ;
     bulba:ability2 "Sniper" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Moody" ;
     bulba:abilityn "d" ;
     bulba:body "10" ;
@@ -21993,7 +21977,7 @@ bulba:Oddish_%28Pok%C3%A9mon%29 a bulba:Pokemon,
 bulba:Ogerpon_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Defiant" ;
-    bulba:ability1note "<small> (Teal Mask)</small><br>[[Water Absorb (Ability)|<span style=\"color:#000;\">Water Absorb</span>]] <small>(Wellspring Mask)</small><br>[[Mold Breaker (Ability)|<span style=\"color:#000;\">Mold Breaker</span>]] <small>(Hearthflame Mask)</small><br>[[Sturdy (Ability)|<span style=\"color:#000;\">Sturdy</span>]] <small>(Cornerstone Mask)</small>" ;
+    bulba:ability1note "(Teal Mask)[[Water Absorb (Ability)|Water Absorb]] (Wellspring Mask)[[Mold Breaker (Ability)|Mold Breaker]] (Hearthflame Mask)[[Sturdy (Ability)|Sturdy]] (Cornerstone Mask)" ;
     bulba:abilityn "1" ;
     bulba:abilityold "Embody Aspect" ;
     bulba:abilityoldcaption "Terastallized" ;
@@ -22390,7 +22374,7 @@ bulba:Oshawott_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evsa "1" ;
     bulba:evtotal "1" ;
-    bulba:expyield "62<!--28 in Gen V-VI-->" ;
+    bulba:expyield "62" ;
     bulba:friendship "70" ;
     bulba:gendercode "31" ;
     bulba:generation "5" ;
@@ -22479,7 +22463,7 @@ bulba:Palafin_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilitylayout "1" ;
     bulba:body "03" ;
     bulba:catchrate "45" ;
-    bulba:category "{{tt|Dolphin|Zero Form}} Pokémon<br/>{{tt|Hero|Hero Form}}" ;
+    bulba:category "{{tt|Dolphin|Zero Form}} Pokémon{{tt|Hero|Hero Form}}" ;
     bulba:color "Blue" ;
     bulba:eggcycles "40" ;
     bulba:egggroup1 "Field" ;
@@ -22492,7 +22476,7 @@ bulba:Palafin_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:evsd "0" ;
     bulba:evsp "0" ;
     bulba:evtotal "2" ;
-    bulba:expyield "160 <!--This is for Zero Form. Hero Form has a base experience yield of 228.-->" ;
+    bulba:expyield "160" ;
     bulba:form1 "Zero Form" ;
     bulba:form2 "Hero Form" ;
     bulba:forme "2" ;
@@ -22787,7 +22771,7 @@ bulba:Paras_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Effect Spore" ;
     bulba:ability2 "Dry Skin" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Damp" ;
     bulba:abilitylayout "2" ;
     bulba:body "14" ;
@@ -22823,7 +22807,7 @@ bulba:Parasect_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Effect Spore" ;
     bulba:ability2 "Dry Skin" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Damp" ;
     bulba:abilitylayout "2" ;
     bulba:body "14" ;
@@ -23105,7 +23089,7 @@ bulba:Pelipper_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Keen Eye" ;
     bulba:ability2 "Drizzle" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VII|Gen VII+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VII|Gen VII+}}" ;
     bulba:abilityd "Rain Dish" ;
     bulba:abilitylayout "2" ;
     bulba:body "09" ;
@@ -23118,7 +23102,7 @@ bulba:Pelipper_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "2" ;
     bulba:evde "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "154<!--151 in Gen V-VI-->" ;
+    bulba:expyield "154" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "3" ;
@@ -23175,7 +23159,7 @@ bulba:Persian_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:ability2 "Technician" ;
     bulba:ability2-1 "Fur Coat" ;
     bulba:ability2-2 "Technician" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Unnerve" ;
     bulba:abilityd2 "Rattled" ;
     bulba:abilityd2caption "Alolan Persian" ;
@@ -23417,7 +23401,7 @@ bulba:Pidgeot_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Keen Eye" ;
     bulba:ability2 "Tangled Feet" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilitycolm "2" ;
     bulba:abilityd "Big Pecks" ;
     bulba:abilitylayout "2+1" ;
@@ -23431,7 +23415,7 @@ bulba:Pidgeot_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evsp "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "216<!--211 in Gen V-VI-->" ;
+    bulba:expyield "216" ;
     bulba:form2 "Mega Pidgeot" ;
     bulba:forme "2" ;
     bulba:friendship "70" ;
@@ -23462,7 +23446,7 @@ bulba:Pidgeotto_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Keen Eye" ;
     bulba:ability2 "Tangled Feet" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Big Pecks" ;
     bulba:abilityn "d" ;
     bulba:body "09" ;
@@ -23498,7 +23482,7 @@ bulba:Pidgey_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Keen Eye" ;
     bulba:ability2 "Tangled Feet" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Big Pecks" ;
     bulba:abilityn "d" ;
     bulba:body "09" ;
@@ -23607,11 +23591,11 @@ bulba:Pikachu_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:eggcycles "10" ;
     bulba:egggroup1 "Field" ;
     bulba:egggroup2 "Fairy" ;
-    bulba:egggroup2note "&nbsp;or {{color2|000|No_Eggs_Discovered_(Egg_Group)|No Eggs Discovered}}<sup>{{color2|000|Cosplay Pikachu|Cosplay}}/{{color2|000|Pikachu in a cap|Cap}}</sup>[[Category:No Eggs Discovered group Pokémon]]" ;
+    bulba:egggroup2note " or {{color2|000|No_Eggs_Discovered_(Egg_Group)|No Eggs Discovered}}{{color2|000|Cosplay Pikachu|Cosplay}}/{{color2|000|Pikachu in a cap|Cap}}[[Category:No Eggs Discovered group Pokémon]]" ;
     bulba:egggroupn "2" ;
     bulba:evsp "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "112<!--105 in Gen V-VI-->" ;
+    bulba:expyield "112" ;
     bulba:form2 "Cosplay Pikachu" ;
     bulba:form3 "Pikachu in a cap" ;
     bulba:form4 "Partner Pikachu" ;
@@ -23677,7 +23661,7 @@ bulba:Piloswine_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Oblivious" ;
     bulba:ability2 "Snow Cloak" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Thick Fat" ;
     bulba:abilityn "d" ;
     bulba:body "08" ;
@@ -23778,7 +23762,7 @@ bulba:Pinsir_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Hyper Cutter" ;
     bulba:ability2 "Mold Breaker" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen&nbsp;IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilitycolm "2" ;
     bulba:abilityd "Moxie" ;
     bulba:abilitylayout "2+1" ;
@@ -24033,7 +24017,7 @@ bulba:Poliwrath_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evde "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "230<!--225 in Gen V-VI-->" ;
+    bulba:expyield "230" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "1" ;
@@ -24139,7 +24123,7 @@ bulba:Ponyta_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilitylayout "2+1" ;
     bulba:body "08" ;
     bulba:catchrate "190" ;
-    bulba:category "{{tt|Fire Horse|Ponyta}} Pokémon<br/>{{tt|Unique Horn|Galarian Ponyta}}" ;
+    bulba:category "{{tt|Fire Horse|Ponyta}} Pokémon{{tt|Unique Horn|Galarian Ponyta}}" ;
     bulba:color "Yellow" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Field" ;
@@ -24178,7 +24162,7 @@ bulba:Poochyena_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Run Away" ;
     bulba:ability2 "Quick Feet" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Rattled" ;
     bulba:abilitylayout "2" ;
     bulba:body "08" ;
@@ -24190,7 +24174,7 @@ bulba:Poochyena_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evat "1" ;
     bulba:evtotal "1" ;
-    bulba:expyield "56<!--44 in Gen V-VI-->" ;
+    bulba:expyield "56" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "3" ;
@@ -24275,7 +24259,7 @@ bulba:Porygon2_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Trace" ;
     bulba:ability2 "Download" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Analytic" ;
     bulba:abilitylayout "2" ;
     bulba:body "07" ;
@@ -24311,7 +24295,7 @@ bulba:Porygon_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Trace" ;
     bulba:ability2 "Download" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Analytic" ;
     bulba:abilitylayout "2" ;
     bulba:body "07" ;
@@ -24380,7 +24364,7 @@ bulba:Primeape_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Vital Spirit" ;
     bulba:ability2 "Anger Point" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Defiant" ;
     bulba:abilitylayout "2" ;
     bulba:body "06" ;
@@ -24953,7 +24937,7 @@ bulba:Qwilfish_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evat "1" ;
     bulba:evtotal "1" ;
-    bulba:expyield "88<!--86 in Gen V-VI-->" ;
+    bulba:expyield "88" ;
     bulba:form1 "Qwilfish" ;
     bulba:form2 "Hisuian Qwilfish" ;
     bulba:form2type1 "Dark" ;
@@ -25100,7 +25084,7 @@ bulba:Raichu_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "2" ;
     bulba:evsp "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "218<!--214 in Gen V-VI-->" ;
+    bulba:expyield "218" ;
     bulba:form1 "Raichu" ;
     bulba:form2 "Alolan Raichu" ;
     bulba:form2type1 "Electric" ;
@@ -25176,7 +25160,7 @@ bulba:Ralts_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:color "White" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Human-Like" ;
-    bulba:egggroup1note "<sup>{{color2|000|Generation VIII|Gen VIII+}}</sup>" ;
+    bulba:egggroup1note "{{color2|000|Generation VIII|Gen VIII+}}" ;
     bulba:egggroup2 "Amorphous" ;
     bulba:egggroupn "2" ;
     bulba:evsa "1" ;
@@ -25247,7 +25231,7 @@ bulba:Rapidash_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityn "d" ;
     bulba:body "08" ;
     bulba:catchrate "60" ;
-    bulba:category "{{tt|Fire Horse|Rapidash}} Pokémon<br/>{{tt|Unique Horn|Galarian Rapidash}}" ;
+    bulba:category "{{tt|Fire Horse|Rapidash}} Pokémon{{tt|Unique Horn|Galarian Rapidash}}" ;
     bulba:color "Yellow" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Field" ;
@@ -25681,7 +25665,7 @@ bulba:Remoraid_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Hustle" ;
     bulba:ability2 "Sniper" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Moody" ;
     bulba:abilityn "d" ;
     bulba:body "03" ;
@@ -26098,7 +26082,7 @@ bulba:Roggenrola_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Sturdy" ;
     bulba:ability2 "Weak Armor" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VII|Gen VII+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VII|Gen VII+}}" ;
     bulba:abilityd "Sand Force" ;
     bulba:abilitylayout "2" ;
     bulba:body "07" ;
@@ -26240,7 +26224,7 @@ bulba:Roserade_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "2" ;
     bulba:evsa "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "232<!--227 in Gen V-VI-->" ;
+    bulba:expyield "232" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "4" ;
@@ -26287,8 +26271,7 @@ bulba:Rotom_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:form5 "Fan Rotom" ;
     bulba:form5type1 "Electric" ;
     bulba:form5type2 "Flying" ;
-    bulba:form6 """Mow Rotom
-<!-- Rotom Pokédex and Rotom Phone are not forms. Do not add them to the infobox. -->""" ;
+    bulba:form6 "Mow Rotom" ;
     bulba:form6type1 "Electric" ;
     bulba:form6type2 "Grass" ;
     bulba:forme "6" ;
@@ -26416,7 +26399,7 @@ bulba:Sableye_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Keen Eye" ;
     bulba:ability2 "Stall" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilitycolm "2" ;
     bulba:abilityd "Prankster" ;
     bulba:abilitylayout "2+1" ;
@@ -26998,7 +26981,7 @@ bulba:Scizor_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Swarm" ;
     bulba:ability2 "Technician" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilitycolm "2" ;
     bulba:abilityd "Light Metal" ;
     bulba:abilitylayout "2+1" ;
@@ -27057,7 +27040,7 @@ bulba:Scolipede_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evsp "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "218<!--214 in Gen V-VI-->" ;
+    bulba:expyield "218" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "5" ;
@@ -27253,7 +27236,7 @@ bulba:Scyther_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Swarm" ;
     bulba:ability2 "Technician" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Steadfast" ;
     bulba:abilitylayout "2" ;
     bulba:body "13" ;
@@ -27288,7 +27271,7 @@ bulba:Seadra_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Poison Point" ;
     bulba:ability2 "Sniper" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Damp" ;
     bulba:abilityn "d" ;
     bulba:body "05" ;
@@ -27358,7 +27341,7 @@ bulba:Sealeo_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Thick Fat" ;
     bulba:ability2 "Ice Body" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Oblivious" ;
     bulba:abilityn "d" ;
     bulba:body "03" ;
@@ -27430,7 +27413,7 @@ bulba:Seel_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Thick Fat" ;
     bulba:ability2 "Hydration" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Ice Body" ;
     bulba:abilityn "d" ;
     bulba:body "03" ;
@@ -27477,7 +27460,7 @@ bulba:Seismitoad_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evhp "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "229<!--225 in Gen V-VI-->" ;
+    bulba:expyield "229" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "5" ;
@@ -27822,7 +27805,7 @@ bulba:Shellder_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Shell Armor" ;
     bulba:ability2 "Skill Link" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Overcoat" ;
     bulba:abilitylayout "2" ;
     bulba:body "01" ;
@@ -27955,7 +27938,7 @@ bulba:Shiftry_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Chlorophyll" ;
     bulba:ability2 "Wind Rider" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IX|Gen IX+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IX|Gen IX+}}" ;
     bulba:abilityd "Pickpocket" ;
     bulba:abilityn "d" ;
     bulba:abilityold "Early Bird" ;
@@ -28099,7 +28082,7 @@ bulba:Shroomish_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Effect Spore" ;
     bulba:ability2 "Poison Heal" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Quick Feet" ;
     bulba:abilityn "d" ;
     bulba:body "07" ;
@@ -28135,7 +28118,7 @@ bulba:Shuckle_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Sturdy" ;
     bulba:ability2 "Gluttony" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Contrary" ;
     bulba:abilityn "d" ;
     bulba:body "14" ;
@@ -28171,7 +28154,7 @@ bulba:Shuppet_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Insomnia" ;
     bulba:ability2 "Frisk" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Cursed Body" ;
     bulba:abilityn "d" ;
     bulba:body "01" ;
@@ -28670,7 +28653,7 @@ bulba:Skiploom_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Chlorophyll" ;
     bulba:ability2 "Leaf Guard" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Infiltrator" ;
     bulba:abilityn "d" ;
     bulba:body "06" ;
@@ -28707,7 +28690,7 @@ bulba:Skitty_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Cute Charm" ;
     bulba:ability2 "Normalize" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Wonder Skin" ;
     bulba:abilityn "d" ;
     bulba:body "08" ;
@@ -28949,7 +28932,7 @@ bulba:Sliggoo_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityn "2d" ;
     bulba:body "02" ;
     bulba:catchrate "45" ;
-    bulba:category "{{tt|Soft Tissue|Sliggoo}} Pokémon<br/>{{tt|Snail|Hisuian Sliggoo}}" ;
+    bulba:category "{{tt|Soft Tissue|Sliggoo}} Pokémon{{tt|Snail|Hisuian Sliggoo}}" ;
     bulba:color "Purple" ;
     bulba:eggcycles "40" ;
     bulba:egggroup1 "Dragon" ;
@@ -29089,7 +29072,7 @@ bulba:Slowking_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilitylayout "2+1" ;
     bulba:body "06" ;
     bulba:catchrate "70" ;
-    bulba:category "{{tt|Royal|Slowking}} Pokémon<br/>{{tt|Hexpert|Galarian Slowking}}" ;
+    bulba:category "{{tt|Royal|Slowking}} Pokémon{{tt|Hexpert|Galarian Slowking}}" ;
     bulba:color "Pink" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Monster" ;
@@ -29236,7 +29219,7 @@ bulba:Smeargle_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Own Tempo" ;
     bulba:ability2 "Technician" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Moody" ;
     bulba:abilitylayout "2" ;
     bulba:body "06" ;
@@ -29307,7 +29290,7 @@ bulba:Smoochum_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Oblivious" ;
     bulba:ability2 "Forewarn" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Hydration" ;
     bulba:abilityn "d" ;
     bulba:body "12" ;
@@ -29385,7 +29368,7 @@ bulba:Sneasler_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Pressure" ;
     bulba:ability2 "Unburden" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IX|Gen IX+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IX|Gen IX+}}" ;
     bulba:abilityd "Poison Touch" ;
     bulba:abilityn "1" ;
     bulba:body "12" ;
@@ -29431,7 +29414,7 @@ bulba:Snivy_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "2" ;
     bulba:evsp "1" ;
     bulba:evtotal "1" ;
-    bulba:expyield "62<!--28 in Gen V-VI-->" ;
+    bulba:expyield "62" ;
     bulba:friendship "70" ;
     bulba:gendercode "31" ;
     bulba:generation "5" ;
@@ -29521,7 +29504,7 @@ bulba:Snorunt_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Inner Focus" ;
     bulba:ability2 "Ice Body" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Moody" ;
     bulba:abilitylayout "2" ;
     bulba:body "12" ;
@@ -29727,7 +29710,7 @@ bulba:Solrock_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evat "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "161<!--154 in Gen V-VI-->" ;
+    bulba:expyield "161" ;
     bulba:friendship "70" ;
     bulba:gendercode "255" ;
     bulba:generation "3" ;
@@ -29844,7 +29827,7 @@ bulba:Spheal_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Thick Fat" ;
     bulba:ability2 "Ice Body" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Oblivious" ;
     bulba:abilityn "d" ;
     bulba:body "03" ;
@@ -29950,7 +29933,7 @@ bulba:Spinda_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Own Tempo" ;
     bulba:ability2 "Tangled Feet" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Contrary" ;
     bulba:abilityn "d" ;
     bulba:body "06" ;
@@ -30236,7 +30219,7 @@ bulba:Stantler_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Intimidate" ;
     bulba:ability2 "Frisk" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Sap Sipper" ;
     bulba:abilityn "d" ;
     bulba:body "08" ;
@@ -30280,7 +30263,7 @@ bulba:Staraptor_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evat "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "218<!--214 in Gen V-VI-->" ;
+    bulba:expyield "218" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "4" ;
@@ -30556,7 +30539,7 @@ bulba:Stoutland_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evat "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "225<!--221 in Gen V-VI-->" ;
+    bulba:expyield "225" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "5" ;
@@ -30759,7 +30742,7 @@ bulba:Sunflora_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Chlorophyll" ;
     bulba:ability2 "Solar Power" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Early Bird" ;
     bulba:abilityn "d" ;
     bulba:body "12" ;
@@ -30793,7 +30776,7 @@ bulba:Sunkern_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Chlorophyll" ;
     bulba:ability2 "Solar Power" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Early Bird" ;
     bulba:abilityn "d" ;
     bulba:body "01" ;
@@ -31053,7 +31036,7 @@ bulba:Swellow_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evsp "2" ;
     bulba:evtotal "2" ;
-    bulba:expyield "159<!--151 in Gen V-VI-->" ;
+    bulba:expyield "159" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "3" ;
@@ -31076,7 +31059,7 @@ bulba:Swinub_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Oblivious" ;
     bulba:ability2 "Snow Cloak" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Thick Fat" ;
     bulba:abilityn "d" ;
     bulba:body "08" ;
@@ -31348,7 +31331,7 @@ bulba:Tangela_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Chlorophyll" ;
     bulba:ability2 "Leaf Guard" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Regenerator" ;
     bulba:abilityn "d" ;
     bulba:body "07" ;
@@ -31624,7 +31607,7 @@ bulba:Tauros_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Intimidate" ;
     bulba:ability2 "Anger Point" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Sheer Force" ;
     bulba:abilityd2 "Cud Chew" ;
     bulba:abilityd2caption "Paldean Tauros" ;
@@ -31647,12 +31630,12 @@ bulba:Tauros_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:evtotal "2" ;
     bulba:expyield "172" ;
     bulba:form1 "Tauros" ;
-    bulba:form2 "Paldean Tauros<br>(Combat Breed)" ;
+    bulba:form2 "Paldean Tauros(Combat Breed)" ;
     bulba:form2type1 "Fighting" ;
-    bulba:form3 "Paldean Tauros<br>(Blaze Breed)" ;
+    bulba:form3 "Paldean Tauros(Blaze Breed)" ;
     bulba:form3type1 "Fighting" ;
     bulba:form3type2 "Fire" ;
-    bulba:form4 "Paldean Tauros<br>(Aqua Breed)" ;
+    bulba:form4 "Paldean Tauros(Aqua Breed)" ;
     bulba:form4type1 "Fighting" ;
     bulba:form4type2 "Water" ;
     bulba:formcolors "yes" ;
@@ -31688,7 +31671,7 @@ bulba:Teddiursa_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Pickup" ;
     bulba:ability2 "Quick Feet" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Honey Gather" ;
     bulba:abilityn "d" ;
     bulba:body "06" ;
@@ -31800,7 +31783,7 @@ bulba:Tepig_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evhp "1" ;
     bulba:evtotal "1" ;
-    bulba:expyield "62<!--28 in Gen V-VI-->" ;
+    bulba:expyield "62" ;
     bulba:friendship "70" ;
     bulba:gendercode "31" ;
     bulba:generation "5" ;
@@ -31844,7 +31827,7 @@ bulba:Terapagos_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:formbody "yes" ;
     bulba:forme "3" ;
     bulba:friendship "50" ;
-    bulba:gendercode "127<!--Do not change to Male, Terapagos as a species has a 50:50 gender ratio despite the Indigo Disk Terapagos being locked to 100% Male.-->" ;
+    bulba:gendercode "127" ;
     bulba:generation "9" ;
     bulba:image2 "1024Terapagos-Terastal.png" ;
     bulba:image3 "HOME1024S.png" ;
@@ -32498,7 +32481,7 @@ bulba:Torkoal_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "White Smoke" ;
     bulba:ability2 "Drought" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VII|Gen VII+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VII|Gen VII+}}" ;
     bulba:abilityd "Shell Armor" ;
     bulba:abilityn "d" ;
     bulba:body "08" ;
@@ -32896,7 +32879,7 @@ bulba:Trapinch_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Bug" ;
     bulba:egggroup2 "Dragon" ;
-    bulba:egggroup2note "<sup>{{color2|000|Generation VIII|Gen VIII}}+</sup>" ;
+    bulba:egggroup2note "{{color2|000|Generation VIII|Gen VIII}}+" ;
     bulba:egggroupn "2" ;
     bulba:evat "1" ;
     bulba:evtotal "1" ;
@@ -32990,7 +32973,7 @@ bulba:Tropius_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Chlorophyll" ;
     bulba:ability2 "Solar Power" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Harvest" ;
     bulba:abilityn "d" ;
     bulba:body "08" ;
@@ -33287,7 +33270,7 @@ bulba:Typhlosion_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityn "2d" ;
     bulba:body "08" ;
     bulba:catchrate "45" ;
-    bulba:category "{{tt|Volcano|Typhlosion}} Pokémon<br/>{{tt|Ghost Flame|Hisuian Typhlosion}}" ;
+    bulba:category "{{tt|Volcano|Typhlosion}} Pokémon{{tt|Ghost Flame|Hisuian Typhlosion}}" ;
     bulba:color "Yellow" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Field" ;
@@ -33403,7 +33386,7 @@ bulba:Tyrogue_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Guts" ;
     bulba:ability2 "Steadfast" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Vital Spirit" ;
     bulba:abilityn "d" ;
     bulba:body "12" ;
@@ -33514,7 +33497,7 @@ bulba:Unfezant_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evat "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "220<!--215 in Gen V-VI-->" ;
+    bulba:expyield "220" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "5" ;
@@ -33616,7 +33599,7 @@ bulba:Ursaring_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Guts" ;
     bulba:ability2 "Quick Feet" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Unnerve" ;
     bulba:abilityn "d" ;
     bulba:body "06" ;
@@ -33664,8 +33647,8 @@ bulba:Urshifu_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:form2 "Rapid Strike Style" ;
     bulba:form2type1 "Fighting" ;
     bulba:form2type2 "Water" ;
-    bulba:form3 "Gigantamax Urshifu<br>(Single Strike Style)" ;
-    bulba:form4 "Gigantamax Urshifu<br>(Rapid Strike Style)" ;
+    bulba:form3 "Gigantamax Urshifu(Single Strike Style)" ;
+    bulba:form4 "Gigantamax Urshifu(Rapid Strike Style)" ;
     bulba:forme "4" ;
     bulba:friendship "50" ;
     bulba:gendercode "31" ;
@@ -33729,7 +33712,7 @@ bulba:Vanillish_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Ice Body" ;
     bulba:ability2 "Snow Cloak" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VII|Gen VII+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VII|Gen VII+}}" ;
     bulba:abilityd "Weak Armor" ;
     bulba:abilityn "d" ;
     bulba:body "05" ;
@@ -33762,7 +33745,7 @@ bulba:Vanillite_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Ice Body" ;
     bulba:ability2 "Snow Cloak" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VII|Gen VII+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VII|Gen VII+}}" ;
     bulba:abilityd "Weak Armor" ;
     bulba:abilityn "d" ;
     bulba:body "05" ;
@@ -33795,7 +33778,7 @@ bulba:Vanilluxe_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Ice Body" ;
     bulba:ability2 "Snow Warning" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VII|Gen VII+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VII|Gen VII+}}" ;
     bulba:abilityd "Weak Armor" ;
     bulba:abilityn "d" ;
     bulba:body "11" ;
@@ -33969,7 +33952,7 @@ bulba:Venomoth_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Shield Dust" ;
     bulba:ability2 "Tinted Lens" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Wonder Skin" ;
     bulba:abilityn "d" ;
     bulba:body "13" ;
@@ -34006,7 +33989,7 @@ bulba:Venonat_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Compound Eyes" ;
     bulba:ability2 "Tinted Lens" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Run Away" ;
     bulba:abilityn "d" ;
     bulba:body "12" ;
@@ -34135,7 +34118,7 @@ bulba:Vibrava_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Bug" ;
     bulba:egggroup2 "Dragon" ;
-    bulba:egggroup2note "<sup>{{color2|000|Generation VIII|Gen VIII}}+</sup>" ;
+    bulba:egggroup2note "{{color2|000|Generation VIII|Gen VIII}}+" ;
     bulba:egggroupn "2" ;
     bulba:evat "1" ;
     bulba:evsp "1" ;
@@ -34205,7 +34188,7 @@ bulba:Victreebel_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evat "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "221<!--216 in Gen V-VI-->" ;
+    bulba:expyield "221" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "1" ;
@@ -34299,7 +34282,7 @@ bulba:Vileplume_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evsa "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "221<!--216 in Gen V-VI-->" ;
+    bulba:expyield "221" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "1" ;
@@ -34402,7 +34385,7 @@ bulba:Volbeat_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "2" ;
     bulba:evsp "1" ;
     bulba:evtotal "1" ;
-    bulba:expyield "151<!--140 in Gen V-VI-->" ;
+    bulba:expyield "151" ;
     bulba:friendship "70" ;
     bulba:gendercode "0" ;
     bulba:generation "3" ;
@@ -34427,7 +34410,7 @@ bulba:Volcanion_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:body "08" ;
     bulba:catchrate "3" ;
     bulba:category "Steam" ;
-    bulba:color "Brown<!--Listed or filtered as Brown in the Pokédex in XY/ORAS (may need verification), Bank, and HOME (mobile & console versions)-->" ;
+    bulba:color "Brown" ;
     bulba:eggcycles "120" ;
     bulba:egggroup1 "No Eggs Discovered" ;
     bulba:egggroupn "0" ;
@@ -34492,7 +34475,7 @@ bulba:Voltorb_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityn "d" ;
     bulba:body "01" ;
     bulba:catchrate "190" ;
-    bulba:category "{{tt|Ball|Voltorb}} Pokémon<br/>{{tt|Sphere|Hisuian Voltorb}}" ;
+    bulba:category "{{tt|Ball|Voltorb}} Pokémon{{tt|Sphere|Hisuian Voltorb}}" ;
     bulba:color "Red" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Mineral" ;
@@ -34708,7 +34691,7 @@ bulba:Walrein_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Thick Fat" ;
     bulba:ability2 "Ice Body" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Oblivious" ;
     bulba:abilitylayout "2" ;
     bulba:body "08" ;
@@ -34952,7 +34935,7 @@ bulba:Weezing_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Levitate" ;
     bulba:ability2 "Neutralizing Gas" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VIII|Gen VIII+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VIII|Gen VIII+}}" ;
     bulba:abilityd "Stench" ;
     bulba:abilityd2 "Misty Surge" ;
     bulba:abilityd2caption "Galarian Weezing" ;
@@ -35073,7 +35056,7 @@ bulba:Whiscash_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Oblivious" ;
     bulba:ability2 "Anticipation" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Hydration" ;
     bulba:abilityn "d" ;
     bulba:body "03" ;
@@ -35140,7 +35123,7 @@ bulba:Wigglytuff_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Cute Charm" ;
     bulba:ability2 "Competitive" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VI|Gen VI+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VI|Gen VI+}}" ;
     bulba:abilityd "Frisk" ;
     bulba:abilityn "d" ;
     bulba:body "12" ;
@@ -35152,7 +35135,7 @@ bulba:Wigglytuff_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evhp "3" ;
     bulba:evtotal "3" ;
-    bulba:expyield "196<!--191 in Gen V-VI-->" ;
+    bulba:expyield "196" ;
     bulba:friendship "70" ;
     bulba:gendercode "191" ;
     bulba:generation "1" ;
@@ -35242,7 +35225,7 @@ bulba:Wingull_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Keen Eye" ;
     bulba:ability2 "Hydration" ;
-    bulba:ability2note "<sup>{{color2|000|Generation VII|Gen VII+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation VII|Gen VII+}}" ;
     bulba:abilityd "Rain Dish" ;
     bulba:abilityn "d" ;
     bulba:body "09" ;
@@ -35396,7 +35379,7 @@ bulba:Woobat_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "2" ;
     bulba:evsp "1" ;
     bulba:evtotal "1" ;
-    bulba:expyield "65<!--63 in Gen V-VI-->" ;
+    bulba:expyield "65" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "5" ;
@@ -35457,7 +35440,7 @@ bulba:Wooper_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityn "2d" ;
     bulba:body "07" ;
     bulba:catchrate "255" ;
-    bulba:category "{{tt|Water Fish|Wooper}} Pokémon<br/>{{tt|Poison Fish|Paldean Wooper}}" ;
+    bulba:category "{{tt|Water Fish|Wooper}} Pokémon{{tt|Poison Fish|Paldean Wooper}}" ;
     bulba:color "Blue" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Water 1" ;
@@ -35594,7 +35577,7 @@ bulba:Wurmple_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evhp "1" ;
     bulba:evtotal "1" ;
-    bulba:expyield "56<!--39 in Gen V-VI-->" ;
+    bulba:expyield "56" ;
     bulba:friendship "70" ;
     bulba:gendercode "127" ;
     bulba:generation "3" ;
@@ -36098,7 +36081,7 @@ bulba:Zapdos_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilityoldcaption "Gen V{{tt|*|Zapdos with this Ability was never made available legitimately.}} Zapdos Hidden Ability" ;
     bulba:body "09" ;
     bulba:catchrate "3" ;
-    bulba:category "{{tt|Electric|Zapdos}} Pokémon<br/>{{tt|Strong Legs|Galarian Zapdos}}" ;
+    bulba:category "{{tt|Electric|Zapdos}} Pokémon{{tt|Strong Legs|Galarian Zapdos}}" ;
     bulba:color "Yellow" ;
     bulba:eggcycles "80" ;
     bulba:egggroup1 "No Eggs Discovered" ;
@@ -36266,7 +36249,7 @@ bulba:Zigzagoon_%28Pok%C3%A9mon%29 a bulba:Pokemon,
         schema1:Thing ;
     bulba:ability1 "Pickup" ;
     bulba:ability2 "Gluttony" ;
-    bulba:ability2note "<sup>{{color2|000|Generation IV|Gen IV+}}</sup>" ;
+    bulba:ability2note "{{color2|000|Generation IV|Gen IV+}}" ;
     bulba:abilityd "Quick Feet" ;
     bulba:abilitylayout "2" ;
     bulba:body "08" ;
@@ -36278,7 +36261,7 @@ bulba:Zigzagoon_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:egggroupn "1" ;
     bulba:evsp "1" ;
     bulba:evtotal "1" ;
-    bulba:expyield "56<!--48 in Gen V-VI-->" ;
+    bulba:expyield "56" ;
     bulba:form1 "Zigzagoon" ;
     bulba:form2 "Galarian Zigzagoon" ;
     bulba:form2type1 "Dark" ;
@@ -36308,7 +36291,7 @@ bulba:Zoroark_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilitylayout "1" ;
     bulba:body "06" ;
     bulba:catchrate "45" ;
-    bulba:category "{{tt|Illusion Fox|Zoroark}} Pokémon<br>{{tt|Baneful Fox|Hisuian Zoroark}}" ;
+    bulba:category "{{tt|Illusion Fox|Zoroark}} Pokémon{{tt|Baneful Fox|Hisuian Zoroark}}" ;
     bulba:color "Gray" ;
     bulba:eggcycles "20" ;
     bulba:egggroup1 "Field" ;
@@ -36346,7 +36329,7 @@ bulba:Zorua_%28Pok%C3%A9mon%29 a bulba:Pokemon,
     bulba:abilitylayout "1" ;
     bulba:body "08" ;
     bulba:catchrate "75" ;
-    bulba:category "{{tt|Tricky Fox|Zorua}} Pokémon<br/>{{tt|Spiteful Fox|Hisuian Zorua}}" ;
+    bulba:category "{{tt|Tricky Fox|Zorua}} Pokémon{{tt|Spiteful Fox|Hisuian Zorua}}" ;
     bulba:color "Gray" ;
     bulba:eggcycles "25" ;
     bulba:egggroup1 "Field" ;

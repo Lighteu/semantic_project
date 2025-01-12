@@ -4,6 +4,7 @@ import json
 from rdflib import Graph
 from tqdm import tqdm
 import urllib.parse
+from src.utils.html_handler import *
 
 def json_to_rdf(json_list, base_url="http://localhost:3030/bulba_vocab#"):
     """
@@ -40,13 +41,13 @@ def json_to_rdf(json_list, base_url="http://localhost:3030/bulba_vocab#"):
 
             # Handle translations and transliterations
             if key in ["jpname", "jptrans", "jptranslit"]:
-                g.add((ability_uri, URIRef(BULBA[key]), Literal(value)))
+                g.add((ability_uri, URIRef(BULBA[key]), Literal(strip_html_tags(value))))
             # Handle general attributes
             elif key in ["name", "gen", "colorscheme"]:
-                g.add((ability_uri, URIRef(BULBA[key]), Literal(value)))
+                g.add((ability_uri, URIRef(BULBA[key]), Literal(strip_html_tags(value))))
             # Catch all other keys as additional properties
             else:
-                g.add((ability_uri, URIRef(BULBA[key]), Literal(value)))
+                g.add((ability_uri, URIRef(BULBA[key]), Literal(strip_html_tags(value))))
 
     # Serialize the graph to Turtle format
     return g.serialize(format="turtle").encode('utf-8')
