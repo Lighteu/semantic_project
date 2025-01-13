@@ -8,7 +8,15 @@ bulba:Adaptability_%28Ability%29 a bulba:Ability,
     bulba:jpname "てきおうりょく" ;
     bulba:jptrans "Adaptability" ;
     bulba:jptranslit "Tekiōryoku" ;
-    bulba:name "Adaptability" .
+    bulba:name "Adaptability",
+        "Anpassung"@de,
+        "Adaptability"@en,
+        "Adaptable"@es,
+        "Adaptabilité"@fr,
+        "Adattabilità"@it,
+        "てきおうりょく"@ja,
+        "적응력"@ko,
+        "適應力"@zh .
 
 bulba:Aerilate_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -17,7 +25,15 @@ bulba:Aerilate_%28Ability%29 a bulba:Ability,
     bulba:jpname "スカイスキン" ;
     bulba:jptrans "Sky Skin" ;
     bulba:jptranslit "Sukai Sukin" ;
-    bulba:name "Aerilate" .
+    bulba:name "Aerilate",
+        "Zenithaut"@de,
+        "Aerilate"@en,
+        "Piel Celeste"@es,
+        "Peau Céleste"@fr,
+        "Pellecielo"@it,
+        "スカイスキン"@ja,
+        "스카이스킨"@ko,
+        "飛行皮膚"@zh .
 
 bulba:Aftermath_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -26,7 +42,15 @@ bulba:Aftermath_%28Ability%29 a bulba:Ability,
     bulba:jpname "ゆうばく" ;
     bulba:jptrans "Induced Explosion" ;
     bulba:jptranslit "Yūbaku" ;
-    bulba:name "Aftermath" .
+    bulba:name "Aftermath",
+        "Finalschlag"@de,
+        "Aftermath"@en,
+        "Detonación"@es,
+        "Boom Final"@fr,
+        "Scoppio"@it,
+        "ゆうばく"@ja,
+        "유폭"@ko,
+        "引爆"@zh .
 
 bulba:Air_Lock_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -35,7 +59,16 @@ bulba:Air_Lock_%28Ability%29 a bulba:Ability,
     bulba:jpname "エアロック" ;
     bulba:jptrans "Air Lock" ;
     bulba:jptranslit "Ea Rokku" ;
-    bulba:name "Air Lock" .
+    bulba:name "Air Lock",
+        "Vzdušný zámek"@czech,
+        "Klimaschutz"@de,
+        "Air Lock"@en,
+        "Bucle Aire"@es,
+        "Air Lock"@fr,
+        "Riparo"@it,
+        "エアロック"@ja,
+        "에어록"@ko,
+        "氣閘"@zh .
 
 bulba:Analytic_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -44,7 +77,15 @@ bulba:Analytic_%28Ability%29 a bulba:Ability,
     bulba:jpname "アナライズ" ;
     bulba:jptrans "Analyze" ;
     bulba:jptranslit "Anaraizu" ;
-    bulba:name "Analytic" .
+    bulba:name "Analytic",
+        "Analyse"@de,
+        "Analytic"@en,
+        "Cálculo Final"@es,
+        "Analyste"@fr,
+        "Ponderazione"@it,
+        "アナライズ"@ja,
+        "애널라이즈"@ko,
+        "分析"@zh .
 
 bulba:Anger_Point_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -53,7 +94,15 @@ bulba:Anger_Point_%28Ability%29 a bulba:Ability,
     bulba:jpname "いかりのつぼ" ;
     bulba:jptrans "Anger Point" ;
     bulba:jptranslit "Ikari no Tsubo" ;
-    bulba:name "Anger Point" .
+    bulba:name "Anger Point",
+        "Kurzschluss"@de,
+        "Anger Point"@en,
+        "Irascible"@es,
+        "Colérique"@fr,
+        "Grancollera"@it,
+        "いかりのつぼ"@ja,
+        "분노의경혈"@ko,
+        "憤怒穴位"@zh .
 
 bulba:Anger_Shell_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -71,7 +120,15 @@ bulba:Anticipation_%28Ability%29 a bulba:Ability,
     bulba:jpname "きけんよち" ;
     bulba:jptrans "Danger Premonition" ;
     bulba:jptranslit "Kikenyochi" ;
-    bulba:name "Anticipation" .
+    bulba:name "Anticipation",
+        "Vorahnung"@de,
+        "Anticipation"@en,
+        "Anticipación"@es,
+        "Anticipation"@fr,
+        "Presagio"@it,
+        "きけんよち"@ja,
+        "위험예지"@ko,
+        "危險預知"@zh .
 
 bulba:Arena_Trap_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -80,7 +137,16 @@ bulba:Arena_Trap_%28Ability%29 a bulba:Ability,
     bulba:jpname "ありじごく" ;
     bulba:jptrans "Antlion" ;
     bulba:jptranslit "Arijigoku" ;
-    bulba:name "Arena Trap" .
+    bulba:name "Arena Trap",
+        "Past"@czech,
+        "Ausweglos"@de,
+        "Arena Trap"@en,
+        "Trampa Arena"@es,
+        "Piège Sable"@fr,
+        "Trappoarena"@it,
+        "ありじごく"@ja,
+        "개미지옥"@ko,
+        "沙穴"@zh .
 
 bulba:Armor_Tail_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -98,7 +164,15 @@ bulba:Aroma_Veil_%28Ability%29 a bulba:Ability,
     bulba:jpname "アロマベール" ;
     bulba:jptrans "Aroma Veil" ;
     bulba:jptranslit "Aroma Bēru" ;
-    bulba:name "Aroma Veil" .
+    bulba:name "Aroma Veil",
+        "Dufthülle"@de,
+        "Aroma Veil"@en,
+        "Velo Aroma"@es,
+        "Aroma-Voile"@fr,
+        "Aromavelo"@it,
+        "アロマベール"@ja,
+        "아로마베일"@ko,
+        "芳香幕"@zh .
 
 bulba:As_One_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -107,7 +181,15 @@ bulba:As_One_%28Ability%29 a bulba:Ability,
     bulba:jpname "じんばいったい" ;
     bulba:jptrans "Rider and Mount in Unison" ;
     bulba:jptranslit "Jinba Ittai" ;
-    bulba:name "As One" .
+    bulba:name "As One",
+        "Reitgespann"@de,
+        "As One"@en,
+        "Unidad Ecuestre"@es,
+        "Osmose Équine"@fr,
+        "Sintonia Equina"@it,
+        "じんばいったい"@ja,
+        "혼연일체"@ko,
+        "人馬一體"@zh .
 
 bulba:Aura_Break_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -116,7 +198,15 @@ bulba:Aura_Break_%28Ability%29 a bulba:Ability,
     bulba:jpname "オーラブレイク" ;
     bulba:jptrans "Aura Break" ;
     bulba:jptranslit "Ōra Bureiku" ;
-    bulba:name "Aura Break" .
+    bulba:name "Aura Break",
+        "Aura-Umkehr"@de,
+        "Aura Break"@en,
+        "Rompeaura"@es,
+        "Aura Inversée"@fr,
+        "Frangiaura"@it,
+        "オーラブレイク"@ja,
+        "오라브레이크"@ko,
+        "氣場破壞"@zh .
 
 bulba:Bad_Dreams_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -125,7 +215,15 @@ bulba:Bad_Dreams_%28Ability%29 a bulba:Ability,
     bulba:jpname "ナイトメア" ;
     bulba:jptrans "Nightmare" ;
     bulba:jptranslit "Naitomea" ;
-    bulba:name "Bad Dreams" .
+    bulba:name "Bad Dreams",
+        "Alptraum"@de,
+        "Bad Dreams"@en,
+        "Mal Sueño"@es,
+        "Mauvais Rêve"@fr,
+        "Sogniamari"@it,
+        "ナイトメア"@ja,
+        "나이트메어"@ko,
+        "夢魘"@zh .
 
 bulba:Ball_Fetch_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -134,7 +232,15 @@ bulba:Ball_Fetch_%28Ability%29 a bulba:Ability,
     bulba:jpname "たまひろい" ;
     bulba:jptrans "Ball Fetch" ;
     bulba:jptranslit "Tama Hiroi" ;
-    bulba:name "Ball Fetch" .
+    bulba:name "Ball Fetch",
+        "Apport"@de,
+        "Ball Fetch"@en,
+        "Recogebolas"@es,
+        "Ramasse Ball"@fr,
+        "Raccattapalle"@it,
+        "たまひろい"@ja,
+        "볼줍기"@ko,
+        "撿球"@zh .
 
 bulba:Battery_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -143,7 +249,15 @@ bulba:Battery_%28Ability%29 a bulba:Ability,
     bulba:jpname "バッテリー" ;
     bulba:jptrans "Battery" ;
     bulba:jptranslit "Batterī" ;
-    bulba:name "Battery" .
+    bulba:name "Battery",
+        "Batterie"@de,
+        "Battery"@en,
+        "Batería"@es,
+        "Batterie"@fr,
+        "Batteria"@it,
+        "バッテリー"@ja,
+        "배터리"@ko,
+        "蓄電池"@zh .
 
 bulba:Battle_Armor_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -152,7 +266,16 @@ bulba:Battle_Armor_%28Ability%29 a bulba:Ability,
     bulba:jpname "カブトアーマー" ;
     bulba:jptrans "Kabuto Armor" ;
     bulba:jptranslit "Kabuto Āmā" ;
-    bulba:name "Battle Armor" .
+    bulba:name "Battle Armor",
+        "Bojové brnění"@czech,
+        "Kampfpanzer"@de,
+        "Battle Armor"@en,
+        "Armadura Batalla"@es,
+        "Armurbaston"@fr,
+        "Lottascudo"@it,
+        "カブトアーマー"@ja,
+        "전투무장"@ko,
+        "戰鬥盔甲"@zh .
 
 bulba:Battle_Bond_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -161,7 +284,15 @@ bulba:Battle_Bond_%28Ability%29 a bulba:Ability,
     bulba:jpname "きずなへんげ" ;
     bulba:jptrans "Bond Transformation" ;
     bulba:jptranslit "Kizuna Henge" ;
-    bulba:name "Battle Bond" .
+    bulba:name "Battle Bond",
+        "Freundschaftsakt"@de,
+        "Battle Bond"@en,
+        "Fuerte Afecto"@es,
+        "Synergie"@fr,
+        "Morfosintonia"@it,
+        "きずなへんげ"@ja,
+        "유대변화"@ko,
+        "牽絆變身"@zh .
 
 bulba:Beads_of_Ruin_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -179,7 +310,15 @@ bulba:Beast_Boost_%28Ability%29 a bulba:Ability,
     bulba:jpname "ビーストブースト" ;
     bulba:jptrans "Beast Boost" ;
     bulba:jptranslit "Bīsuto Būsuto" ;
-    bulba:name "Beast Boost" .
+    bulba:name "Beast Boost",
+        "Bestien-Boost"@de,
+        "Beast Boost"@en,
+        "Ultraimpulso"@es,
+        "Boost Chimère"@fr,
+        "Ultraboost"@it,
+        "ビーストブースト"@ja,
+        "비스트부스트"@ko,
+        "異獸提升"@zh .
 
 bulba:Berserk_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -188,7 +327,15 @@ bulba:Berserk_%28Ability%29 a bulba:Ability,
     bulba:jpname "ぎゃくじょう" ;
     bulba:jptrans "Frenzy" ;
     bulba:jptranslit "Gyakujō" ;
-    bulba:name "Berserk" .
+    bulba:name "Berserk",
+        "Wutausbruch"@de,
+        "Berserk"@en,
+        "Cólera"@es,
+        "Dracolère"@fr,
+        "Furore"@it,
+        "ぎゃくじょう"@ja,
+        "발끈"@ko,
+        "怒火沖天"@zh .
 
 bulba:Big_Pecks_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -197,7 +344,15 @@ bulba:Big_Pecks_%28Ability%29 a bulba:Ability,
     bulba:jpname "はとむね" ;
     bulba:jptrans "Pigeon Breast" ;
     bulba:jptranslit "Hatomune" ;
-    bulba:name "Big Pecks" .
+    bulba:name "Big Pecks",
+        "Brustbieter"@de,
+        "Big Pecks"@en,
+        "Sacapecho"@es,
+        "Cœur de Coq"@fr,
+        "Pettinfuori"@it,
+        "はとむね"@ja,
+        "부풀린가슴"@ko,
+        "健壯胸肌"@zh .
 
 bulba:Blaze_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -206,7 +361,16 @@ bulba:Blaze_%28Ability%29 a bulba:Ability,
     bulba:jpname "もうか" ;
     bulba:jptrans "Raging Flames" ;
     bulba:jptranslit "Mōka" ;
-    bulba:name "Blaze" .
+    bulba:name "Blaze",
+        "Žár"@czech,
+        "Großbrand"@de,
+        "Blaze"@en,
+        "Mar Llamas"@es,
+        "Brasier"@fr,
+        "Aiutofuoco"@it,
+        "もうか"@ja,
+        "맹화"@ko,
+        "猛火"@zh .
 
 bulba:Bulletproof_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -215,7 +379,15 @@ bulba:Bulletproof_%28Ability%29 a bulba:Ability,
     bulba:jpname "ぼうだん" ;
     bulba:jptrans "Bulletproof" ;
     bulba:jptranslit "Bōdan" ;
-    bulba:name "Bulletproof" .
+    bulba:name "Bulletproof",
+        "Kugelsicher"@de,
+        "Bulletproof"@en,
+        "Antibalas"@es,
+        "Pare-Balles"@fr,
+        "Antiproiettile"@it,
+        "ぼうだん"@ja,
+        "방탄"@ko,
+        "防彈"@zh .
 
 bulba:Cacophony_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -233,7 +405,15 @@ bulba:Cheek_Pouch_%28Ability%29 a bulba:Ability,
     bulba:jpname "ほおぶくろ" ;
     bulba:jptrans "Cheek Pouch" ;
     bulba:jptranslit "Hō Bukuro" ;
-    bulba:name "Cheek Pouch" .
+    bulba:name "Cheek Pouch",
+        "Backentaschen"@de,
+        "Cheek Pouch"@en,
+        "Carrillo"@es,
+        "Bajoues"@fr,
+        "Guancegonfie"@it,
+        "ほおぶくろ"@ja,
+        "볼주머니"@ko,
+        "頰囊"@zh .
 
 bulba:Chilling_Neigh_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -242,7 +422,15 @@ bulba:Chilling_Neigh_%28Ability%29 a bulba:Ability,
     bulba:jpname "しろのいななき" ;
     bulba:jptrans "White Neigh" ;
     bulba:jptranslit "Shiro no Inanaki" ;
-    bulba:name "Chilling Neigh" .
+    bulba:name "Chilling Neigh",
+        "Helles Wiehern"@de,
+        "Chilling Neigh"@en,
+        "Relincho Blanco"@es,
+        "Blanche Ruade"@fr,
+        "Nitrito Bianco"@it,
+        "しろのいななき"@ja,
+        "백의울음"@ko,
+        "蒼白嘶鳴"@zh .
 
 bulba:Chlorophyll_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -251,7 +439,16 @@ bulba:Chlorophyll_%28Ability%29 a bulba:Ability,
     bulba:jpname "ようりょくそ" ;
     bulba:jptrans "Chlorophyll" ;
     bulba:jptranslit "Yōryokuso" ;
-    bulba:name "Chlorophyll" .
+    bulba:name "Chlorophyll",
+        "Chlorofyl"@czech,
+        "Chlorophyll"@de,
+        "Chlorophyll"@en,
+        "Clorofila"@es,
+        "Chlorophylle"@fr,
+        "Clorofilla"@it,
+        "ようりょくそ"@ja,
+        "엽록소"@ko,
+        "葉綠素"@zh .
 
 bulba:Clear_Body_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -260,7 +457,16 @@ bulba:Clear_Body_%28Ability%29 a bulba:Ability,
     bulba:jpname "クリアボディ" ;
     bulba:jptrans "Clear Body" ;
     bulba:jptranslit "Kuria Bodi" ;
-    bulba:name "Clear Body" .
+    bulba:name "Clear Body",
+        "Průsvitnost"@czech,
+        "Neutraltorso"@de,
+        "Clear Body"@en,
+        "Cuerpo Puro"@es,
+        "Corps Sain"@fr,
+        "Corpochiaro"@it,
+        "クリアボディ"@ja,
+        "클리어바디"@ko,
+        "恆淨之軀"@zh .
 
 bulba:Cloud_Nine_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -269,7 +475,16 @@ bulba:Cloud_Nine_%28Ability%29 a bulba:Ability,
     bulba:jpname "ノーてんき" ;
     bulba:jptrans "No Weather" ;
     bulba:jptranslit "Nō Tenki" ;
-    bulba:name "Cloud Nine" .
+    bulba:name "Cloud Nine",
+        "Sedmé nebe"@czech,
+        "Wolke Sieben"@de,
+        "Cloud Nine"@en,
+        "Aclimatación"@es,
+        "Ciel Gris"@fr,
+        "Antimeteo"@it,
+        "ノーてんき"@ja,
+        "날씨부정"@ko,
+        "無關天氣"@zh .
 
 bulba:Color_Change_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -278,7 +493,16 @@ bulba:Color_Change_%28Ability%29 a bulba:Ability,
     bulba:jpname "へんしょく" ;
     bulba:jptrans "Color Change" ;
     bulba:jptranslit "Henshoku" ;
-    bulba:name "Color Change" .
+    bulba:name "Color Change",
+        "Změna barvy"@czech,
+        "Farbwechsel"@de,
+        "Color Change"@en,
+        "Cambio Color"@es,
+        "Homochromie"@fr,
+        "Cambiacolore"@it,
+        "へんしょく"@ja,
+        "변색"@ko,
+        "變色"@zh .
 
 bulba:Comatose_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -287,7 +511,15 @@ bulba:Comatose_%28Ability%29 a bulba:Ability,
     bulba:jpname "ぜったいねむり" ;
     bulba:jptrans "Sure Sleeper" ;
     bulba:jptranslit "Zettai Nemuri" ;
-    bulba:name "Comatose" .
+    bulba:name "Comatose",
+        "Dauerschlaf"@de,
+        "Comatose"@en,
+        "Letargo Perenne"@es,
+        "Hypersommeil"@fr,
+        "Sonno Assoluto"@it,
+        "ぜったいねむり"@ja,
+        "절대안깸"@ko,
+        "絕對睡眠"@zh .
 
 bulba:Commander_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -305,7 +537,15 @@ bulba:Competitive_%28Ability%29 a bulba:Ability,
     bulba:jpname "かちき" ;
     bulba:jptrans "Determined Spirit" ;
     bulba:jptranslit "Kachiki" ;
-    bulba:name "Competitive" .
+    bulba:name "Competitive",
+        "Unbeugsamkeit"@de,
+        "Competitive"@en,
+        "Tenacidad"@es,
+        "Battant"@fr,
+        "Tenacia"@it,
+        "かちき"@ja,
+        "승기"@ko,
+        "好勝"@zh .
 
 bulba:Compound_Eyes_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -314,7 +554,16 @@ bulba:Compound_Eyes_%28Ability%29 a bulba:Ability,
     bulba:jpname "ふくがん" ;
     bulba:jptrans "Compound Eyes" ;
     bulba:jptranslit "Fukugan" ;
-    bulba:name "Compound Eyes" .
+    bulba:name "Compound Eyes",
+        "Složené oči"@czech,
+        "Facettenauge"@de,
+        "Compound Eyes"@en,
+        "Ojo Compuesto"@es,
+        "Œil Composé"@fr,
+        "Insettocchi"@it,
+        "ふくがん"@ja,
+        "복안"@ko,
+        "複眼"@zh .
 
 bulba:Contrary_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -323,7 +572,15 @@ bulba:Contrary_%28Ability%29 a bulba:Ability,
     bulba:jpname "あまのじゃく" ;
     bulba:jptrans "Amanojaku" ;
     bulba:jptranslit "Amanojaku" ;
-    bulba:name "Contrary" .
+    bulba:name "Contrary",
+        "Umkehrung"@de,
+        "Contrary"@en,
+        "Respondón"@es,
+        "Contestation"@fr,
+        "Inversione"@it,
+        "あまのじゃく"@ja,
+        "심술꾸러기"@ko,
+        "唱反調"@zh .
 
 bulba:Corrosion_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -332,7 +589,15 @@ bulba:Corrosion_%28Ability%29 a bulba:Ability,
     bulba:jpname "ふしょく" ;
     bulba:jptrans "Corrosion" ;
     bulba:jptranslit "Fushoku" ;
-    bulba:name "Corrosion" .
+    bulba:name "Corrosion",
+        "Korrosion"@de,
+        "Corrosion"@en,
+        "Corrosión"@es,
+        "Corrosion"@fr,
+        "Corrosione"@it,
+        "ふしょく"@ja,
+        "부식"@ko,
+        "腐蝕"@zh .
 
 bulba:Costar_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -350,7 +615,15 @@ bulba:Cotton_Down_%28Ability%29 a bulba:Ability,
     bulba:jpname "わたげ" ;
     bulba:jptrans "Cotton Down" ;
     bulba:jptranslit "Watage" ;
-    bulba:name "Cotton Down" .
+    bulba:name "Cotton Down",
+        "Wollflaum"@de,
+        "Cotton Down"@en,
+        "Pelusa"@es,
+        "Effilochage"@fr,
+        "Lanugine"@it,
+        "わたげ"@ja,
+        "솜털"@ko,
+        "棉絮"@zh .
 
 bulba:Cud_Chew_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -368,7 +641,15 @@ bulba:Curious_Medicine_%28Ability%29 a bulba:Ability,
     bulba:jpname "きみょうなくすり" ;
     bulba:jptrans "Curious Medicine" ;
     bulba:jptranslit "Kimyō na Kusuri" ;
-    bulba:name "Curious Medicine" .
+    bulba:name "Curious Medicine",
+        "Kuriose Arznei"@de,
+        "Curious Medicine"@en,
+        "Medicina Extraña"@es,
+        "Breuvage Suspect"@fr,
+        "Stranofarmaco"@it,
+        "きみょうなくすり"@ja,
+        "기묘한약"@ko,
+        "怪藥"@zh .
 
 bulba:Cursed_Body_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -377,7 +658,15 @@ bulba:Cursed_Body_%28Ability%29 a bulba:Ability,
     bulba:jpname "のろわれボディ" ;
     bulba:jptrans "Cursed Body" ;
     bulba:jptranslit "Noroware Bodi" ;
-    bulba:name "Cursed Body" .
+    bulba:name "Cursed Body",
+        "Tastfluch"@de,
+        "Cursed Body"@en,
+        "Cuerpo Maldito"@es,
+        "Corps Maudit"@fr,
+        "Corpofunesto"@it,
+        "のろわれボディ"@ja,
+        "저주받은바디"@ko,
+        "詛咒之軀"@zh .
 
 bulba:Cute_Charm_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -386,7 +675,16 @@ bulba:Cute_Charm_%28Ability%29 a bulba:Ability,
     bulba:jpname "メロメロボディ" ;
     bulba:jptrans "Mad Love Body" ;
     bulba:jptranslit "Meromero Bodi" ;
-    bulba:name "Cute Charm" .
+    bulba:name "Cute Charm",
+        "Roztomilost"@czech,
+        "Charmebolzen"@de,
+        "Cute Charm"@en,
+        "Gran Encanto"@es,
+        "Joli Sourire"@fr,
+        "Incantevole"@it,
+        "メロメロボディ"@ja,
+        "헤롱헤롱바디"@ko,
+        "迷人之軀"@zh .
 
 bulba:Damp_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -395,7 +693,16 @@ bulba:Damp_%28Ability%29 a bulba:Ability,
     bulba:jpname "しめりけ" ;
     bulba:jptrans "Moisture" ;
     bulba:jptranslit "Shimerike" ;
-    bulba:name "Damp" .
+    bulba:name "Damp",
+        "Vlhkost"@czech,
+        "Feuchtigkeit"@de,
+        "Damp"@en,
+        "Humedad"@es,
+        "Moiteur"@fr,
+        "Umidità"@it,
+        "しめりけ"@ja,
+        "습기"@ko,
+        "濕氣"@zh .
 
 bulba:Dancer_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -404,7 +711,15 @@ bulba:Dancer_%28Ability%29 a bulba:Ability,
     bulba:jpname "おどりこ" ;
     bulba:jptrans "Dancer" ;
     bulba:jptranslit "Odoriko" ;
-    bulba:name "Dancer" .
+    bulba:name "Dancer",
+        "Tänzer"@de,
+        "Dancer"@en,
+        "Pareja de Baile"@es,
+        "Danseuse"@fr,
+        "Sincrodanza"@it,
+        "おどりこ"@ja,
+        "무희"@ko,
+        "舞者"@zh .
 
 bulba:Dark_Aura_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -413,7 +728,15 @@ bulba:Dark_Aura_%28Ability%29 a bulba:Ability,
     bulba:jpname "ダークオーラ" ;
     bulba:jptrans "Dark Aura" ;
     bulba:jptranslit "Dāku Ōra" ;
-    bulba:name "Dark Aura" .
+    bulba:name "Dark Aura",
+        "Dunkelaura"@de,
+        "Dark Aura"@en,
+        "Aura Oscura"@es,
+        "Aura Ténébreuse"@fr,
+        "Auratetra"@it,
+        "ダークオーラ"@ja,
+        "다크오라"@ko,
+        "暗黑氣場"@zh .
 
 bulba:Dauntless_Shield_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -422,7 +745,15 @@ bulba:Dauntless_Shield_%28Ability%29 a bulba:Ability,
     bulba:jpname "ふくつのたて" ;
     bulba:jptrans "Fortitude Shield" ;
     bulba:jptranslit "Fukutsu no Tate" ;
-    bulba:name "Dauntless Shield" .
+    bulba:name "Dauntless Shield",
+        "Wackerer Schild"@de,
+        "Dauntless Shield"@en,
+        "Escudo Recio"@es,
+        "Égide Inflexible"@fr,
+        "Scudo Saldo"@it,
+        "ふくつのたて"@ja,
+        "불굴의방패"@ko,
+        "不屈之盾"@zh .
 
 bulba:Dazzling_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -431,7 +762,15 @@ bulba:Dazzling_%28Ability%29 a bulba:Ability,
     bulba:jpname "ビビッドボディ" ;
     bulba:jptrans "Vivid Body" ;
     bulba:jptranslit "Bibiddo Bodi" ;
-    bulba:name "Dazzling" .
+    bulba:name "Dazzling",
+        "Buntkörper"@de,
+        "Dazzling"@en,
+        "Cuerpo Vívido"@es,
+        "Corps Coloré"@fr,
+        "Corposgargiante"@it,
+        "ビビッドボディ"@ja,
+        "비비드바디"@ko,
+        "鮮艷之軀"@zh .
 
 bulba:Defeatist_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -440,7 +779,15 @@ bulba:Defeatist_%28Ability%29 a bulba:Ability,
     bulba:jpname "よわき" ;
     bulba:jptrans "Timid" ;
     bulba:jptranslit "Yowaki" ;
-    bulba:name "Defeatist" .
+    bulba:name "Defeatist",
+        "Schwächling"@de,
+        "Defeatist"@en,
+        "Flaqueza"@es,
+        "Défaitiste"@fr,
+        "Sconforto"@it,
+        "よわき"@ja,
+        "무기력"@ko,
+        "軟弱"@zh .
 
 bulba:Defiant_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -449,7 +796,15 @@ bulba:Defiant_%28Ability%29 a bulba:Ability,
     bulba:jpname "まけんき" ;
     bulba:jptrans "Competitive Spirit" ;
     bulba:jptranslit "Makenki" ;
-    bulba:name "Defiant" .
+    bulba:name "Defiant",
+        "Siegeswille"@de,
+        "Defiant"@en,
+        "Competitivo"@es,
+        "Acharné"@fr,
+        "Agonismo"@it,
+        "まけんき"@ja,
+        "오기"@ko,
+        "不服輸"@zh .
 
 bulba:Delta_Stream_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -458,7 +813,15 @@ bulba:Delta_Stream_%28Ability%29 a bulba:Ability,
     bulba:jpname "デルタストリーム" ;
     bulba:jptrans "Delta Stream" ;
     bulba:jptranslit "Deruta Sutorīmu" ;
-    bulba:name "Delta Stream" .
+    bulba:name "Delta Stream",
+        "Delta-Wind"@de,
+        "Delta Stream"@en,
+        "Ráfaga Delta"@es,
+        "Souffle Delta"@fr,
+        "Flusso Delta"@it,
+        "デルタストリーム"@ja,
+        "델타스트림"@ko,
+        "德爾塔氣流"@zh .
 
 bulba:Desolate_Land_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -467,7 +830,15 @@ bulba:Desolate_Land_%28Ability%29 a bulba:Ability,
     bulba:jpname "おわりのだいち" ;
     bulba:jptrans "Land of the End" ;
     bulba:jptranslit "Owari no Daichi" ;
-    bulba:name "Desolate Land" .
+    bulba:name "Desolate Land",
+        "Endland"@de,
+        "Desolate Land"@en,
+        "Tierra del Ocaso"@es,
+        "Terre Finale"@fr,
+        "Terra Estrema"@it,
+        "おわりのだいち"@ja,
+        "끝의대지"@ko,
+        "終結之地"@zh .
 
 bulba:Disguise_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -476,7 +847,15 @@ bulba:Disguise_%28Ability%29 a bulba:Ability,
     bulba:jpname "ばけのかわ" ;
     bulba:jptrans "Disguise" ;
     bulba:jptranslit "Bakenokawa" ;
-    bulba:name "Disguise" .
+    bulba:name "Disguise",
+        "Kostümspuk"@de,
+        "Disguise"@en,
+        "Disfraz"@es,
+        "Fantômasque"@fr,
+        "Fantasmanto"@it,
+        "ばけのかわ"@ja,
+        "탈"@ko,
+        "畫皮"@zh .
 
 bulba:Download_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -485,7 +864,15 @@ bulba:Download_%28Ability%29 a bulba:Ability,
     bulba:jpname "ダウンロード" ;
     bulba:jptrans "Download" ;
     bulba:jptranslit "Daunrōdo" ;
-    bulba:name "Download" .
+    bulba:name "Download",
+        "Download"@de,
+        "Download"@en,
+        "Descarga"@es,
+        "Télécharge"@fr,
+        "Download"@it,
+        "ダウンロード"@ja,
+        "다운로드"@ko,
+        "下載"@zh .
 
 bulba:Dragon%27s_Maw_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -503,7 +890,16 @@ bulba:Drizzle_%28Ability%29 a bulba:Ability,
     bulba:jpname "あめふらし" ;
     bulba:jptrans "Rainfall" ;
     bulba:jptranslit "Amefurashi" ;
-    bulba:name "Drizzle" .
+    bulba:name "Drizzle",
+        "Mrholení"@czech,
+        "Niesel"@de,
+        "Drizzle"@en,
+        "Llovizna"@es,
+        "Crachin"@fr,
+        "Piovischio"@it,
+        "あめふらし"@ja,
+        "잔비"@ko,
+        "降雨"@zh .
 
 bulba:Drought_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -512,7 +908,16 @@ bulba:Drought_%28Ability%29 a bulba:Ability,
     bulba:jpname "ひでり" ;
     bulba:jptrans "Drought" ;
     bulba:jptranslit "Hideri" ;
-    bulba:name "Drought" .
+    bulba:name "Drought",
+        "Vyprahlost"@czech,
+        "Dürre"@de,
+        "Drought"@en,
+        "Sequía"@es,
+        "Sécheresse"@fr,
+        "Siccità"@it,
+        "ひでり"@ja,
+        "가뭄"@ko,
+        "日照"@zh .
 
 bulba:Dry_Skin_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -521,7 +926,15 @@ bulba:Dry_Skin_%28Ability%29 a bulba:Ability,
     bulba:jpname "かんそうはだ" ;
     bulba:jptrans "Dry Skin" ;
     bulba:jptranslit "Kansō Hada" ;
-    bulba:name "Dry Skin" .
+    bulba:name "Dry Skin",
+        "Trockenheit"@de,
+        "Dry Skin"@en,
+        "Piel Seca"@es,
+        "Peau Sèche"@fr,
+        "Pellearsa"@it,
+        "かんそうはだ"@ja,
+        "건조피부"@ko,
+        "乾燥皮膚"@zh .
 
 bulba:Early_Bird_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -530,7 +943,16 @@ bulba:Early_Bird_%28Ability%29 a bulba:Ability,
     bulba:jpname "はやおき" ;
     bulba:jptrans "Early Rising" ;
     bulba:jptranslit "Hayaoki" ;
-    bulba:name "Early Bird" .
+    bulba:name "Early Bird",
+        "Ranní ptáče"@czech,
+        "Frühwecker"@de,
+        "Early Bird"@en,
+        "Madrugar"@es,
+        "Matinal"@fr,
+        "Sveglialampo"@it,
+        "はやおき"@ja,
+        "일찍기상"@ko,
+        "早起"@zh .
 
 bulba:Earth_Eater_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -548,7 +970,16 @@ bulba:Effect_Spore_%28Ability%29 a bulba:Ability,
     bulba:jpname "ほうし" ;
     bulba:jptrans "Spore" ;
     bulba:jptranslit "Hōshi" ;
-    bulba:name "Effect Spore" .
+    bulba:name "Effect Spore",
+        "Výtrusy"@czech,
+        "Sporenwirt"@de,
+        "Effect Spore"@en,
+        "Efecto Espora"@es,
+        "Pose Spore"@fr,
+        "Spargispora"@it,
+        "ほうし"@ja,
+        "포자"@ko,
+        "孢子"@zh .
 
 bulba:Electric_Surge_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -557,7 +988,15 @@ bulba:Electric_Surge_%28Ability%29 a bulba:Ability,
     bulba:jpname "エレキメイカー" ;
     bulba:jptrans "Electric Maker" ;
     bulba:jptranslit "Ereki Meikā" ;
-    bulba:name "Electric Surge" .
+    bulba:name "Electric Surge",
+        "Elektro-Erzeuger"@de,
+        "Electric Surge"@en,
+        "Electrogénesis"@es,
+        "Créa-Élec"@fr,
+        "Elettrogenesi"@it,
+        "エレキメイカー"@ja,
+        "일렉트릭메이커"@ko,
+        "電氣製造者"@zh .
 
 bulba:Electromorphosis_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -584,7 +1023,15 @@ bulba:Emergency_Exit_%28Ability%29 a bulba:Ability,
     bulba:jpname "ききかいひ" ;
     bulba:jptrans "Crisis Prevention" ;
     bulba:jptranslit "Kiki Kaihi" ;
-    bulba:name "Emergency Exit" .
+    bulba:name "Emergency Exit",
+        "Rückzug"@de,
+        "Emergency Exit"@en,
+        "Retirada"@es,
+        "Repli Tactique"@fr,
+        "Passoindietro"@it,
+        "ききかいひ"@ja,
+        "위기회피"@ko,
+        "危險迴避"@zh .
 
 bulba:Fairy_Aura_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -593,7 +1040,15 @@ bulba:Fairy_Aura_%28Ability%29 a bulba:Ability,
     bulba:jpname "フェアリーオーラ" ;
     bulba:jptrans "Fairy Aura" ;
     bulba:jptranslit "Fearī Ōra" ;
-    bulba:name "Fairy Aura" .
+    bulba:name "Fairy Aura",
+        "Feenaura"@de,
+        "Fairy Aura"@en,
+        "Aura Feérica"@es,
+        "Aura Féérique"@fr,
+        "Aurafolletto"@it,
+        "フェアリーオーラ"@ja,
+        "페어리오라"@ko,
+        "妖精氣場"@zh .
 
 bulba:Filter_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -602,7 +1057,15 @@ bulba:Filter_%28Ability%29 a bulba:Ability,
     bulba:jpname "フィルター" ;
     bulba:jptrans "Filter" ;
     bulba:jptranslit "Firutā" ;
-    bulba:name "Filter" .
+    bulba:name "Filter",
+        "Filter"@de,
+        "Filter"@en,
+        "Filtro"@es,
+        "Filtre"@fr,
+        "Filtro"@it,
+        "フィルター"@ja,
+        "필터"@ko,
+        "過濾"@zh .
 
 bulba:Flame_Body_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -611,7 +1074,16 @@ bulba:Flame_Body_%28Ability%29 a bulba:Ability,
     bulba:jpname "ほのおのからだ" ;
     bulba:jptrans "Flame Body" ;
     bulba:jptranslit "Honō no Karada" ;
-    bulba:name "Flame Body" .
+    bulba:name "Flame Body",
+        "Ohnivé tělo"@czech,
+        "Flammkörper"@de,
+        "Flame Body"@en,
+        "Cuerpo Llama"@es,
+        "Corps Ardent"@fr,
+        "Corpodifuoco"@it,
+        "ほのおのからだ"@ja,
+        "불꽃몸"@ko,
+        "火焰之軀"@zh .
 
 bulba:Flare_Boost_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -620,7 +1092,15 @@ bulba:Flare_Boost_%28Ability%29 a bulba:Ability,
     bulba:jpname "ねつぼうそう" ;
     bulba:jptrans "Thermal Runaway" ;
     bulba:jptranslit "Netsu Bōsō" ;
-    bulba:name "Flare Boost" .
+    bulba:name "Flare Boost",
+        "Hitzewahn"@de,
+        "Flare Boost"@en,
+        "Ímpetu Ardiente"@es,
+        "Rage Brûlure"@fr,
+        "Bruciaimpeto"@it,
+        "ねつぼうそう"@ja,
+        "열폭주"@ko,
+        "受熱激升"@zh .
 
 bulba:Flash_Fire_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -629,7 +1109,16 @@ bulba:Flash_Fire_%28Ability%29 a bulba:Ability,
     bulba:jpname "もらいび" ;
     bulba:jptrans "Received Fire" ;
     bulba:jptranslit "Moraibi" ;
-    bulba:name "Flash Fire" .
+    bulba:name "Flash Fire",
+        "Náhlý požár"@czech,
+        "Feuerfänger"@de,
+        "Flash Fire"@en,
+        "Absorbe Fuego"@es,
+        "Torche"@fr,
+        "Fuocardore"@it,
+        "もらいび"@ja,
+        "타오르는불꽃"@ko,
+        "引火"@zh .
 
 bulba:Flower_Gift_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -638,7 +1127,14 @@ bulba:Flower_Gift_%28Ability%29 a bulba:Ability,
     bulba:jpname "フラワーギフト" ;
     bulba:jptrans "Flower Gift" ;
     bulba:jptranslit "Furawā Gifuto" ;
-    bulba:name "Flower Gift" .
+    bulba:name "Flower Gift",
+        "Pflanzengabe"@de,
+        "Flower Gift"@en,
+        "Don Floral"@es,
+        "Don Floral"@fr,
+        "Regalfiore"@it,
+        "플라워기프트"@ko,
+        "花之禮"@zh .
 
 bulba:Flower_Veil_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -647,7 +1143,15 @@ bulba:Flower_Veil_%28Ability%29 a bulba:Ability,
     bulba:jpname "フラワーベール" ;
     bulba:jptrans "Flower Veil" ;
     bulba:jptranslit "Furawā Bēru" ;
-    bulba:name "Flower Veil" .
+    bulba:name "Flower Veil",
+        "Blütenhülle"@de,
+        "Flower Veil"@en,
+        "Velo Flor"@es,
+        "Flora-Voile"@fr,
+        "Fiorvelo"@it,
+        "フラワーベール"@ja,
+        "플라워베일"@ko,
+        "花幕"@zh .
 
 bulba:Fluffy_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -656,7 +1160,15 @@ bulba:Fluffy_%28Ability%29 a bulba:Ability,
     bulba:jpname "もふもふ" ;
     bulba:jptrans "Fluffy" ;
     bulba:jptranslit "Mofumofu" ;
-    bulba:name "Fluffy" .
+    bulba:name "Fluffy",
+        "Flauschigkeit"@de,
+        "Fluffy"@en,
+        "Peluche"@es,
+        "Boule de Poils"@fr,
+        "Morbidone"@it,
+        "もふもふ"@ja,
+        "복슬복슬"@ko,
+        "毛茸茸"@zh .
 
 bulba:Forecast_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -665,7 +1177,16 @@ bulba:Forecast_%28Ability%29 a bulba:Ability,
     bulba:jpname "てんきや" ;
     bulba:jptrans "Temperamental" ;
     bulba:jptranslit "Tenkiya" ;
-    bulba:name "Forecast" .
+    bulba:name "Forecast",
+        "Předpověď"@czech,
+        "Prognose"@de,
+        "Forecast"@en,
+        "Predicción"@es,
+        "Météo"@fr,
+        "Previsioni"@it,
+        "てんきや"@ja,
+        "기분파"@ko,
+        "陰晴不定"@zh .
 
 bulba:Forewarn_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -674,7 +1195,15 @@ bulba:Forewarn_%28Ability%29 a bulba:Ability,
     bulba:jpname "よちむ" ;
     bulba:jptrans "Prophetic Dream" ;
     bulba:jptranslit "Yochimu" ;
-    bulba:name "Forewarn" .
+    bulba:name "Forewarn",
+        "Vorwarnung"@de,
+        "Forewarn"@en,
+        "Alerta"@es,
+        "Prédiction"@fr,
+        "Premonizione"@it,
+        "よちむ"@ja,
+        "예지몽"@ko,
+        "預知夢"@zh .
 
 bulba:Friend_Guard_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -683,7 +1212,15 @@ bulba:Friend_Guard_%28Ability%29 a bulba:Ability,
     bulba:jpname "フレンドガード" ;
     bulba:jptrans "Friend Guard" ;
     bulba:jptranslit "Furendo Gādo" ;
-    bulba:name "Friend Guard" .
+    bulba:name "Friend Guard",
+        "Freundeshut"@de,
+        "Friend Guard"@en,
+        "Compiescolta"@es,
+        "Garde-Ami"@fr,
+        "Amicoscudo"@it,
+        "フレンドガード"@ja,
+        "프렌드가드"@ko,
+        "友情防守"@zh .
 
 bulba:Frisk_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -692,7 +1229,15 @@ bulba:Frisk_%28Ability%29 a bulba:Ability,
     bulba:jpname "おみとおし" ;
     bulba:jptrans "Unobstructed Sight" ;
     bulba:jptranslit "Omitōshi" ;
-    bulba:name "Frisk" .
+    bulba:name "Frisk",
+        "Schnüffler"@de,
+        "Frisk"@en,
+        "Cacheo"@es,
+        "Fouille"@fr,
+        "Indagine"@it,
+        "おみとおし"@ja,
+        "통찰"@ko,
+        "察覺"@zh .
 
 bulba:Full_Metal_Body_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -701,7 +1246,15 @@ bulba:Full_Metal_Body_%28Ability%29 a bulba:Ability,
     bulba:jpname "メタルプロテクト" ;
     bulba:jptrans "Metal Protect" ;
     bulba:jptranslit "Metaru Purotekuto" ;
-    bulba:name "Full Metal Body" .
+    bulba:name "Full Metal Body",
+        "Metallprotektor"@de,
+        "Full Metal Body"@en,
+        "Guardia Metálica"@es,
+        "Métallo-Garde"@fr,
+        "Metalprotezione"@it,
+        "メタルプロテクト"@ja,
+        "메탈프로텍트"@ko,
+        "金屬防護"@zh .
 
 bulba:Fur_Coat_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -710,7 +1263,15 @@ bulba:Fur_Coat_%28Ability%29 a bulba:Ability,
     bulba:jpname "ファーコート" ;
     bulba:jptrans "Fur Coat" ;
     bulba:jptranslit "Fā Kōto" ;
-    bulba:name "Fur Coat" .
+    bulba:name "Fur Coat",
+        "Fellkleid"@de,
+        "Fur Coat"@en,
+        "Pelaje Recio"@es,
+        "Toison Épaisse"@fr,
+        "Foltopelo"@it,
+        "ファーコート"@ja,
+        "퍼코트"@ko,
+        "毛皮大衣"@zh .
 
 bulba:Gale_Wings_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -719,7 +1280,15 @@ bulba:Gale_Wings_%28Ability%29 a bulba:Ability,
     bulba:jpname "はやてのつばさ" ;
     bulba:jptrans "Gale Wings" ;
     bulba:jptranslit "Hayate no Tsubasa" ;
-    bulba:name "Gale Wings" .
+    bulba:name "Gale Wings",
+        "Orkanschwingen"@de,
+        "Gale Wings"@en,
+        "Alas Vendaval"@es,
+        "Ailes Bourrasque"@fr,
+        "Aliraffica"@it,
+        "はやてのつばさ"@ja,
+        "질풍날개"@ko,
+        "疾風之翼"@zh .
 
 bulba:Galvanize_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -728,7 +1297,15 @@ bulba:Galvanize_%28Ability%29 a bulba:Ability,
     bulba:jpname "エレキスキン" ;
     bulba:jptrans "Electric Skin" ;
     bulba:jptranslit "Ereki Sukin" ;
-    bulba:name "Galvanize" .
+    bulba:name "Galvanize",
+        "Elektrohaut"@de,
+        "Galvanize"@en,
+        "Piel Eléctrica"@es,
+        "Peau Électrique"@fr,
+        "Pellelettro"@it,
+        "エレキスキン"@ja,
+        "일렉트릭스킨"@ko,
+        "電氣皮膚"@zh .
 
 bulba:Gluttony_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -737,7 +1314,15 @@ bulba:Gluttony_%28Ability%29 a bulba:Ability,
     bulba:jpname "くいしんぼう" ;
     bulba:jptrans "Glutton" ;
     bulba:jptranslit "Kuishinbō" ;
-    bulba:name "Gluttony" .
+    bulba:name "Gluttony",
+        "Völlerei"@de,
+        "Gluttony"@en,
+        "Gula"@es,
+        "Gloutonnerie"@fr,
+        "Voracità"@it,
+        "くいしんぼう"@ja,
+        "먹보"@ko,
+        "貪吃鬼"@zh .
 
 bulba:Good_as_Gold_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -755,7 +1340,15 @@ bulba:Gooey_%28Ability%29 a bulba:Ability,
     bulba:jpname "ぬめぬめ" ;
     bulba:jptrans "Gooey" ;
     bulba:jptranslit "Numenume" ;
-    bulba:name "Gooey" .
+    bulba:name "Gooey",
+        "Viskosität"@de,
+        "Gooey"@en,
+        "Baba"@es,
+        "Poisseux"@fr,
+        "Viscosità"@it,
+        "ぬめぬめ"@ja,
+        "미끈미끈"@ko,
+        "黏滑"@zh .
 
 bulba:Gorilla_Tactics_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -764,7 +1357,15 @@ bulba:Gorilla_Tactics_%28Ability%29 a bulba:Ability,
     bulba:jpname "ごりむちゅう" ;
     bulba:jptrans "Obsessed Gorilla" ;
     bulba:jptranslit "Gori Muchū" ;
-    bulba:name "Gorilla Tactics" .
+    bulba:name "Gorilla Tactics",
+        "Affenfokus"@de,
+        "Gorilla Tactics"@en,
+        "Monotema"@es,
+        "Entêtement"@fr,
+        "Vigorilla"@it,
+        "ごりむちゅう"@ja,
+        "무아지경"@ko,
+        "一猩一意"@zh .
 
 bulba:Grass_Pelt_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -773,7 +1374,15 @@ bulba:Grass_Pelt_%28Ability%29 a bulba:Ability,
     bulba:jpname "くさのけがわ" ;
     bulba:jptrans "Grass Pelt" ;
     bulba:jptranslit "Kusa no Kegawa" ;
-    bulba:name "Grass Pelt" .
+    bulba:name "Grass Pelt",
+        "Pflanzenpelz"@de,
+        "Grass Pelt"@en,
+        "Manto Frondoso"@es,
+        "Toison Herbue"@fr,
+        "Peloderba"@it,
+        "くさのけがわ"@ja,
+        "풀모피"@ko,
+        "草之毛皮"@zh .
 
 bulba:Grassy_Surge_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -782,7 +1391,15 @@ bulba:Grassy_Surge_%28Ability%29 a bulba:Ability,
     bulba:jpname "グラスメイカー" ;
     bulba:jptrans "Grass Maker" ;
     bulba:jptranslit "Gurasu Meikā" ;
-    bulba:name "Grassy Surge" .
+    bulba:name "Grassy Surge",
+        "Gras-Erzeuger"@de,
+        "Grassy Surge"@en,
+        "Herbogénesis"@es,
+        "Créa-Herbe"@fr,
+        "Erbogenesi"@it,
+        "グラスメイカー"@ja,
+        "그래스메이커"@ko,
+        "青草製造者"@zh .
 
 bulba:Grim_Neigh_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -791,7 +1408,15 @@ bulba:Grim_Neigh_%28Ability%29 a bulba:Ability,
     bulba:jpname "くろのいななき" ;
     bulba:jptrans "Black Neigh" ;
     bulba:jptranslit "Kuro no Inanaki" ;
-    bulba:name "Grim Neigh" .
+    bulba:name "Grim Neigh",
+        "Dunkles Wiehern"@de,
+        "Grim Neigh"@en,
+        "Relincho Negro"@es,
+        "Sombre Ruade"@fr,
+        "Nitrito Nero"@it,
+        "くろのいななき"@ja,
+        "흑의울음"@ko,
+        "漆黑嘶鳴"@zh .
 
 bulba:Guard_Dog_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -809,7 +1434,15 @@ bulba:Gulp_Missile_%28Ability%29 a bulba:Ability,
     bulba:jpname "うのミサイル" ;
     bulba:jptrans "Gulp Missile" ;
     bulba:jptranslit "U no Misairu" ;
-    bulba:name "Gulp Missile" .
+    bulba:name "Gulp Missile",
+        "Würggeschoss"@de,
+        "Gulp Missile"@en,
+        "Tragamisil"@es,
+        "Dégobage"@fr,
+        "Inghiottimissile"@it,
+        "うのミサイル"@ja,
+        "그대로꿀꺽미사일"@ko,
+        "一口飛彈"@zh .
 
 bulba:Guts_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -818,7 +1451,16 @@ bulba:Guts_%28Ability%29 a bulba:Ability,
     bulba:jpname "こんじょう" ;
     bulba:jptrans "Guts" ;
     bulba:jptranslit "Konjō" ;
-    bulba:name "Guts" .
+    bulba:name "Guts",
+        "Kuráž"@czech,
+        "Adrenalin"@de,
+        "Guts"@en,
+        "Agallas"@es,
+        "Cran"@fr,
+        "Dentistretti"@it,
+        "こんじょう"@ja,
+        "근성"@ko,
+        "毅力"@zh .
 
 bulba:Hadron_Engine_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -836,7 +1478,15 @@ bulba:Harvest_%28Ability%29 a bulba:Ability,
     bulba:jpname "しゅうかく" ;
     bulba:jptrans "Harvest" ;
     bulba:jptranslit "Shūkaku" ;
-    bulba:name "Harvest" .
+    bulba:name "Harvest",
+        "Reiche Ernte"@de,
+        "Harvest"@en,
+        "Cosecha"@es,
+        "Récolte"@fr,
+        "Coglibacche"@it,
+        "しゅうかく"@ja,
+        "수확"@ko,
+        "收穫"@zh .
 
 bulba:Healer_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -845,7 +1495,15 @@ bulba:Healer_%28Ability%29 a bulba:Ability,
     bulba:jpname "いやしのこころ" ;
     bulba:jptrans "Healing Heart" ;
     bulba:jptranslit "Iyashi no Kokoro" ;
-    bulba:name "Healer" .
+    bulba:name "Healer",
+        "Heilherz"@de,
+        "Healer"@en,
+        "Alma Cura"@es,
+        "Cœur Soin"@fr,
+        "Curacuore"@it,
+        "いやしのこころ"@ja,
+        "치유의마음"@ko,
+        "治癒之心"@zh .
 
 bulba:Heatproof_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -854,7 +1512,15 @@ bulba:Heatproof_%28Ability%29 a bulba:Ability,
     bulba:jpname "たいねつ" ;
     bulba:jptrans "Heatproof" ;
     bulba:jptranslit "Tainetsu" ;
-    bulba:name "Heatproof" .
+    bulba:name "Heatproof",
+        "Hitzeschutz"@de,
+        "Heatproof"@en,
+        "Ignífugo"@es,
+        "Ignifugé"@fr,
+        "Antifuoco"@it,
+        "たいねつ"@ja,
+        "내열"@ko,
+        "耐熱"@zh .
 
 bulba:Heavy_Metal_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -863,7 +1529,15 @@ bulba:Heavy_Metal_%28Ability%29 a bulba:Ability,
     bulba:jpname "ヘヴィメタル" ;
     bulba:jptrans "Heavy Metal" ;
     bulba:jptranslit "Hevi Metaru" ;
-    bulba:name "Heavy Metal" .
+    bulba:name "Heavy Metal",
+        "Schwermetall"@de,
+        "Heavy Metal"@en,
+        "Metal Pesado"@es,
+        "Heavy Metal"@fr,
+        "Metalpesante"@it,
+        "ヘヴィメタル"@ja,
+        "헤비메탈"@ko,
+        "重金屬"@zh .
 
 bulba:Honey_Gather_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -872,7 +1546,15 @@ bulba:Honey_Gather_%28Ability%29 a bulba:Ability,
     bulba:jpname "みつあつめ" ;
     bulba:jptrans "Honey Gather" ;
     bulba:jptranslit "Mitsu Atsume" ;
-    bulba:name "Honey Gather" .
+    bulba:name "Honey Gather",
+        "Honigmaul"@de,
+        "Honey Gather"@en,
+        "Recogemiel"@es,
+        "Cherche Miel"@fr,
+        "Mielincetta"@it,
+        "みつあつめ"@ja,
+        "꿀모으기"@ko,
+        "採蜜"@zh .
 
 bulba:Hospitality_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -890,7 +1572,16 @@ bulba:Huge_Power_%28Ability%29 a bulba:Ability,
     bulba:jpname "ちからもち" ;
     bulba:jptrans "Muscleman" ;
     bulba:jptranslit "Chikaramochi" ;
-    bulba:name "Huge Power" .
+    bulba:name "Huge Power",
+        "Obrovská síla"@czech,
+        "Kraftkoloss"@de,
+        "Huge Power"@en,
+        "Potencia"@es,
+        "Coloforce"@fr,
+        "Macroforza"@it,
+        "ちからもち"@ja,
+        "천하장사"@ko,
+        "大力士"@zh .
 
 bulba:Hunger_Switch_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -899,7 +1590,15 @@ bulba:Hunger_Switch_%28Ability%29 a bulba:Ability,
     bulba:jpname "はらぺこスイッチ" ;
     bulba:jptrans "Hunger Switch" ;
     bulba:jptranslit "Harapeko Suitchi" ;
-    bulba:name "Hunger Switch" .
+    bulba:name "Hunger Switch",
+        "Heißhunger"@de,
+        "Hunger Switch"@en,
+        "Mutapetito"@es,
+        "Déclic Fringale"@fr,
+        "Pancialterna"@it,
+        "はらぺこスイッチ"@ja,
+        "꼬르륵스위치"@ko,
+        "飽了又餓"@zh .
 
 bulba:Hustle_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -908,7 +1607,16 @@ bulba:Hustle_%28Ability%29 a bulba:Ability,
     bulba:jpname "はりきり" ;
     bulba:jptrans "Enthusiasm" ;
     bulba:jptranslit "Harikiri" ;
-    bulba:name "Hustle" .
+    bulba:name "Hustle",
+        "Čilost"@czech,
+        "Übereifer"@de,
+        "Hustle"@en,
+        "Entusiasmo"@es,
+        "Agitation"@fr,
+        "Tuttafretta"@it,
+        "はりきり"@ja,
+        "의욕"@ko,
+        "活力"@zh .
 
 bulba:Hydration_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -917,7 +1625,15 @@ bulba:Hydration_%28Ability%29 a bulba:Ability,
     bulba:jpname "うるおいボディ" ;
     bulba:jptrans "Moist Body" ;
     bulba:jptranslit "Uruoi Bodi" ;
-    bulba:name "Hydration" .
+    bulba:name "Hydration",
+        "Hydration"@de,
+        "Hydration"@en,
+        "Hidratación"@es,
+        "Hydratation"@fr,
+        "Idratazione"@it,
+        "うるおいボディ"@ja,
+        "촉촉바디"@ko,
+        "濕潤之軀"@zh .
 
 bulba:Hyper_Cutter_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -926,7 +1642,16 @@ bulba:Hyper_Cutter_%28Ability%29 a bulba:Ability,
     bulba:jpname "かいりきバサミ" ;
     bulba:jptrans "Superpowerful Claws" ;
     bulba:jptranslit "Kairiki Basami" ;
-    bulba:name "Hyper Cutter" .
+    bulba:name "Hyper Cutter",
+        "Hyperřezač"@czech,
+        "Scherenmacht"@de,
+        "Hyper Cutter"@en,
+        "Corte Fuerte"@es,
+        "Hyper Cutter"@fr,
+        "Ipertaglio"@it,
+        "かいりきバサミ"@ja,
+        "괴력집게"@ko,
+        "怪力鉗"@zh .
 
 bulba:Ice_Body_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -935,7 +1660,15 @@ bulba:Ice_Body_%28Ability%29 a bulba:Ability,
     bulba:jpname "アイスボディ" ;
     bulba:jptrans "Ice Body" ;
     bulba:jptranslit "Aisu Bodi" ;
-    bulba:name "Ice Body" .
+    bulba:name "Ice Body",
+        "Eishaut"@de,
+        "Ice Body"@en,
+        "Gélido"@es,
+        "Corps Gel"@fr,
+        "Corpogelo"@it,
+        "アイスボディ"@ja,
+        "아이스바디"@ko,
+        "冰凍之軀"@zh .
 
 bulba:Ice_Face_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -944,7 +1677,15 @@ bulba:Ice_Face_%28Ability%29 a bulba:Ability,
     bulba:jpname "アイスフェイス" ;
     bulba:jptrans "Ice Face" ;
     bulba:jptranslit "Aisu Feisu" ;
-    bulba:name "Ice Face" .
+    bulba:name "Ice Face",
+        "Tiefkühlkopf"@de,
+        "Ice Face"@en,
+        "Cara de Hielo"@es,
+        "Tête de Gel"@fr,
+        "Gelofaccia"@it,
+        "アイスフェイス"@ja,
+        "아이스페이스"@ko,
+        "結凍頭"@zh .
 
 bulba:Ice_Scales_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -953,7 +1694,15 @@ bulba:Ice_Scales_%28Ability%29 a bulba:Ability,
     bulba:jpname "こおりのりんぷん" ;
     bulba:jptrans "Ice Scales" ;
     bulba:jptranslit "Kōri no Rinpun" ;
-    bulba:name "Ice Scales" .
+    bulba:name "Ice Scales",
+        "Eisflügelstaub"@de,
+        "Ice Scales"@en,
+        "Escama de Hielo"@es,
+        "Écailles Glacées"@fr,
+        "Geloscaglie"@it,
+        "こおりのりんぷん"@ja,
+        "얼음인분"@ko,
+        "冰鱗粉"@zh .
 
 bulba:Illuminate_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -962,7 +1711,16 @@ bulba:Illuminate_%28Ability%29 a bulba:Ability,
     bulba:jpname "はっこう" ;
     bulba:jptrans "Luminescence" ;
     bulba:jptranslit "Hakkō" ;
-    bulba:name "Illuminate" .
+    bulba:name "Illuminate",
+        "Osvětlení"@czech,
+        "Erleuchtung"@de,
+        "Illuminate"@en,
+        "Iluminación"@es,
+        "Lumiattirance"@fr,
+        "Risplendi"@it,
+        "はっこう"@ja,
+        "발광"@ko,
+        "發光"@zh .
 
 bulba:Illusion_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -971,7 +1729,15 @@ bulba:Illusion_%28Ability%29 a bulba:Ability,
     bulba:jpname "イリュージョン" ;
     bulba:jptrans "Illusion" ;
     bulba:jptranslit "Iryūjon" ;
-    bulba:name "Illusion" .
+    bulba:name "Illusion",
+        "Trugbild"@de,
+        "Illusion"@en,
+        "Ilusión"@es,
+        "Illusion"@fr,
+        "Illusione"@it,
+        "イリュージョン"@ja,
+        "일루전"@ko,
+        "幻覺"@zh .
 
 bulba:Immunity_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -980,7 +1746,16 @@ bulba:Immunity_%28Ability%29 a bulba:Ability,
     bulba:jpname "めんえき" ;
     bulba:jptrans "Immunity" ;
     bulba:jptranslit "Men'eki" ;
-    bulba:name "Immunity" .
+    bulba:name "Immunity",
+        "Imunita"@czech,
+        "Immunität"@de,
+        "Immunity"@en,
+        "Inmunidad"@es,
+        "Vaccin"@fr,
+        "Immunità"@it,
+        "めんえき"@ja,
+        "면역"@ko,
+        "免疫"@zh .
 
 bulba:Imposter_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -989,7 +1764,15 @@ bulba:Imposter_%28Ability%29 a bulba:Ability,
     bulba:jpname "かわりもの" ;
     bulba:jptrans "Changer" ;
     bulba:jptranslit "Kawarimono" ;
-    bulba:name "Imposter" .
+    bulba:name "Imposter",
+        "Doppelgänger"@de,
+        "Imposter"@en,
+        "Impostor"@es,
+        "Imposteur"@fr,
+        "Sosia"@it,
+        "かわりもの"@ja,
+        "괴짜"@ko,
+        "變身者"@zh .
 
 bulba:Infiltrator_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -998,7 +1781,15 @@ bulba:Infiltrator_%28Ability%29 a bulba:Ability,
     bulba:jpname "すりぬけ" ;
     bulba:jptrans "Slip Through" ;
     bulba:jptranslit "Surinuke" ;
-    bulba:name "Infiltrator" .
+    bulba:name "Infiltrator",
+        "Schwebedurch"@de,
+        "Infiltrator"@en,
+        "Allanamiento"@es,
+        "Infiltration"@fr,
+        "Intrapasso"@it,
+        "すりぬけ"@ja,
+        "틈새포착"@ko,
+        "穿透"@zh .
 
 bulba:Innards_Out_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1007,7 +1798,15 @@ bulba:Innards_Out_%28Ability%29 a bulba:Ability,
     bulba:jpname "とびだすなかみ" ;
     bulba:jptrans "Flying Innards" ;
     bulba:jptranslit "Tobidasu Nakami" ;
-    bulba:name "Innards Out" .
+    bulba:name "Innards Out",
+        "Magenkrempler"@de,
+        "Innards Out"@en,
+        "Revés"@es,
+        "Expuls’Organes"@fr,
+        "Espellinterno"@it,
+        "とびだすなかみ"@ja,
+        "내용물분출"@ko,
+        "飛出的內在物"@zh .
 
 bulba:Inner_Focus_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1016,7 +1815,16 @@ bulba:Inner_Focus_%28Ability%29 a bulba:Ability,
     bulba:jpname "せいしんりょく" ;
     bulba:jptrans "Force of Will" ;
     bulba:jptranslit "Seishinryoku" ;
-    bulba:name "Inner Focus" .
+    bulba:name "Inner Focus",
+        "Soustředění"@czech,
+        "Konzentrator"@de,
+        "Inner Focus"@en,
+        "Foco Interno"@es,
+        "Attention"@fr,
+        "Forza Interiore"@it,
+        "せいしんりょく"@ja,
+        "정신력"@ko,
+        "精神力"@zh .
 
 bulba:Insomnia_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1025,7 +1833,16 @@ bulba:Insomnia_%28Ability%29 a bulba:Ability,
     bulba:jpname "ふみん" ;
     bulba:jptrans "Insomnia" ;
     bulba:jptranslit "Fumin" ;
-    bulba:name "Insomnia" .
+    bulba:name "Insomnia",
+        "Nespavost"@czech,
+        "Insomnia"@de,
+        "Insomnia"@en,
+        "Insomnio"@es,
+        "Insomnia"@fr,
+        "Insonnia"@it,
+        "ふみん"@ja,
+        "불면"@ko,
+        "不眠"@zh .
 
 bulba:Intimidate_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1034,7 +1851,16 @@ bulba:Intimidate_%28Ability%29 a bulba:Ability,
     bulba:jpname "いかく" ;
     bulba:jptrans "Intimidate" ;
     bulba:jptranslit "Ikaku" ;
-    bulba:name "Intimidate" .
+    bulba:name "Intimidate",
+        "Zastrašení"@czech,
+        "Bedroher"@de,
+        "Intimidate"@en,
+        "Intimidación"@es,
+        "Intimidation"@fr,
+        "Prepotenza"@it,
+        "いかく"@ja,
+        "위협"@ko,
+        "威嚇"@zh .
 
 bulba:Intrepid_Sword_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1043,7 +1869,15 @@ bulba:Intrepid_Sword_%28Ability%29 a bulba:Ability,
     bulba:jpname "ふとうのけん" ;
     bulba:jptrans "Tenacity Sword" ;
     bulba:jptranslit "Futō no Ken" ;
-    bulba:name "Intrepid Sword" .
+    bulba:name "Intrepid Sword",
+        "Kühnes Schwert"@de,
+        "Intrepid Sword"@en,
+        "Espada Indómita"@es,
+        "Lame Indomptable"@fr,
+        "Spada Indomita"@it,
+        "ふとうのけん"@ja,
+        "불요의검"@ko,
+        "不撓之劍"@zh .
 
 bulba:Iron_Barbs_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1052,7 +1886,15 @@ bulba:Iron_Barbs_%28Ability%29 a bulba:Ability,
     bulba:jpname "てつのトゲ" ;
     bulba:jptrans "Iron Thorns" ;
     bulba:jptranslit "Tetsu no Toge" ;
-    bulba:name "Iron Barbs" .
+    bulba:name "Iron Barbs",
+        "Eisenstachel"@de,
+        "Iron Barbs"@en,
+        "Punta Acero"@es,
+        "Épine de Fer"@fr,
+        "Spineferrate"@it,
+        "てつのトゲ"@ja,
+        "철가시"@ko,
+        "鐵刺"@zh .
 
 bulba:Iron_Fist_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1061,7 +1903,15 @@ bulba:Iron_Fist_%28Ability%29 a bulba:Ability,
     bulba:jpname "てつのこぶし" ;
     bulba:jptrans "Iron Fist" ;
     bulba:jptranslit "Tetsu no Kobushi" ;
-    bulba:name "Iron Fist" .
+    bulba:name "Iron Fist",
+        "Eisenfaust"@de,
+        "Iron Fist"@en,
+        "Puño Férreo"@es,
+        "Poing de Fer"@fr,
+        "Ferropugno"@it,
+        "てつのこぶし"@ja,
+        "철주먹"@ko,
+        "鐵拳"@zh .
 
 bulba:Justified_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1070,7 +1920,15 @@ bulba:Justified_%28Ability%29 a bulba:Ability,
     bulba:jpname "せいぎのこころ" ;
     bulba:jptrans "Heart of Justice" ;
     bulba:jptranslit "Seigi no Kokoro" ;
-    bulba:name "Justified" .
+    bulba:name "Justified",
+        "Redlichkeit"@de,
+        "Justified"@en,
+        "Justiciero"@es,
+        "Cœur Noble"@fr,
+        "Giustizia"@it,
+        "せいぎのこころ"@ja,
+        "정의의마음"@ko,
+        "正義之心"@zh .
 
 bulba:Keen_Eye_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1079,7 +1937,16 @@ bulba:Keen_Eye_%28Ability%29 a bulba:Ability,
     bulba:jpname "するどいめ" ;
     bulba:jptrans "Keen Eye" ;
     bulba:jptranslit "Surudoi Me" ;
-    bulba:name "Keen Eye" .
+    bulba:name "Keen Eye",
+        "Bystré oko"@czech,
+        "Adlerauge"@de,
+        "Keen Eye"@en,
+        "Vista Lince"@es,
+        "Regard Vif"@fr,
+        "Sguardofermo"@it,
+        "するどいめ"@ja,
+        "날카로운눈"@ko,
+        "銳利目光"@zh .
 
 bulba:Klutz_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1088,7 +1955,15 @@ bulba:Klutz_%28Ability%29 a bulba:Ability,
     bulba:jpname "ぶきよう" ;
     bulba:jptrans "Clumsy" ;
     bulba:jptranslit "Bukiyō" ;
-    bulba:name "Klutz" .
+    bulba:name "Klutz",
+        "Tollpatsch"@de,
+        "Klutz"@en,
+        "Zoquete"@es,
+        "Maladresse"@fr,
+        "Impaccio"@it,
+        "ぶきよう"@ja,
+        "서투름"@ko,
+        "笨拙"@zh .
 
 bulba:Leaf_Guard_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1097,7 +1972,15 @@ bulba:Leaf_Guard_%28Ability%29 a bulba:Ability,
     bulba:jpname "リーフガード" ;
     bulba:jptrans "Leaf Guard" ;
     bulba:jptranslit "Rīfu Gādo" ;
-    bulba:name "Leaf Guard" .
+    bulba:name "Leaf Guard",
+        "Floraschild"@de,
+        "Leaf Guard"@en,
+        "Defensa Hoja"@es,
+        "Feuille Garde"@fr,
+        "Fogliamanto"@it,
+        "リーフガード"@ja,
+        "리프가드"@ko,
+        "葉子防守"@zh .
 
 bulba:Levitate_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1106,7 +1989,16 @@ bulba:Levitate_%28Ability%29 a bulba:Ability,
     bulba:jpname "ふゆう" ;
     bulba:jptrans "Floating" ;
     bulba:jptranslit "Fuyū" ;
-    bulba:name "Levitate" .
+    bulba:name "Levitate",
+        "Levitace"@czech,
+        "Schwebe"@de,
+        "Levitate"@en,
+        "Levitación"@es,
+        "Lévitation"@fr,
+        "Levitazione"@it,
+        "ふゆう"@ja,
+        "부유"@ko,
+        "飄浮"@zh .
 
 bulba:Libero_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1115,7 +2007,15 @@ bulba:Libero_%28Ability%29 a bulba:Ability,
     bulba:jpname "リベロ" ;
     bulba:jptrans "Libero" ;
     bulba:jptranslit "Ribero" ;
-    bulba:name "Libero" .
+    bulba:name "Libero",
+        "Libero"@de,
+        "Libero"@en,
+        "Líbero"@es,
+        "Libéro"@fr,
+        "Libero"@it,
+        "リベロ"@ja,
+        "리베로"@ko,
+        "自由者"@zh .
 
 bulba:Light_Metal_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1124,7 +2024,15 @@ bulba:Light_Metal_%28Ability%29 a bulba:Ability,
     bulba:jpname "ライトメタル" ;
     bulba:jptrans "Light Metal" ;
     bulba:jptranslit "Raito Metaru" ;
-    bulba:name "Light Metal" .
+    bulba:name "Light Metal",
+        "Leichtmetall"@de,
+        "Light Metal"@en,
+        "Metal Liviano"@es,
+        "Light Metal"@fr,
+        "Metalleggero"@it,
+        "ライトメタル"@ja,
+        "라이트메탈"@ko,
+        "輕金屬"@zh .
 
 bulba:Lightning_Rod_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1133,7 +2041,16 @@ bulba:Lightning_Rod_%28Ability%29 a bulba:Ability,
     bulba:jpname "ひらいしん" ;
     bulba:jptrans "Lightning Rod" ;
     bulba:jptranslit "Hiraishin" ;
-    bulba:name "Lightning Rod" .
+    bulba:name "Lightning Rod",
+        "Hromosvod"@czech,
+        "Blitzfänger"@de,
+        "Lightning Rod"@en,
+        "Pararrayos"@es,
+        "Paratonnerre"@fr,
+        "Parafulmine"@it,
+        "ひらいしん"@ja,
+        "피뢰침"@ko,
+        "避雷針"@zh .
 
 bulba:Limber_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1142,7 +2059,16 @@ bulba:Limber_%28Ability%29 a bulba:Ability,
     bulba:jpname "じゅうなん" ;
     bulba:jptrans "Flexible" ;
     bulba:jptranslit "Jūnan" ;
-    bulba:name "Limber" .
+    bulba:name "Limber",
+        "Pružnost"@czech,
+        "Flexibilität"@de,
+        "Limber"@en,
+        "Flexibilidad"@es,
+        "Échauffement"@fr,
+        "Scioltezza"@it,
+        "じゅうなん"@ja,
+        "유연"@ko,
+        "柔軟"@zh .
 
 bulba:Lingering_Aroma_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1160,7 +2086,16 @@ bulba:Liquid_Ooze_%28Ability%29 a bulba:Ability,
     bulba:jpname "ヘドロえき" ;
     bulba:jptrans "Oozing Liquid" ;
     bulba:jptranslit "Hedoro Eki" ;
-    bulba:name "Liquid Ooze" .
+    bulba:name "Liquid Ooze",
+        "Hnusný sliz"@czech,
+        "Kloakensoße"@de,
+        "Liquid Ooze"@en,
+        "Lodo Líquido"@es,
+        "Suintement"@fr,
+        "Melma"@it,
+        "ヘドロえき"@ja,
+        "해감액"@ko,
+        "污泥漿"@zh .
 
 bulba:Liquid_Voice_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1169,7 +2104,15 @@ bulba:Liquid_Voice_%28Ability%29 a bulba:Ability,
     bulba:jpname "うるおいボイス" ;
     bulba:jptrans "Moist Voice" ;
     bulba:jptranslit "Uruoi Boisu" ;
-    bulba:name "Liquid Voice" .
+    bulba:name "Liquid Voice",
+        "Plätscherstimme"@de,
+        "Liquid Voice"@en,
+        "Voz Fluida"@es,
+        "Hydrata-Son"@fr,
+        "Idrovoce"@it,
+        "うるおいボイス"@ja,
+        "촉촉보이스"@ko,
+        "濕潤之聲"@zh .
 
 bulba:Long_Reach_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1178,7 +2121,15 @@ bulba:Long_Reach_%28Ability%29 a bulba:Ability,
     bulba:jpname "えんかく" ;
     bulba:jptrans "Distant" ;
     bulba:jptranslit "Enkaku" ;
-    bulba:name "Long Reach" .
+    bulba:name "Long Reach",
+        "Langstrecke"@de,
+        "Long Reach"@en,
+        "Remoto"@es,
+        "Longue Portée"@fr,
+        "Distacco"@it,
+        "えんかく"@ja,
+        "원격"@ko,
+        "遠隔"@zh .
 
 bulba:Magic_Bounce_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1187,7 +2138,15 @@ bulba:Magic_Bounce_%28Ability%29 a bulba:Ability,
     bulba:jpname "マジックミラー" ;
     bulba:jptrans "Magic Mirror" ;
     bulba:jptranslit "Majikku Mirā" ;
-    bulba:name "Magic Bounce" .
+    bulba:name "Magic Bounce",
+        "Magiespiegel"@de,
+        "Magic Bounce"@en,
+        "Espejo Mágico"@es,
+        "Miroir Magik"@fr,
+        "Magispecchio"@it,
+        "マジックミラー"@ja,
+        "매직미러"@ko,
+        "魔法鏡"@zh .
 
 bulba:Magic_Guard_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1196,7 +2155,15 @@ bulba:Magic_Guard_%28Ability%29 a bulba:Ability,
     bulba:jpname "マジックガード" ;
     bulba:jptrans "Magic Guard" ;
     bulba:jptranslit "Majikku Gādo" ;
-    bulba:name "Magic Guard" .
+    bulba:name "Magic Guard",
+        "Magieschild"@de,
+        "Magic Guard"@en,
+        "Muro Mágico"@es,
+        "Garde Magik"@fr,
+        "Magicscudo"@it,
+        "マジックガード"@ja,
+        "매직가드"@ko,
+        "魔法防守"@zh .
 
 bulba:Magician_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1205,7 +2172,15 @@ bulba:Magician_%28Ability%29 a bulba:Ability,
     bulba:jpname "マジシャン" ;
     bulba:jptrans "Magician" ;
     bulba:jptranslit "Majishan" ;
-    bulba:name "Magician" .
+    bulba:name "Magician",
+        "Zauberer"@de,
+        "Magician"@en,
+        "Prestidigitador"@es,
+        "Magicien"@fr,
+        "Prestigiatore"@it,
+        "マジシャン"@ja,
+        "매지션"@ko,
+        "魔術師"@zh .
 
 bulba:Magma_Armor_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1214,7 +2189,16 @@ bulba:Magma_Armor_%28Ability%29 a bulba:Ability,
     bulba:jpname "マグマのよろい" ;
     bulba:jptrans "Magma Armor" ;
     bulba:jptranslit "Maguma no Yoroi" ;
-    bulba:name "Magma Armor" .
+    bulba:name "Magma Armor",
+        "Lávové brnění"@czech,
+        "Magmapanzer"@de,
+        "Magma Armor"@en,
+        "Escudo Magma"@es,
+        "Armumagma"@fr,
+        "Magmascudo"@it,
+        "マグマのよろい"@ja,
+        "마그마의무장"@ko,
+        "熔岩鎧甲"@zh .
 
 bulba:Magnet_Pull_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1223,7 +2207,16 @@ bulba:Magnet_Pull_%28Ability%29 a bulba:Ability,
     bulba:jpname "じりょく" ;
     bulba:jptrans "Magnetism" ;
     bulba:jptranslit "Jiryoku" ;
-    bulba:name "Magnet Pull" .
+    bulba:name "Magnet Pull",
+        "Magnetismus"@czech,
+        "Magnetfalle"@de,
+        "Magnet Pull"@en,
+        "Imán"@es,
+        "Magnépiège"@fr,
+        "Magnetismo"@it,
+        "じりょく"@ja,
+        "자력"@ko,
+        "磁力"@zh .
 
 bulba:Marvel_Scale_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1232,7 +2225,16 @@ bulba:Marvel_Scale_%28Ability%29 a bulba:Ability,
     bulba:jpname "ふしぎなうろこ" ;
     bulba:jptrans "Marvelous Scale" ;
     bulba:jptranslit "Fushigina Uroko" ;
-    bulba:name "Marvel Scale" .
+    bulba:name "Marvel Scale",
+        "Zázračná šupina"@czech,
+        "Notschutz"@de,
+        "Marvel Scale"@en,
+        "Escama Especial"@es,
+        "Écaille Spéciale"@fr,
+        "Pelledura"@it,
+        "ふしぎなうろこ"@ja,
+        "이상한비늘"@ko,
+        "神奇鱗片"@zh .
 
 bulba:Mega_Launcher_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1241,7 +2243,15 @@ bulba:Mega_Launcher_%28Ability%29 a bulba:Ability,
     bulba:jpname "メガランチャー" ;
     bulba:jptrans "Mega Launcher" ;
     bulba:jptranslit "Mega Ranchā" ;
-    bulba:name "Mega Launcher" .
+    bulba:name "Mega Launcher",
+        "Megawumme"@de,
+        "Mega Launcher"@en,
+        "Megadisparador"@es,
+        "Méga Blaster"@fr,
+        "Megalancio"@it,
+        "メガランチャー"@ja,
+        "메가런처"@ko,
+        "超級發射器"@zh .
 
 bulba:Merciless_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1250,7 +2260,15 @@ bulba:Merciless_%28Ability%29 a bulba:Ability,
     bulba:jpname "ひとでなし" ;
     bulba:jptrans "Brute" ;
     bulba:jptranslit "Hitodenashi" ;
-    bulba:name "Merciless" .
+    bulba:name "Merciless",
+        "Quälerei"@de,
+        "Merciless"@en,
+        "Ensañamiento"@es,
+        "Cruauté"@fr,
+        "Spietatezza"@it,
+        "ひとでなし"@ja,
+        "무도한행동"@ko,
+        "不仁不義"@zh .
 
 bulba:Mimicry_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1259,7 +2277,15 @@ bulba:Mimicry_%28Ability%29 a bulba:Ability,
     bulba:jpname "ぎたい" ;
     bulba:jptrans "Mimicry" ;
     bulba:jptranslit "Gitai" ;
-    bulba:name "Mimicry" .
+    bulba:name "Mimicry",
+        "Mimese"@de,
+        "Mimicry"@en,
+        "Mimetismo"@es,
+        "Mimétisme"@fr,
+        "Mimetismo"@it,
+        "ぎたい"@ja,
+        "의태"@ko,
+        "擬態"@zh .
 
 bulba:Mind%27s_Eye_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1277,7 +2303,16 @@ bulba:Minus_%28Ability%29 a bulba:Ability,
     bulba:jpname "マイナス" ;
     bulba:jptrans "Minus" ;
     bulba:jptranslit "Mainasu" ;
-    bulba:name "Minus" .
+    bulba:name "Minus",
+        "Minus"@czech,
+        "Minus"@de,
+        "Minus"@en,
+        "Menos"@es,
+        "Moins"@fr,
+        "Meno"@it,
+        "マイナス"@ja,
+        "마이너스"@ko,
+        "負電"@zh .
 
 bulba:Mirror_Armor_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1286,7 +2321,15 @@ bulba:Mirror_Armor_%28Ability%29 a bulba:Ability,
     bulba:jpname "ミラーアーマー" ;
     bulba:jptrans "Mirror Armor" ;
     bulba:jptranslit "Mirā Āmā" ;
-    bulba:name "Mirror Armor" .
+    bulba:name "Mirror Armor",
+        "Spiegelrüstung"@de,
+        "Mirror Armor"@en,
+        "Coraza Reflejo"@es,
+        "Armure Miroir"@fr,
+        "Blindospecchio"@it,
+        "ミラーアーマー"@ja,
+        "미러아머"@ko,
+        "鏡甲"@zh .
 
 bulba:Misty_Surge_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1295,7 +2338,15 @@ bulba:Misty_Surge_%28Ability%29 a bulba:Ability,
     bulba:jpname "ミストメイカー" ;
     bulba:jptrans "Mist Maker" ;
     bulba:jptranslit "Misuto Meikā" ;
-    bulba:name "Misty Surge" .
+    bulba:name "Misty Surge",
+        "Nebel-Erzeuger"@de,
+        "Misty Surge"@en,
+        "Nebulogénesis"@es,
+        "Créa-Brume"@fr,
+        "Nebbiogenesi"@it,
+        "ミストメイカー"@ja,
+        "미스트메이커"@ko,
+        "薄霧製造者"@zh .
 
 bulba:Mold_Breaker_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1304,7 +2355,15 @@ bulba:Mold_Breaker_%28Ability%29 a bulba:Ability,
     bulba:jpname "かたやぶり" ;
     bulba:jptrans "Mold-Breaking" ;
     bulba:jptranslit "Katayaburi" ;
-    bulba:name "Mold Breaker" .
+    bulba:name "Mold Breaker",
+        "Überbrückung"@de,
+        "Mold Breaker"@en,
+        "Rompemoldes"@es,
+        "Brise Moule"@fr,
+        "Rompiforma"@it,
+        "かたやぶり"@ja,
+        "틀깨기"@ko,
+        "破格"@zh .
 
 bulba:Moody_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1313,7 +2372,15 @@ bulba:Moody_%28Ability%29 a bulba:Ability,
     bulba:jpname "ムラっけ" ;
     bulba:jptrans "Caprice" ;
     bulba:jptranslit "Murakke" ;
-    bulba:name "Moody" .
+    bulba:name "Moody",
+        "Gefühlswippe"@de,
+        "Moody"@en,
+        "Veleta"@es,
+        "Lunatique"@fr,
+        "Altalena"@it,
+        "ムラっけ"@ja,
+        "변덕쟁이"@ko,
+        "心情不定"@zh .
 
 bulba:Motor_Drive_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1322,7 +2389,15 @@ bulba:Motor_Drive_%28Ability%29 a bulba:Ability,
     bulba:jpname "でんきエンジン" ;
     bulba:jptrans "Electric Engine" ;
     bulba:jptranslit "Denki Enjin" ;
-    bulba:name "Motor Drive" .
+    bulba:name "Motor Drive",
+        "Starthilfe"@de,
+        "Motor Drive"@en,
+        "Electromotor"@es,
+        "Motorisé"@fr,
+        "Elettrorapid"@it,
+        "でんきエンジン"@ja,
+        "전기엔진"@ko,
+        "電氣引擎"@zh .
 
 bulba:Moxie_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1331,7 +2406,15 @@ bulba:Moxie_%28Ability%29 a bulba:Ability,
     bulba:jpname "じしんかじょう" ;
     bulba:jptrans "Overconfident" ;
     bulba:jptranslit "Jishinkajō" ;
-    bulba:name "Moxie" .
+    bulba:name "Moxie",
+        "Hochmut"@de,
+        "Moxie"@en,
+        "Autoestima"@es,
+        "Impudence"@fr,
+        "Arroganza"@it,
+        "じしんかじょう"@ja,
+        "자기과신"@ko,
+        "自信過度"@zh .
 
 bulba:Multiscale_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1340,7 +2423,15 @@ bulba:Multiscale_%28Ability%29 a bulba:Ability,
     bulba:jpname "マルチスケイル" ;
     bulba:jptrans "Multiscale" ;
     bulba:jptranslit "Maruchisukeiru" ;
-    bulba:name "Multiscale" .
+    bulba:name "Multiscale",
+        "Multischuppe"@de,
+        "Multiscale"@en,
+        "Multiescamas"@es,
+        "Multiécaille"@fr,
+        "Multisquame"@it,
+        "マルチスケイル"@ja,
+        "멀티스케일"@ko,
+        "多重鱗片"@zh .
 
 bulba:Multitype_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1358,7 +2449,15 @@ bulba:Mummy_%28Ability%29 a bulba:Ability,
     bulba:jpname "ミイラ" ;
     bulba:jptrans "Mummy" ;
     bulba:jptranslit "Miira" ;
-    bulba:name "Mummy" .
+    bulba:name "Mummy",
+        "Mumie"@de,
+        "Mummy"@en,
+        "Momia"@es,
+        "Momie"@fr,
+        "Mummia"@it,
+        "ミイラ"@ja,
+        "미라"@ko,
+        "木乃伊"@zh .
 
 bulba:Mycelium_Might_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1376,7 +2475,16 @@ bulba:Natural_Cure_%28Ability%29 a bulba:Ability,
     bulba:jpname "しぜんかいふく" ;
     bulba:jptrans "Natural Recovery" ;
     bulba:jptranslit "Shizen Kaifuku" ;
-    bulba:name "Natural Cure" .
+    bulba:name "Natural Cure",
+        "Přírodní lék"@czech,
+        "Innere Kraft"@de,
+        "Natural Cure"@en,
+        "Cura Natural"@es,
+        "Médic Nature"@fr,
+        "Alternacura"@it,
+        "しぜんかいふく"@ja,
+        "자연회복"@ko,
+        "自然回復"@zh .
 
 bulba:Neuroforce_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1385,7 +2493,15 @@ bulba:Neuroforce_%28Ability%29 a bulba:Ability,
     bulba:jpname "ブレインフォース" ;
     bulba:jptrans "Brain Force" ;
     bulba:jptranslit "Burein Fōsu" ;
-    bulba:name "Neuroforce" .
+    bulba:name "Neuroforce",
+        "Zerebralmacht"@de,
+        "Neuroforce"@en,
+        "Fuerza Cerebral"@es,
+        "Cérébro-Force"@fr,
+        "Cerebroforza"@it,
+        "ブレインフォース"@ja,
+        "브레인포스"@ko,
+        "腦核之力"@zh .
 
 bulba:Neutralizing_Gas_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1394,7 +2510,15 @@ bulba:Neutralizing_Gas_%28Ability%29 a bulba:Ability,
     bulba:jpname "かがくへんかガス" ;
     bulba:jptrans "Chemical Change Gas" ;
     bulba:jptranslit "Kagaku Henka Gasu" ;
-    bulba:name "Neutralizing Gas" .
+    bulba:name "Neutralizing Gas",
+        "Reaktionsgas"@de,
+        "Neutralizing Gas"@en,
+        "Gas Reactivo"@es,
+        "Gaz Inhibiteur"@fr,
+        "Gas Reagente"@it,
+        "かがくへんかガス"@ja,
+        "화학변화가스"@ko,
+        "化學變化氣體"@zh .
 
 bulba:No_Guard_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1403,7 +2527,15 @@ bulba:No_Guard_%28Ability%29 a bulba:Ability,
     bulba:jpname "ノーガード" ;
     bulba:jptrans "No Guard" ;
     bulba:jptranslit "Nō Gādo" ;
-    bulba:name "No Guard" .
+    bulba:name "No Guard",
+        "Schildlos"@de,
+        "No Guard"@en,
+        "Indefenso"@es,
+        "Annule Garde"@fr,
+        "Nullodifesa"@it,
+        "ノーガード"@ja,
+        "노가드"@ko,
+        "無防守"@zh .
 
 bulba:Normalize_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1412,7 +2544,15 @@ bulba:Normalize_%28Ability%29 a bulba:Ability,
     bulba:jpname "ノーマルスキン" ;
     bulba:jptrans "Normal Skin" ;
     bulba:jptranslit "Nōmaru Sukin" ;
-    bulba:name "Normalize" .
+    bulba:name "Normalize",
+        "Regulierung"@de,
+        "Normalize"@en,
+        "Normalidad"@es,
+        "Normalise"@fr,
+        "Normalità"@it,
+        "ノーマルスキン"@ja,
+        "노말스킨"@ko,
+        "一般皮膚"@zh .
 
 bulba:Oblivious_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1421,7 +2561,16 @@ bulba:Oblivious_%28Ability%29 a bulba:Ability,
     bulba:jpname "どんかん" ;
     bulba:jptrans "Thickheaded" ;
     bulba:jptranslit "Donkan" ;
-    bulba:name "Oblivious" .
+    bulba:name "Oblivious",
+        "Nevšímavost"@czech,
+        "Dösigkeit"@de,
+        "Oblivious"@en,
+        "Despiste"@es,
+        "Benêt"@fr,
+        "Indifferenza"@it,
+        "どんかん"@ja,
+        "둔감"@ko,
+        "遲鈍"@zh .
 
 bulba:Opportunist_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1448,7 +2597,15 @@ bulba:Overcoat_%28Ability%29 a bulba:Ability,
     bulba:jpname "ぼうじん" ;
     bulba:jptrans "Dustproof" ;
     bulba:jptranslit "Bōjin" ;
-    bulba:name "Overcoat" .
+    bulba:name "Overcoat",
+        "Partikelschutz"@de,
+        "Overcoat"@en,
+        "Funda"@es,
+        "Envelocape"@fr,
+        "Copricapo"@it,
+        "ぼうじん"@ja,
+        "방진"@ko,
+        "防塵"@zh .
 
 bulba:Overgrow_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1457,7 +2614,16 @@ bulba:Overgrow_%28Ability%29 a bulba:Ability,
     bulba:jpname "しんりょく" ;
     bulba:jptrans "Fresh Greenery" ;
     bulba:jptranslit "Shinryoku" ;
-    bulba:name "Overgrow" .
+    bulba:name "Overgrow",
+        "Přerůstání"@czech,
+        "Notdünger"@de,
+        "Overgrow"@en,
+        "Espesura"@es,
+        "Engrais"@fr,
+        "Erbaiuto"@it,
+        "しんりょく"@ja,
+        "심록"@ko,
+        "茂盛"@zh .
 
 bulba:Own_Tempo_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1466,7 +2632,16 @@ bulba:Own_Tempo_%28Ability%29 a bulba:Ability,
     bulba:jpname "マイペース" ;
     bulba:jptrans "My Pace" ;
     bulba:jptranslit "Mai Pēsu" ;
-    bulba:name "Own Tempo" .
+    bulba:name "Own Tempo",
+        "Vlastní tempo"@czech,
+        "Tempomacher"@de,
+        "Own Tempo"@en,
+        "Ritmo Propio"@es,
+        "Tempo Perso"@fr,
+        "Mente Locale"@it,
+        "マイペース"@ja,
+        "마이페이스"@ko,
+        "我行我素"@zh .
 
 bulba:Parental_Bond_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1475,7 +2650,15 @@ bulba:Parental_Bond_%28Ability%29 a bulba:Ability,
     bulba:jpname "おやこあい" ;
     bulba:jptrans "Parent-Child Love" ;
     bulba:jptranslit "Oyako Ai" ;
-    bulba:name "Parental Bond" .
+    bulba:name "Parental Bond",
+        "Familienbande"@de,
+        "Parental Bond"@en,
+        "Amor Filial"@es,
+        "Amour Filial"@fr,
+        "Amorefiliale"@it,
+        "おやこあい"@ja,
+        "부자유친"@ko,
+        "親子愛"@zh .
 
 bulba:Pastel_Veil_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1484,7 +2667,15 @@ bulba:Pastel_Veil_%28Ability%29 a bulba:Ability,
     bulba:jpname "パステルベール" ;
     bulba:jptrans "Pastel Veil" ;
     bulba:jptranslit "Pasuteru Bēru" ;
-    bulba:name "Pastel Veil" .
+    bulba:name "Pastel Veil",
+        "Pastellhülle"@de,
+        "Pastel Veil"@en,
+        "Velo Pastel"@es,
+        "Voile Pastel"@fr,
+        "Pastelvelo"@it,
+        "パステルベール"@ja,
+        "파스텔베일"@ko,
+        "粉彩護幕"@zh .
 
 bulba:Perish_Body_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1493,7 +2684,15 @@ bulba:Perish_Body_%28Ability%29 a bulba:Ability,
     bulba:jpname "ほろびのボディ" ;
     bulba:jptrans "Perish Body" ;
     bulba:jptranslit "Horobi no Body" ;
-    bulba:name "Perish Body" .
+    bulba:name "Perish Body",
+        "Unheilskörper"@de,
+        "Perish Body"@en,
+        "Cuerpo Mortal"@es,
+        "Corps Condamné"@fr,
+        "Ultimotocco"@it,
+        "ほろびのボディ"@ja,
+        "멸망의바디"@ko,
+        "滅亡之軀"@zh .
 
 bulba:Pickpocket_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1502,7 +2701,15 @@ bulba:Pickpocket_%28Ability%29 a bulba:Ability,
     bulba:jpname "わるいてぐせ" ;
     bulba:jptrans "Bad Habit" ;
     bulba:jptranslit "Warui Teguse" ;
-    bulba:name "Pickpocket" .
+    bulba:name "Pickpocket",
+        "Langfinger"@de,
+        "Pickpocket"@en,
+        "Hurto"@es,
+        "Pickpocket"@fr,
+        "Arraffalesto"@it,
+        "わるいてぐせ"@ja,
+        "나쁜손버릇"@ko,
+        "順手牽羊"@zh .
 
 bulba:Pickup_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1511,7 +2718,16 @@ bulba:Pickup_%28Ability%29 a bulba:Ability,
     bulba:jpname "ものひろい" ;
     bulba:jptrans "Pickup" ;
     bulba:jptranslit "Monohiroi" ;
-    bulba:name "Pickup" .
+    bulba:name "Pickup",
+        "Sbírání"@czech,
+        "Mitnahme"@de,
+        "Pickup"@en,
+        "Recogida"@es,
+        "Ramassage"@fr,
+        "Raccolta"@it,
+        "ものひろい"@ja,
+        "픽업"@ko,
+        "撿拾"@zh .
 
 bulba:Pixilate_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1520,7 +2736,15 @@ bulba:Pixilate_%28Ability%29 a bulba:Ability,
     bulba:jpname "フェアリースキン" ;
     bulba:jptrans "Fairy Skin" ;
     bulba:jptranslit "Fearī Sukin" ;
-    bulba:name "Pixilate" .
+    bulba:name "Pixilate",
+        "Feenschicht"@de,
+        "Pixilate"@en,
+        "Piel Feérica"@es,
+        "Peau Féérique"@fr,
+        "Pellefolletto"@it,
+        "フェアリースキン"@ja,
+        "페어리스킨"@ko,
+        "妖精皮膚"@zh .
 
 bulba:Plus_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1529,7 +2753,16 @@ bulba:Plus_%28Ability%29 a bulba:Ability,
     bulba:jpname "プラス" ;
     bulba:jptrans "Plus" ;
     bulba:jptranslit "Purasu" ;
-    bulba:name "Plus" .
+    bulba:name "Plus",
+        "Plus"@czech,
+        "Plus"@de,
+        "Plus"@en,
+        "Más"@es,
+        "Plus"@fr,
+        "Più"@it,
+        "プラス"@ja,
+        "플러스"@ko,
+        "正電"@zh .
 
 bulba:Poison_Heal_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1538,7 +2771,15 @@ bulba:Poison_Heal_%28Ability%29 a bulba:Ability,
     bulba:jpname "ポイズンヒール" ;
     bulba:jptrans "Poison Heal" ;
     bulba:jptranslit "Poizun Hīru" ;
-    bulba:name "Poison Heal" .
+    bulba:name "Poison Heal",
+        "Aufheber"@de,
+        "Poison Heal"@en,
+        "Antídoto"@es,
+        "Soin Poison"@fr,
+        "Velencura"@it,
+        "ポイズンヒール"@ja,
+        "포이즌힐"@ko,
+        "毒療"@zh .
 
 bulba:Poison_Point_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1547,7 +2788,16 @@ bulba:Poison_Point_%28Ability%29 a bulba:Ability,
     bulba:jpname "どくのトゲ" ;
     bulba:jptrans "Poison Spine" ;
     bulba:jptranslit "Doku no Toge" ;
-    bulba:name "Poison Point" .
+    bulba:name "Poison Point",
+        "Jedovatý roh"@czech,
+        "Giftdorn"@de,
+        "Poison Point"@en,
+        "Punto Tóxico"@es,
+        "Point Poison"@fr,
+        "Velenopunto"@it,
+        "どくのトゲ"@ja,
+        "독가시"@ko,
+        "毒刺"@zh .
 
 bulba:Poison_Puppeteer_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1565,7 +2815,15 @@ bulba:Poison_Touch_%28Ability%29 a bulba:Ability,
     bulba:jpname "どくしゅ" ;
     bulba:jptrans "Underhanded Trick" ;
     bulba:jptranslit "Dokushu" ;
-    bulba:name "Poison Touch" .
+    bulba:name "Poison Touch",
+        "Giftgriff"@de,
+        "Poison Touch"@en,
+        "Toque Tóxico"@es,
+        "Toxitouche"@fr,
+        "Velentocco"@it,
+        "どくしゅ"@ja,
+        "독수"@ko,
+        "毒手"@zh .
 
 bulba:Power_Construct_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1574,7 +2832,15 @@ bulba:Power_Construct_%28Ability%29 a bulba:Ability,
     bulba:jpname "スワームチェンジ" ;
     bulba:jptrans "Swarm Change" ;
     bulba:jptranslit "Suwāmu Chenji" ;
-    bulba:name "Power Construct" .
+    bulba:name "Power Construct",
+        "Scharwandel"@de,
+        "Power Construct"@en,
+        "Agrupamiento"@es,
+        "Rassemblement"@fr,
+        "Sciamefusione"@it,
+        "スワームチェンジ"@ja,
+        "스웜체인지"@ko,
+        "群聚變形"@zh .
 
 bulba:Power_Spot_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1583,7 +2849,15 @@ bulba:Power_Spot_%28Ability%29 a bulba:Ability,
     bulba:jpname "パワースポット" ;
     bulba:jptrans "Power Spot" ;
     bulba:jptranslit "Pawā Supotto" ;
-    bulba:name "Power Spot" .
+    bulba:name "Power Spot",
+        "Kraftquelle"@de,
+        "Power Spot"@en,
+        "Fuente Energía"@es,
+        "Cercle d’Énergie"@fr,
+        "Fonte Energetica"@it,
+        "パワースポット"@ja,
+        "파워스폿"@ko,
+        "能量點"@zh .
 
 bulba:Power_of_Alchemy_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1592,7 +2866,15 @@ bulba:Power_of_Alchemy_%28Ability%29 a bulba:Ability,
     bulba:jpname "かがくのちから" ;
     bulba:jptrans "Power of Chemistry" ;
     bulba:jptranslit "Kagaku no Chikara" ;
-    bulba:name "Power of Alchemy" .
+    bulba:name "Power of Alchemy",
+        "Chemiekraft"@de,
+        "Power of Alchemy"@en,
+        "Reacción Química"@es,
+        "Osmose"@fr,
+        "Forza Chimica"@it,
+        "かがくのちから"@ja,
+        "과학의힘"@ko,
+        "化學之力"@zh .
 
 bulba:Prankster_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1601,7 +2883,15 @@ bulba:Prankster_%28Ability%29 a bulba:Ability,
     bulba:jpname "いたずらごころ" ;
     bulba:jptrans "Prank Desire" ;
     bulba:jptranslit "Itazuragokoro" ;
-    bulba:name "Prankster" .
+    bulba:name "Prankster",
+        "Strolch"@de,
+        "Prankster"@en,
+        "Bromista"@es,
+        "Farceur"@fr,
+        "Burla"@it,
+        "いたずらごころ"@ja,
+        "짓궂은마음"@ko,
+        "惡作劇之心"@zh .
 
 bulba:Pressure_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1610,7 +2900,16 @@ bulba:Pressure_%28Ability%29 a bulba:Ability,
     bulba:jpname "プレッシャー" ;
     bulba:jptrans "Pressure" ;
     bulba:jptranslit "Puresshā" ;
-    bulba:name "Pressure" .
+    bulba:name "Pressure",
+        "Tlak"@czech,
+        "Erzwinger"@de,
+        "Pressure"@en,
+        "Presión"@es,
+        "Pression"@fr,
+        "Pressione"@it,
+        "プレッシャー"@ja,
+        "프레셔"@ko,
+        "壓迫感"@zh .
 
 bulba:Primordial_Sea_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1619,7 +2918,15 @@ bulba:Primordial_Sea_%28Ability%29 a bulba:Ability,
     bulba:jpname "はじまりのうみ" ;
     bulba:jptrans "Sea of the Beginning" ;
     bulba:jptranslit "Hajimari no Umi" ;
-    bulba:name "Primordial Sea" .
+    bulba:name "Primordial Sea",
+        "Urmeer"@de,
+        "Primordial Sea"@en,
+        "Mar del Albor"@es,
+        "Mer Primaire"@fr,
+        "Mare Primordiale"@it,
+        "はじまりのうみ"@ja,
+        "시작의바다"@ko,
+        "始源之海"@zh .
 
 bulba:Prism_Armor_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1628,7 +2935,15 @@ bulba:Prism_Armor_%28Ability%29 a bulba:Ability,
     bulba:jpname "プリズムアーマー" ;
     bulba:jptrans "Prism Armor" ;
     bulba:jptranslit "Purizumu Āmā" ;
-    bulba:name "Prism Armor" .
+    bulba:name "Prism Armor",
+        "Prismarüstung"@de,
+        "Prism Armor"@en,
+        "Armadura Prisma"@es,
+        "Prisme-Armure"@fr,
+        "Scudoprisma"@it,
+        "プリズムアーマー"@ja,
+        "프리즘아머"@ko,
+        "稜鏡裝甲"@zh .
 
 bulba:Propeller_Tail_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1637,7 +2952,15 @@ bulba:Propeller_Tail_%28Ability%29 a bulba:Ability,
     bulba:jpname "スクリューおびれ" ;
     bulba:jptrans "Screw Tailfin" ;
     bulba:jptranslit "Sukuryū Obire" ;
-    bulba:name "Propeller Tail" .
+    bulba:name "Propeller Tail",
+        "Schraubflosse"@de,
+        "Propeller Tail"@en,
+        "Hélice Caudal"@es,
+        "Propulseur"@fr,
+        "Elicopinna"@it,
+        "スクリューおびれ"@ja,
+        "스크루지느러미"@ko,
+        "螺旋尾鰭"@zh .
 
 bulba:Protean_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1646,7 +2969,15 @@ bulba:Protean_%28Ability%29 a bulba:Ability,
     bulba:jpname "へんげんじざい" ;
     bulba:jptrans "Protean" ;
     bulba:jptranslit "Hengen Jizai" ;
-    bulba:name "Protean" .
+    bulba:name "Protean",
+        "Wandlungskunst"@de,
+        "Protean"@en,
+        "Mutatipo"@es,
+        "Protéen"@fr,
+        "Mutatipo"@it,
+        "へんげんじざい"@ja,
+        "변환자재"@ko,
+        "變幻自如"@zh .
 
 bulba:Protosynthesis_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1664,7 +2995,15 @@ bulba:Psychic_Surge_%28Ability%29 a bulba:Ability,
     bulba:jpname "サイコメイカー" ;
     bulba:jptrans "Psycho Maker" ;
     bulba:jptranslit "Saiko Meikā" ;
-    bulba:name "Psychic Surge" .
+    bulba:name "Psychic Surge",
+        "Psycho-Erzeuger"@de,
+        "Psychic Surge"@en,
+        "Psicogénesis"@es,
+        "Créa-Psy"@fr,
+        "Psicogenesi"@it,
+        "サイコメイカー"@ja,
+        "사이코메이커"@ko,
+        "精神製造者"@zh .
 
 bulba:Punk_Rock_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1673,7 +3012,15 @@ bulba:Punk_Rock_%28Ability%29 a bulba:Ability,
     bulba:jpname "パンクロック" ;
     bulba:jptrans "Punk Rock" ;
     bulba:jptranslit "Panku Rokku" ;
-    bulba:name "Punk Rock" .
+    bulba:name "Punk Rock",
+        "Punk Rock"@de,
+        "Punk Rock"@en,
+        "Punk Rock"@es,
+        "Punk Rock"@fr,
+        "Punk Rock"@it,
+        "パンクロック"@ja,
+        "펑크록"@ko,
+        "龐克搖滾"@zh .
 
 bulba:Pure_Power_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1682,7 +3029,16 @@ bulba:Pure_Power_%28Ability%29 a bulba:Ability,
     bulba:jpname "ヨガパワー" ;
     bulba:jptrans "Yoga Power" ;
     bulba:jptranslit "Yoga Pawā" ;
-    bulba:name "Pure Power" .
+    bulba:name "Pure Power",
+        "Ryzí síla"@czech,
+        "Mentalkraft"@de,
+        "Pure Power"@en,
+        "Energía Pura"@es,
+        "Force Pure"@fr,
+        "Forzapura"@it,
+        "ヨガパワー"@ja,
+        "순수한힘"@ko,
+        "瑜伽之力"@zh .
 
 bulba:Purifying_Salt_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1709,7 +3065,15 @@ bulba:Queenly_Majesty_%28Ability%29 a bulba:Ability,
     bulba:jpname "じょおうのいげん" ;
     bulba:jptrans "Queen's Majesty" ;
     bulba:jptranslit "Joō no Igen" ;
-    bulba:name "Queenly Majesty" .
+    bulba:name "Queenly Majesty",
+        "Majestät"@de,
+        "Queenly Majesty"@en,
+        "Regia Presencia"@es,
+        "Prestance Royale"@fr,
+        "Regalità"@it,
+        "じょおうのいげん"@ja,
+        "여왕의위엄"@ko,
+        "女王的威嚴"@zh .
 
 bulba:Quick_Draw_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1718,7 +3082,15 @@ bulba:Quick_Draw_%28Ability%29 a bulba:Ability,
     bulba:jpname "クイックドロウ" ;
     bulba:jptrans "Quick Draw" ;
     bulba:jptranslit "Kuikku Dorō" ;
-    bulba:name "Quick Draw" .
+    bulba:name "Quick Draw",
+        "Schnellschuss"@de,
+        "Quick Draw"@en,
+        "Mano Rápida"@es,
+        "Tir Vif"@fr,
+        "Colpolesto"@it,
+        "クイックドロウ"@ja,
+        "퀵드로"@ko,
+        "速擊"@zh .
 
 bulba:Quick_Feet_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1727,7 +3099,15 @@ bulba:Quick_Feet_%28Ability%29 a bulba:Ability,
     bulba:jpname "はやあし" ;
     bulba:jptrans "Quick Feet" ;
     bulba:jptranslit "Haya'ashi" ;
-    bulba:name "Quick Feet" .
+    bulba:name "Quick Feet",
+        "Rasanz"@de,
+        "Quick Feet"@en,
+        "Pies Rápidos"@es,
+        "Pied Véloce"@fr,
+        "Piedisvelti"@it,
+        "はやあし"@ja,
+        "속보"@ko,
+        "飛毛腿"@zh .
 
 bulba:RKS_System_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1736,7 +3116,15 @@ bulba:RKS_System_%28Ability%29 a bulba:Ability,
     bulba:jpname "ＡＲシステム" ;
     bulba:jptrans "AR System" ;
     bulba:jptranslit "AR Shisutemu" ;
-    bulba:name "RKS System" .
+    bulba:name "RKS System",
+        "Alpha-System"@de,
+        "RKS System"@en,
+        "Sistema Alfa"@es,
+        "Système Alpha"@fr,
+        "Sistema Primevo"@it,
+        "ＡＲシステム"@ja,
+        "AR시스템"@ko,
+        "ＡＲ系統"@zh .
 
 bulba:Rain_Dish_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1745,7 +3133,16 @@ bulba:Rain_Dish_%28Ability%29 a bulba:Ability,
     bulba:jpname "あめうけざら" ;
     bulba:jptrans "Rain Saucer" ;
     bulba:jptranslit "Ameukezara" ;
-    bulba:name "Rain Dish" .
+    bulba:name "Rain Dish",
+        "Dešťová miska"@czech,
+        "Regengenuss"@de,
+        "Rain Dish"@en,
+        "Cura Lluvia"@es,
+        "Cuvette"@fr,
+        "Copripioggia"@it,
+        "あめうけざら"@ja,
+        "젖은접시"@ko,
+        "雨盤"@zh .
 
 bulba:Rattled_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1754,7 +3151,15 @@ bulba:Rattled_%28Ability%29 a bulba:Ability,
     bulba:jpname "びびり" ;
     bulba:jptrans "Jitter" ;
     bulba:jptranslit "Bibiri" ;
-    bulba:name "Rattled" .
+    bulba:name "Rattled",
+        "Hasenfuß"@de,
+        "Rattled"@en,
+        "Cobardía"@es,
+        "Phobique"@fr,
+        "Paura"@it,
+        "びびり"@ja,
+        "주눅"@ko,
+        "膽怯"@zh .
 
 bulba:Receiver_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1763,7 +3168,15 @@ bulba:Receiver_%28Ability%29 a bulba:Ability,
     bulba:jpname "レシーバー" ;
     bulba:jptrans "Receiver" ;
     bulba:jptranslit "Reshībā" ;
-    bulba:name "Receiver" .
+    bulba:name "Receiver",
+        "Receiver"@de,
+        "Receiver"@en,
+        "Receptor"@es,
+        "Receveur"@fr,
+        "Ricezione"@it,
+        "レシーバー"@ja,
+        "리시버"@ko,
+        "接球手"@zh .
 
 bulba:Reckless_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1772,7 +3185,15 @@ bulba:Reckless_%28Ability%29 a bulba:Ability,
     bulba:jpname "すてみ" ;
     bulba:jptrans "Life-Risking" ;
     bulba:jptranslit "Sutemi" ;
-    bulba:name "Reckless" .
+    bulba:name "Reckless",
+        "Achtlos"@de,
+        "Reckless"@en,
+        "Audaz"@es,
+        "Téméraire"@fr,
+        "Temerarietà"@it,
+        "すてみ"@ja,
+        "이판사판"@ko,
+        "捨身"@zh .
 
 bulba:Refrigerate_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1781,7 +3202,15 @@ bulba:Refrigerate_%28Ability%29 a bulba:Ability,
     bulba:jpname "フリーズスキン" ;
     bulba:jptrans "Freeze Skin" ;
     bulba:jptranslit "Furīzu Sukin" ;
-    bulba:name "Refrigerate" .
+    bulba:name "Refrigerate",
+        "Frostschicht"@de,
+        "Refrigerate"@en,
+        "Piel Helada"@es,
+        "Peau Gelée"@fr,
+        "Pellegelo"@it,
+        "フリーズスキン"@ja,
+        "프리즈스킨"@ko,
+        "冰凍皮膚"@zh .
 
 bulba:Regenerator_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1790,7 +3219,15 @@ bulba:Regenerator_%28Ability%29 a bulba:Ability,
     bulba:jpname "さいせいりょく" ;
     bulba:jptrans "Regenerative Power" ;
     bulba:jptranslit "Saisei Ryoku" ;
-    bulba:name "Regenerator" .
+    bulba:name "Regenerator",
+        "Belebekraft"@de,
+        "Regenerator"@en,
+        "Regeneración"@es,
+        "Régé-Force"@fr,
+        "Rigenergia"@it,
+        "さいせいりょく"@ja,
+        "재생력"@ko,
+        "再生力"@zh .
 
 bulba:Ripen_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1799,7 +3236,15 @@ bulba:Ripen_%28Ability%29 a bulba:Ability,
     bulba:jpname "じゅくせい" ;
     bulba:jptrans "Ripen" ;
     bulba:jptranslit "Jukusei" ;
-    bulba:name "Ripen" .
+    bulba:name "Ripen",
+        "Heranreifen"@de,
+        "Ripen"@en,
+        "Maduración"@es,
+        "Mûrissement"@fr,
+        "Maturazione"@it,
+        "じゅくせい"@ja,
+        "숙성"@ko,
+        "熟成"@zh .
 
 bulba:Rivalry_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1808,7 +3253,15 @@ bulba:Rivalry_%28Ability%29 a bulba:Ability,
     bulba:jpname "とうそうしん" ;
     bulba:jptrans "Belligerence" ;
     bulba:jptranslit "Tōsōshin" ;
-    bulba:name "Rivalry" .
+    bulba:name "Rivalry",
+        "Rivalität"@de,
+        "Rivalry"@en,
+        "Rivalidad"@es,
+        "Rivalité"@fr,
+        "Antagonismo"@it,
+        "とうそうしん"@ja,
+        "투쟁심"@ko,
+        "鬥爭心"@zh .
 
 bulba:Rock_Head_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1817,7 +3270,16 @@ bulba:Rock_Head_%28Ability%29 a bulba:Ability,
     bulba:jpname "いしあたま" ;
     bulba:jptrans "Rock Head" ;
     bulba:jptranslit "Ishi Atama" ;
-    bulba:name "Rock Head" .
+    bulba:name "Rock Head",
+        "Kamenná hlava"@czech,
+        "Steinhaupt"@de,
+        "Rock Head"@en,
+        "Cabeza Roca"@es,
+        "Tête de Roc"@fr,
+        "Testadura"@it,
+        "いしあたま"@ja,
+        "돌머리"@ko,
+        "堅硬腦袋"@zh .
 
 bulba:Rocky_Payload_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1835,7 +3297,16 @@ bulba:Rough_Skin_%28Ability%29 a bulba:Ability,
     bulba:jpname "さめはだ" ;
     bulba:jptrans "Rough Skin" ;
     bulba:jptranslit "Samehada" ;
-    bulba:name "Rough Skin" .
+    bulba:name "Rough Skin",
+        "Drsná kůže"@czech,
+        "Rauhaut"@de,
+        "Rough Skin"@en,
+        "Piel Tosca"@es,
+        "Peau Dure"@fr,
+        "Cartavetro"@it,
+        "さめはだ"@ja,
+        "까칠한피부"@ko,
+        "粗糙皮膚"@zh .
 
 bulba:Run_Away_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1844,7 +3315,16 @@ bulba:Run_Away_%28Ability%29 a bulba:Ability,
     bulba:jpname "にげあし" ;
     bulba:jptrans "Run Away" ;
     bulba:jptranslit "Nigeashi" ;
-    bulba:name "Run Away" .
+    bulba:name "Run Away",
+        "Útěk"@czech,
+        "Angsthase"@de,
+        "Run Away"@en,
+        "Fuga"@es,
+        "Fuite"@fr,
+        "Fugafacile"@it,
+        "にげあし"@ja,
+        "도주"@ko,
+        "逃跑"@zh .
 
 bulba:Sand_Force_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1853,7 +3333,15 @@ bulba:Sand_Force_%28Ability%29 a bulba:Ability,
     bulba:jpname "すなのちから" ;
     bulba:jptrans "Sand Force" ;
     bulba:jptranslit "Suna no Chikara" ;
-    bulba:name "Sand Force" .
+    bulba:name "Sand Force",
+        "Sandgewalt"@de,
+        "Sand Force"@en,
+        "Poder Arena"@es,
+        "Force Sable"@fr,
+        "Silicoforza"@it,
+        "すなのちから"@ja,
+        "모래의힘"@ko,
+        "沙之力"@zh .
 
 bulba:Sand_Rush_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1862,7 +3350,15 @@ bulba:Sand_Rush_%28Ability%29 a bulba:Ability,
     bulba:jpname "すなかき" ;
     bulba:jptrans "Sand Paddle" ;
     bulba:jptranslit "Sunakaki" ;
-    bulba:name "Sand Rush" .
+    bulba:name "Sand Rush",
+        "Sandscharrer"@de,
+        "Sand Rush"@en,
+        "Ímpetu Arena"@es,
+        "Baigne Sable"@fr,
+        "Remasabbia"@it,
+        "すなかき"@ja,
+        "모래헤치기"@ko,
+        "撥沙"@zh .
 
 bulba:Sand_Spit_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1871,7 +3367,15 @@ bulba:Sand_Spit_%28Ability%29 a bulba:Ability,
     bulba:jpname "すなはき" ;
     bulba:jptrans "Sand Spit" ;
     bulba:jptranslit "Sunahaki" ;
-    bulba:name "Sand Spit" .
+    bulba:name "Sand Spit",
+        "Sandspeier"@de,
+        "Sand Spit"@en,
+        "Expulsarena"@es,
+        "Expul’Sable"@fr,
+        "Sputasabbia"@it,
+        "すなはき"@ja,
+        "모래뿜기"@ko,
+        "吐沙"@zh .
 
 bulba:Sand_Stream_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1880,7 +3384,16 @@ bulba:Sand_Stream_%28Ability%29 a bulba:Ability,
     bulba:jpname "すなおこし" ;
     bulba:jptrans "Sand Raising" ;
     bulba:jptranslit "Suna Okoshi" ;
-    bulba:name "Sand Stream" .
+    bulba:name "Sand Stream",
+        "Proud písku"@czech,
+        "Sandsturm"@de,
+        "Sand Stream"@en,
+        "Chorro Arena"@es,
+        "Sable Volant"@fr,
+        "Sabbiafiume"@it,
+        "すなおこし"@ja,
+        "모래날림"@ko,
+        "揚沙"@zh .
 
 bulba:Sand_Veil_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1889,7 +3402,16 @@ bulba:Sand_Veil_%28Ability%29 a bulba:Ability,
     bulba:jpname "すながくれ" ;
     bulba:jptrans "Hidden in Sand" ;
     bulba:jptranslit "Suna Gakure" ;
-    bulba:name "Sand Veil" .
+    bulba:name "Sand Veil",
+        "Pískový plášť"@czech,
+        "Sandschleier"@de,
+        "Sand Veil"@en,
+        "Velo Arena"@es,
+        "Voile Sable"@fr,
+        "Sabbiavelo"@it,
+        "すながくれ"@ja,
+        "모래숨기"@ko,
+        "沙隱"@zh .
 
 bulba:Sap_Sipper_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1898,7 +3420,15 @@ bulba:Sap_Sipper_%28Ability%29 a bulba:Ability,
     bulba:jpname "そうしょく" ;
     bulba:jptrans "Herbivorous" ;
     bulba:jptranslit "Sōshoku" ;
-    bulba:name "Sap Sipper" .
+    bulba:name "Sap Sipper",
+        "Vegetarier"@de,
+        "Sap Sipper"@en,
+        "Herbívoro"@es,
+        "Herbivore"@fr,
+        "Mangiaerba"@it,
+        "そうしょく"@ja,
+        "초식"@ko,
+        "食草"@zh .
 
 bulba:Schooling_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1907,7 +3437,15 @@ bulba:Schooling_%28Ability%29 a bulba:Ability,
     bulba:jpname "ぎょぐん" ;
     bulba:jptrans "Schooling" ;
     bulba:jptranslit "Gyogun" ;
-    bulba:name "Schooling" .
+    bulba:name "Schooling",
+        "Fischschwarm"@de,
+        "Schooling"@en,
+        "Banco"@es,
+        "Banc"@fr,
+        "Banco"@it,
+        "ぎょぐん"@ja,
+        "어군"@ko,
+        "魚群"@zh .
 
 bulba:Scrappy_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1916,7 +3454,15 @@ bulba:Scrappy_%28Ability%29 a bulba:Ability,
     bulba:jpname "きもったま" ;
     bulba:jptrans "Spunk" ;
     bulba:jptranslit "Kimottama" ;
-    bulba:name "Scrappy" .
+    bulba:name "Scrappy",
+        "Rauflust"@de,
+        "Scrappy"@en,
+        "Intrépido"@es,
+        "Querelleur"@fr,
+        "Nervisaldi"@it,
+        "きもったま"@ja,
+        "배짱"@ko,
+        "膽量"@zh .
 
 bulba:Screen_Cleaner_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1925,7 +3471,15 @@ bulba:Screen_Cleaner_%28Ability%29 a bulba:Ability,
     bulba:jpname "バリアフリー" ;
     bulba:jptrans "Barrier-Free" ;
     bulba:jptranslit "Baria Furī" ;
-    bulba:name "Screen Cleaner" .
+    bulba:name "Screen Cleaner",
+        "Hemmungslos"@de,
+        "Screen Cleaner"@en,
+        "Antibarrera"@es,
+        "Brise-Barrière"@fr,
+        "Annullabarriere"@it,
+        "バリアフリー"@ja,
+        "배리어프리"@ko,
+        "除障"@zh .
 
 bulba:Seed_Sower_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1943,7 +3497,16 @@ bulba:Serene_Grace_%28Ability%29 a bulba:Ability,
     bulba:jpname "てんのめぐみ" ;
     bulba:jptrans "Heavenly Blessing" ;
     bulba:jptranslit "Ten no Megumi" ;
-    bulba:name "Serene Grace" .
+    bulba:name "Serene Grace",
+        "Ušlechtilost"@czech,
+        "Edelmut"@de,
+        "Serene Grace"@en,
+        "Dicha"@es,
+        "Sérénité"@fr,
+        "Leggiadro"@it,
+        "てんのめぐみ"@ja,
+        "하늘의은총"@ko,
+        "天恩"@zh .
 
 bulba:Shadow_Shield_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1952,7 +3515,15 @@ bulba:Shadow_Shield_%28Ability%29 a bulba:Ability,
     bulba:jpname "ファントムガード" ;
     bulba:jptrans "Phantom Guard" ;
     bulba:jptranslit "Fantomu Gādo" ;
-    bulba:name "Shadow Shield" .
+    bulba:name "Shadow Shield",
+        "Phantomschutz"@de,
+        "Shadow Shield"@en,
+        "Guardia Espectro"@es,
+        "Spectro-Bouclier"@fr,
+        "Spettroguardia"@it,
+        "ファントムガード"@ja,
+        "스펙터가드"@ko,
+        "幻影防守"@zh .
 
 bulba:Shadow_Tag_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1961,7 +3532,16 @@ bulba:Shadow_Tag_%28Ability%29 a bulba:Ability,
     bulba:jpname "かげふみ" ;
     bulba:jptrans "Stepping on Shadows" ;
     bulba:jptranslit "Kage Fumi" ;
-    bulba:name "Shadow Tag" .
+    bulba:name "Shadow Tag",
+        "Znamení temna"@czech,
+        "Wegsperre"@de,
+        "Shadow Tag"@en,
+        "Sombra Trampa"@es,
+        "Marque Ombre"@fr,
+        "Pedinombra"@it,
+        "かげふみ"@ja,
+        "그림자밟기"@ko,
+        "踩影"@zh .
 
 bulba:Sharpness_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1979,7 +3559,16 @@ bulba:Shed_Skin_%28Ability%29 a bulba:Ability,
     bulba:jpname "だっぴ" ;
     bulba:jptrans "Shed Skin" ;
     bulba:jptranslit "Dappi" ;
-    bulba:name "Shed Skin" .
+    bulba:name "Shed Skin",
+        "Svlékání kůže"@czech,
+        "Expidermis"@de,
+        "Shed Skin"@en,
+        "Mudar"@es,
+        "Mue"@fr,
+        "Muta"@it,
+        "だっぴ"@ja,
+        "탈피"@ko,
+        "蛻皮"@zh .
 
 bulba:Sheer_Force_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1988,7 +3577,15 @@ bulba:Sheer_Force_%28Ability%29 a bulba:Ability,
     bulba:jpname "ちからずく" ;
     bulba:jptrans "Sheer Force" ;
     bulba:jptranslit "Chikarazuku" ;
-    bulba:name "Sheer Force" .
+    bulba:name "Sheer Force",
+        "Rohe Gewalt"@de,
+        "Sheer Force"@en,
+        "Potencia Bruta"@es,
+        "Sans Limite"@fr,
+        "Forzabruta"@it,
+        "ちからずく"@ja,
+        "우격다짐"@ko,
+        "強行"@zh .
 
 bulba:Shell_Armor_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1997,7 +3594,16 @@ bulba:Shell_Armor_%28Ability%29 a bulba:Ability,
     bulba:jpname "シェルアーマー" ;
     bulba:jptrans "Shell Armor" ;
     bulba:jptranslit "Sheru Āmā" ;
-    bulba:name "Shell Armor" .
+    bulba:name "Shell Armor",
+        "Lasturoštít"@czech,
+        "Panzerhaut"@de,
+        "Shell Armor"@en,
+        "Caparazón"@es,
+        "Coque Armure"@fr,
+        "Guscioscudo"@it,
+        "シェルアーマー"@ja,
+        "조가비갑옷"@ko,
+        "硬殼盔甲"@zh .
 
 bulba:Shield_Dust_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2006,7 +3612,16 @@ bulba:Shield_Dust_%28Ability%29 a bulba:Ability,
     bulba:jpname "りんぷん" ;
     bulba:jptrans "Scales" ;
     bulba:jptranslit "Rinpun" ;
-    bulba:name "Shield Dust" .
+    bulba:name "Shield Dust",
+        "Štítový ptrach"@czech,
+        "Puderabwehr"@de,
+        "Shield Dust"@en,
+        "Polvo Escudo"@es,
+        "Écran Poudre"@fr,
+        "Polvoscudo"@it,
+        "りんぷん"@ja,
+        "인분"@ko,
+        "鱗粉"@zh .
 
 bulba:Shields_Down_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2015,7 +3630,15 @@ bulba:Shields_Down_%28Ability%29 a bulba:Ability,
     bulba:jpname "リミットシールド" ;
     bulba:jptrans "Limit Shield" ;
     bulba:jptranslit "Rimitto Shīrudo" ;
-    bulba:name "Shields Down" .
+    bulba:name "Shields Down",
+        "Limitschild"@de,
+        "Shields Down"@en,
+        "Escudo Limitado"@es,
+        "Bouclier-Carcan"@fr,
+        "Scudosoglia"@it,
+        "リミットシールド"@ja,
+        "리밋실드"@ko,
+        "界限盾殼"@zh .
 
 bulba:Simple_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2024,7 +3647,15 @@ bulba:Simple_%28Ability%29 a bulba:Ability,
     bulba:jpname "たんじゅん" ;
     bulba:jptrans "Simple" ;
     bulba:jptranslit "Tanjun" ;
-    bulba:name "Simple" .
+    bulba:name "Simple",
+        "Wankelmut"@de,
+        "Simple"@en,
+        "Simple"@es,
+        "Simple"@fr,
+        "Disinvoltura"@it,
+        "たんじゅん"@ja,
+        "단순"@ko,
+        "單純"@zh .
 
 bulba:Skill_Link_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2033,7 +3664,15 @@ bulba:Skill_Link_%28Ability%29 a bulba:Ability,
     bulba:jpname "スキルリンク" ;
     bulba:jptrans "Skill Link" ;
     bulba:jptranslit "Sukiru Rinku" ;
-    bulba:name "Skill Link" .
+    bulba:name "Skill Link",
+        "Wertelink"@de,
+        "Skill Link"@en,
+        "Encadenado"@es,
+        "Multi-Coups"@fr,
+        "Abillegame"@it,
+        "スキルリンク"@ja,
+        "스킬링크"@ko,
+        "連續攻擊"@zh .
 
 bulba:Slow_Start_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2042,7 +3681,15 @@ bulba:Slow_Start_%28Ability%29 a bulba:Ability,
     bulba:jpname "スロースタート" ;
     bulba:jptrans "Slow Start" ;
     bulba:jptranslit "Surō Sutāto" ;
-    bulba:name "Slow Start" .
+    bulba:name "Slow Start",
+        "Saumselig"@de,
+        "Slow Start"@en,
+        "Inicio Lento"@es,
+        "Début Calme"@fr,
+        "Lentoinizio"@it,
+        "スロースタート"@ja,
+        "슬로스타트"@ko,
+        "慢啟動"@zh .
 
 bulba:Slush_Rush_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2051,7 +3698,15 @@ bulba:Slush_Rush_%28Ability%29 a bulba:Ability,
     bulba:jpname "ゆきかき" ;
     bulba:jptrans "Snow Removal" ;
     bulba:jptranslit "Yuki Kaki" ;
-    bulba:name "Slush Rush" .
+    bulba:name "Slush Rush",
+        "Schneescharrer"@de,
+        "Slush Rush"@en,
+        "Quitanieves"@es,
+        "Chasse-Neige"@fr,
+        "Spalaneve"@it,
+        "ゆきかき"@ja,
+        "눈치우기"@ko,
+        "撥雪"@zh .
 
 bulba:Sniper_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2060,7 +3715,15 @@ bulba:Sniper_%28Ability%29 a bulba:Ability,
     bulba:jpname "スナイパー" ;
     bulba:jptrans "Sniper" ;
     bulba:jptranslit "Sunaipā" ;
-    bulba:name "Sniper" .
+    bulba:name "Sniper",
+        "Superschütze"@de,
+        "Sniper"@en,
+        "Francotirador"@es,
+        "Sniper"@fr,
+        "Cecchino"@it,
+        "スナイパー"@ja,
+        "스나이퍼"@ko,
+        "狙擊手"@zh .
 
 bulba:Snow_Cloak_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2069,7 +3732,15 @@ bulba:Snow_Cloak_%28Ability%29 a bulba:Ability,
     bulba:jpname "ゆきがくれ" ;
     bulba:jptrans "Hidden in the Snow" ;
     bulba:jptranslit "Yukigakure" ;
-    bulba:name "Snow Cloak" .
+    bulba:name "Snow Cloak",
+        "Schneemantel"@de,
+        "Snow Cloak"@en,
+        "Manto Níveo"@es,
+        "Rideau Neige"@fr,
+        "Mantelneve"@it,
+        "ゆきがくれ"@ja,
+        "눈숨기"@ko,
+        "雪隱"@zh .
 
 bulba:Snow_Warning_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2078,7 +3749,15 @@ bulba:Snow_Warning_%28Ability%29 a bulba:Ability,
     bulba:jpname "ゆきふらし" ;
     bulba:jptrans "Snowfall" ;
     bulba:jptranslit "Yuki Furashi" ;
-    bulba:name "Snow Warning" .
+    bulba:name "Snow Warning",
+        "Hagelalarm"@de,
+        "Snow Warning"@en,
+        "Nevada"@es,
+        "Alerte Neige"@fr,
+        "Scendineve"@it,
+        "ゆきふらし"@ja,
+        "눈퍼뜨리기"@ko,
+        "降雪"@zh .
 
 bulba:Solar_Power_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2087,7 +3766,15 @@ bulba:Solar_Power_%28Ability%29 a bulba:Ability,
     bulba:jpname "サンパワー" ;
     bulba:jptrans "Sun Power" ;
     bulba:jptranslit "San Pawā" ;
-    bulba:name "Solar Power" .
+    bulba:name "Solar Power",
+        "Solarkraft"@de,
+        "Solar Power"@en,
+        "Poder Solar"@es,
+        "Force Soleil"@fr,
+        "Solarpotere"@it,
+        "サンパワー"@ja,
+        "선파워"@ko,
+        "太陽之力"@zh .
 
 bulba:Solid_Rock_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2096,7 +3783,15 @@ bulba:Solid_Rock_%28Ability%29 a bulba:Ability,
     bulba:jpname "ハードロック" ;
     bulba:jptrans "Hard Rock" ;
     bulba:jptranslit "Hādo Rokku" ;
-    bulba:name "Solid Rock" .
+    bulba:name "Solid Rock",
+        "Felskern"@de,
+        "Solid Rock"@en,
+        "Roca Sólida"@es,
+        "Solide Roc"@fr,
+        "Solidroccia"@it,
+        "ハードロック"@ja,
+        "하드록"@ko,
+        "堅硬岩石"@zh .
 
 bulba:Soul-Heart_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2105,7 +3800,15 @@ bulba:Soul-Heart_%28Ability%29 a bulba:Ability,
     bulba:jpname "ソウルハート" ;
     bulba:jptrans "Soul-Heart" ;
     bulba:jptranslit "Sōru Hāto" ;
-    bulba:name "Soul-Heart" .
+    bulba:name "Soul-Heart",
+        "Seelenherz"@de,
+        "Soul-Heart"@en,
+        "Coránima"@es,
+        "Animacœur"@fr,
+        "Cuoreanima"@it,
+        "ソウルハート"@ja,
+        "소울하트"@ko,
+        "魂心"@zh .
 
 bulba:Soundproof_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2114,7 +3817,16 @@ bulba:Soundproof_%28Ability%29 a bulba:Ability,
     bulba:jpname "ぼうおん" ;
     bulba:jptrans "Soundproof" ;
     bulba:jptranslit "Bōon" ;
-    bulba:name "Soundproof" .
+    bulba:name "Soundproof",
+        "Hluchota"@czech,
+        "Lärmschutz"@de,
+        "Soundproof"@en,
+        "Insonorizar"@es,
+        "Anti-Bruit"@fr,
+        "Antisuono"@it,
+        "ぼうおん"@ja,
+        "방음"@ko,
+        "隔音"@zh .
 
 bulba:Speed_Boost_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2123,7 +3835,16 @@ bulba:Speed_Boost_%28Ability%29 a bulba:Ability,
     bulba:jpname "かそく" ;
     bulba:jptrans "Speed Up" ;
     bulba:jptranslit "Kasoku" ;
-    bulba:name "Speed Boost" .
+    bulba:name "Speed Boost",
+        "Zrychlení"@czech,
+        "Temposchub"@de,
+        "Speed Boost"@en,
+        "Impulso"@es,
+        "Turbo"@fr,
+        "Acceleratore"@it,
+        "かそく"@ja,
+        "가속"@ko,
+        "加速"@zh .
 
 bulba:Stakeout_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2132,7 +3853,15 @@ bulba:Stakeout_%28Ability%29 a bulba:Ability,
     bulba:jpname "はりこみ" ;
     bulba:jptrans "Stakeout" ;
     bulba:jptranslit "Harikomi" ;
-    bulba:name "Stakeout" .
+    bulba:name "Stakeout",
+        "Beschattung"@de,
+        "Stakeout"@en,
+        "Vigilante"@es,
+        "Filature"@fr,
+        "Sorveglianza"@it,
+        "はりこみ"@ja,
+        "잠복"@ko,
+        "監視"@zh .
 
 bulba:Stall_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2141,7 +3870,15 @@ bulba:Stall_%28Ability%29 a bulba:Ability,
     bulba:jpname "あとだし" ;
     bulba:jptrans "Going After" ;
     bulba:jptranslit "Atodashi" ;
-    bulba:name "Stall" .
+    bulba:name "Stall",
+        "Zeitspiel"@de,
+        "Stall"@en,
+        "Rezagado"@es,
+        "Frein"@fr,
+        "Rallentatore"@it,
+        "あとだし"@ja,
+        "시간벌기"@ko,
+        "慢出"@zh .
 
 bulba:Stalwart_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2150,7 +3887,15 @@ bulba:Stalwart_%28Ability%29 a bulba:Ability,
     bulba:jpname "すじがねいり" ;
     bulba:jptrans "Staunch" ;
     bulba:jptranslit "Suji ga neiri" ;
-    bulba:name "Stalwart" .
+    bulba:name "Stalwart",
+        "Stahlrückgrat"@de,
+        "Stalwart"@en,
+        "Acérrimo"@es,
+        "Nerfs d’Acier"@fr,
+        "Volontà di Ferro"@it,
+        "すじがねいり"@ja,
+        "굳건한신념"@ko,
+        "堅毅"@zh .
 
 bulba:Stamina_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2159,7 +3904,15 @@ bulba:Stamina_%28Ability%29 a bulba:Ability,
     bulba:jpname "じきゅうりょく" ;
     bulba:jptrans "Stamina" ;
     bulba:jptranslit "Jikyūryoku" ;
-    bulba:name "Stamina" .
+    bulba:name "Stamina",
+        "Zähigkeit"@de,
+        "Stamina"@en,
+        "Firmeza"@es,
+        "Endurance"@fr,
+        "Sopportazione"@it,
+        "じきゅうりょく"@ja,
+        "지구력"@ko,
+        "持久力"@zh .
 
 bulba:Stance_Change_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2168,7 +3921,15 @@ bulba:Stance_Change_%28Ability%29 a bulba:Ability,
     bulba:jpname "バトルスイッチ" ;
     bulba:jptrans "Battle Switch" ;
     bulba:jptranslit "Batoru Suitchi" ;
-    bulba:name "Stance Change" .
+    bulba:name "Stance Change",
+        "Taktikwechsel"@de,
+        "Stance Change"@en,
+        "Cambio Táctico"@es,
+        "Déclic Tactique"@fr,
+        "Accendilotta"@it,
+        "バトルスイッチ"@ja,
+        "배틀스위치"@ko,
+        "戰鬥切換"@zh .
 
 bulba:Static_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2177,7 +3938,16 @@ bulba:Static_%28Ability%29 a bulba:Ability,
     bulba:jpname "せいでんき" ;
     bulba:jptrans "Static Electricity" ;
     bulba:jptranslit "Seidenki" ;
-    bulba:name "Static" .
+    bulba:name "Static",
+        "Statika"@czech,
+        "Statik"@de,
+        "Static"@en,
+        "Elec. Estática"@es,
+        "Statik"@fr,
+        "Statico"@it,
+        "せいでんき"@ja,
+        "정전기"@ko,
+        "靜電"@zh .
 
 bulba:Steadfast_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2186,7 +3956,15 @@ bulba:Steadfast_%28Ability%29 a bulba:Ability,
     bulba:jpname "ふくつのこころ" ;
     bulba:jptrans "Indomitable Heart" ;
     bulba:jptranslit "Fukutsu no Kokoro" ;
-    bulba:name "Steadfast" .
+    bulba:name "Steadfast",
+        "Felsenfest"@de,
+        "Steadfast"@en,
+        "Impasible"@es,
+        "Impassible"@fr,
+        "Cuordeciso"@it,
+        "ふくつのこころ"@ja,
+        "불굴의마음"@ko,
+        "不屈之心"@zh .
 
 bulba:Steam_Engine_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2195,7 +3973,15 @@ bulba:Steam_Engine_%28Ability%29 a bulba:Ability,
     bulba:jpname "じょうききかん" ;
     bulba:jptrans "Steam Engine" ;
     bulba:jptranslit "Jōki Kikan" ;
-    bulba:name "Steam Engine" .
+    bulba:name "Steam Engine",
+        "Dampfantrieb"@de,
+        "Steam Engine"@en,
+        "Combustible"@es,
+        "Turbine"@fr,
+        "Vapormacchina"@it,
+        "じょうききかん"@ja,
+        "증기기관"@ko,
+        "蒸汽機"@zh .
 
 bulba:Steelworker_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2204,7 +3990,15 @@ bulba:Steelworker_%28Ability%29 a bulba:Ability,
     bulba:jpname "はがねつかい" ;
     bulba:jptrans "Steelworker" ;
     bulba:jptranslit "Hagane Tsukai" ;
-    bulba:name "Steelworker" .
+    bulba:name "Steelworker",
+        "Stahlprofi"@de,
+        "Steelworker"@en,
+        "Acero Templado"@es,
+        "Expert Acier"@fr,
+        "Tempracciaio"@it,
+        "はがねつかい"@ja,
+        "강철술사"@ko,
+        "鋼能力者"@zh .
 
 bulba:Steely_Spirit_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2213,7 +4007,15 @@ bulba:Steely_Spirit_%28Ability%29 a bulba:Ability,
     bulba:jpname "はがねのせいしん" ;
     bulba:jptrans "Steely Spirit" ;
     bulba:jptranslit "Hagane no Seishin" ;
-    bulba:name "Steely Spirit" .
+    bulba:name "Steely Spirit",
+        "Stählerner Wille"@de,
+        "Steely Spirit"@en,
+        "Alma Acerada"@es,
+        "Boost Acier"@fr,
+        "Spiritoferreo"@it,
+        "はがねのせいしん"@ja,
+        "강철정신"@ko,
+        "鋼之意志"@zh .
 
 bulba:Stench_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2222,7 +4024,16 @@ bulba:Stench_%28Ability%29 a bulba:Ability,
     bulba:jpname "あくしゅう" ;
     bulba:jptrans "Stench" ;
     bulba:jptranslit "Akushū" ;
-    bulba:name "Stench" .
+    bulba:name "Stench",
+        "Smrad"@czech,
+        "Duftnote"@de,
+        "Stench"@en,
+        "Hedor"@es,
+        "Puanteur"@fr,
+        "Tanfo"@it,
+        "あくしゅう"@ja,
+        "악취"@ko,
+        "惡臭"@zh .
 
 bulba:Sticky_Hold_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2231,7 +4042,16 @@ bulba:Sticky_Hold_%28Ability%29 a bulba:Ability,
     bulba:jpname "ねんちゃく" ;
     bulba:jptrans "Adhesion" ;
     bulba:jptranslit "Nenchaku" ;
-    bulba:name "Sticky Hold" .
+    bulba:name "Sticky Hold",
+        "Ulepené ruce"@czech,
+        "Klebekörper"@de,
+        "Sticky Hold"@en,
+        "Viscosidad"@es,
+        "Glu"@fr,
+        "Antifurto"@it,
+        "ねんちゃく"@ja,
+        "점착"@ko,
+        "黏著"@zh .
 
 bulba:Storm_Drain_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2240,7 +4060,15 @@ bulba:Storm_Drain_%28Ability%29 a bulba:Ability,
     bulba:jpname "よびみず" ;
     bulba:jptrans "Pump Priming" ;
     bulba:jptranslit "Yobimizu" ;
-    bulba:name "Storm Drain" .
+    bulba:name "Storm Drain",
+        "Sturmsog"@de,
+        "Storm Drain"@en,
+        "Colector"@es,
+        "Lavabo"@fr,
+        "Acquascolo"@it,
+        "よびみず"@ja,
+        "마중물"@ko,
+        "引水"@zh .
 
 bulba:Strong_Jaw_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2249,7 +4077,15 @@ bulba:Strong_Jaw_%28Ability%29 a bulba:Ability,
     bulba:jpname "がんじょうあご" ;
     bulba:jptrans "Strong Jaw" ;
     bulba:jptranslit "Ganjō Ago" ;
-    bulba:name "Strong Jaw" .
+    bulba:name "Strong Jaw",
+        "Titankiefer"@de,
+        "Strong Jaw"@en,
+        "Mandíbula Fuerte"@es,
+        "Prognathe"@fr,
+        "Ferromascella"@it,
+        "がんじょうあご"@ja,
+        "옹골찬턱"@ko,
+        "強壯之顎"@zh .
 
 bulba:Sturdy_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2258,7 +4094,16 @@ bulba:Sturdy_%28Ability%29 a bulba:Ability,
     bulba:jpname "がんじょう" ;
     bulba:jptrans "Sturdy" ;
     bulba:jptranslit "Ganjō" ;
-    bulba:name "Sturdy" .
+    bulba:name "Sturdy",
+        "Robustnost"@czech,
+        "Robustheit"@de,
+        "Sturdy"@en,
+        "Robustez"@es,
+        "Fermeté"@fr,
+        "Vigore"@it,
+        "がんじょう"@ja,
+        "옹골참"@ko,
+        "結實"@zh .
 
 bulba:Suction_Cups_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2267,7 +4112,16 @@ bulba:Suction_Cups_%28Ability%29 a bulba:Ability,
     bulba:jpname "きゅうばん" ;
     bulba:jptrans "Suction Cups" ;
     bulba:jptranslit "Kyūban" ;
-    bulba:name "Suction Cups" .
+    bulba:name "Suction Cups",
+        "Přísavky"@czech,
+        "Saugnapf"@de,
+        "Suction Cups"@en,
+        "Ventosas"@es,
+        "Ventouse"@fr,
+        "Ventose"@it,
+        "きゅうばん"@ja,
+        "흡반"@ko,
+        "吸盤"@zh .
 
 bulba:Super_Luck_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2276,7 +4130,15 @@ bulba:Super_Luck_%28Ability%29 a bulba:Ability,
     bulba:jpname "きょううん" ;
     bulba:jptrans "Good Luck" ;
     bulba:jptranslit "Kyōun" ;
-    bulba:name "Super Luck" .
+    bulba:name "Super Luck",
+        "Glückspilz"@de,
+        "Super Luck"@en,
+        "Afortunado"@es,
+        "Chanceux"@fr,
+        "Supersorte"@it,
+        "きょううん"@ja,
+        "대운"@ko,
+        "超幸運"@zh .
 
 bulba:Supersweet_Syrup_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2303,7 +4165,15 @@ bulba:Surge_Surfer_%28Ability%29 a bulba:Ability,
     bulba:jpname "サーフテール" ;
     bulba:jptrans "Surf Tail" ;
     bulba:jptranslit "Sāfu Tēru" ;
-    bulba:name "Surge Surfer" .
+    bulba:name "Surge Surfer",
+        "Surf-Schweif"@de,
+        "Surge Surfer"@en,
+        "Cola Surf"@es,
+        "Surf Caudal"@fr,
+        "Codasurf"@it,
+        "サーフテール"@ja,
+        "서핑테일"@ko,
+        "衝浪之尾"@zh .
 
 bulba:Swarm_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2312,7 +4182,16 @@ bulba:Swarm_%28Ability%29 a bulba:Ability,
     bulba:jpname "むしのしらせ" ;
     bulba:jptrans "Bug Notification" ;
     bulba:jptranslit "Mushi no Shirase" ;
-    bulba:name "Swarm" .
+    bulba:name "Swarm",
+        "Rojení"@czech,
+        "Hexaplaga"@de,
+        "Swarm"@en,
+        "Enjambre"@es,
+        "Essaim"@fr,
+        "Aiutinsetto"@it,
+        "むしのしらせ"@ja,
+        "벌레의알림"@ko,
+        "蟲之預感"@zh .
 
 bulba:Sweet_Veil_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2321,7 +4200,15 @@ bulba:Sweet_Veil_%28Ability%29 a bulba:Ability,
     bulba:jpname "スイートベール" ;
     bulba:jptrans "Sweet Veil" ;
     bulba:jptranslit "Suīto Bēru" ;
-    bulba:name "Sweet Veil" .
+    bulba:name "Sweet Veil",
+        "Zuckerhülle"@de,
+        "Sweet Veil"@en,
+        "Velo Dulce"@es,
+        "Gluco-Voile"@fr,
+        "Dolcevelo"@it,
+        "スイートベール"@ja,
+        "스위트베일"@ko,
+        "甜幕"@zh .
 
 bulba:Swift_Swim_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2330,7 +4217,16 @@ bulba:Swift_Swim_%28Ability%29 a bulba:Ability,
     bulba:jpname "すいすい" ;
     bulba:jptrans "Smooth Swim" ;
     bulba:jptranslit "Suisui" ;
-    bulba:name "Swift Swim" .
+    bulba:name "Swift Swim",
+        "Hbitá plavba"@czech,
+        "Wassertempo"@de,
+        "Swift Swim"@en,
+        "Nado Rápido"@es,
+        "Glissade"@fr,
+        "Nuotovelox"@it,
+        "すいすい"@ja,
+        "쓱쓱"@ko,
+        "悠游自如"@zh .
 
 bulba:Sword_of_Ruin_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2348,7 +4244,15 @@ bulba:Symbiosis_%28Ability%29 a bulba:Ability,
     bulba:jpname "きょうせい" ;
     bulba:jptrans "Symbiosis" ;
     bulba:jptranslit "Kyōsei" ;
-    bulba:name "Symbiosis" .
+    bulba:name "Symbiosis",
+        "Nutznießer"@de,
+        "Symbiosis"@en,
+        "Simbiosis"@es,
+        "Symbiose"@fr,
+        "Simbiosi"@it,
+        "きょうせい"@ja,
+        "공생"@ko,
+        "共生"@zh .
 
 bulba:Synchronize_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2357,7 +4261,16 @@ bulba:Synchronize_%28Ability%29 a bulba:Ability,
     bulba:jpname "シンクロ" ;
     bulba:jptrans "Synchro" ;
     bulba:jptranslit "Shinkuro" ;
-    bulba:name "Synchronize" .
+    bulba:name "Synchronize",
+        "Synchronizace"@czech,
+        "Synchro"@de,
+        "Synchronize"@en,
+        "Sincronía"@es,
+        "Synchro"@fr,
+        "Sincronismo"@it,
+        "シンクロ"@ja,
+        "싱크로"@ko,
+        "同步"@zh .
 
 bulba:Tablets_of_Ruin_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2375,7 +4288,15 @@ bulba:Tangled_Feet_%28Ability%29 a bulba:Ability,
     bulba:jpname "ちどりあし" ;
     bulba:jptrans "Tottering Steps" ;
     bulba:jptranslit "Chidori Ashi" ;
-    bulba:name "Tangled Feet" .
+    bulba:name "Tangled Feet",
+        "Fußangel"@de,
+        "Tangled Feet"@en,
+        "Tumbos"@es,
+        "Pieds Confus"@fr,
+        "Intricopiedi"@it,
+        "ちどりあし"@ja,
+        "갈지자걸음"@ko,
+        "蹣跚"@zh .
 
 bulba:Tangling_Hair_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2384,7 +4305,15 @@ bulba:Tangling_Hair_%28Ability%29 a bulba:Ability,
     bulba:jpname "カーリーヘアー" ;
     bulba:jptrans "Curly Hair" ;
     bulba:jptranslit "Kārī Heā" ;
-    bulba:name "Tangling Hair" .
+    bulba:name "Tangling Hair",
+        "Lockenkopf"@de,
+        "Tangling Hair"@en,
+        "Rizos Rebeldes"@es,
+        "Mèche Rebelle"@fr,
+        "Boccolidoro"@it,
+        "カーリーヘアー"@ja,
+        "컬리헤어"@ko,
+        "捲髮"@zh .
 
 bulba:Technician_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2393,7 +4322,15 @@ bulba:Technician_%28Ability%29 a bulba:Ability,
     bulba:jpname "テクニシャン" ;
     bulba:jptrans "Technician" ;
     bulba:jptranslit "Tekunishan" ;
-    bulba:name "Technician" .
+    bulba:name "Technician",
+        "Techniker"@de,
+        "Technician"@en,
+        "Experto"@es,
+        "Technicien"@fr,
+        "Tecnico"@it,
+        "テクニシャン"@ja,
+        "테크니션"@ko,
+        "技術高手"@zh .
 
 bulba:Telepathy_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2402,7 +4339,15 @@ bulba:Telepathy_%28Ability%29 a bulba:Ability,
     bulba:jpname "テレパシー" ;
     bulba:jptrans "Telepathy" ;
     bulba:jptranslit "Terepashī" ;
-    bulba:name "Telepathy" .
+    bulba:name "Telepathy",
+        "Telepathie"@de,
+        "Telepathy"@en,
+        "Telepatía"@es,
+        "Télépathe"@fr,
+        "Telepatia"@it,
+        "テレパシー"@ja,
+        "텔레파시"@ko,
+        "心靈感應"@zh .
 
 bulba:Tera_Shell_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2438,7 +4383,15 @@ bulba:Teravolt_%28Ability%29 a bulba:Ability,
     bulba:jpname "テラボルテージ" ;
     bulba:jptrans "Teravoltage" ;
     bulba:jptranslit "Teraborutēji" ;
-    bulba:name "Teravolt" .
+    bulba:name "Teravolt",
+        "Teravolt"@de,
+        "Teravolt"@en,
+        "Terravoltaje"@es,
+        "Téra-Voltage"@fr,
+        "Teravolt"@it,
+        "テラボルテージ"@ja,
+        "테라볼티지"@ko,
+        "兆級電壓"@zh .
 
 bulba:Thermal_Exchange_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2456,7 +4409,16 @@ bulba:Thick_Fat_%28Ability%29 a bulba:Ability,
     bulba:jpname "あついしぼう" ;
     bulba:jptrans "Thick Fat" ;
     bulba:jptranslit "Atsui Shibō" ;
-    bulba:name "Thick Fat" .
+    bulba:name "Thick Fat",
+        "Tlustý tuk"@czech,
+        "Speckschicht"@de,
+        "Thick Fat"@en,
+        "Sebo"@es,
+        "Isograisse"@fr,
+        "Grassospesso"@it,
+        "あついしぼう"@ja,
+        "두꺼운지방"@ko,
+        "厚脂肪"@zh .
 
 bulba:Tinted_Lens_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2465,7 +4427,15 @@ bulba:Tinted_Lens_%28Ability%29 a bulba:Ability,
     bulba:jpname "いろめがね" ;
     bulba:jptrans "Tinted Glasses" ;
     bulba:jptranslit "Iromegane" ;
-    bulba:name "Tinted Lens" .
+    bulba:name "Tinted Lens",
+        "Aufwertung"@de,
+        "Tinted Lens"@en,
+        "Cromolente"@es,
+        "Lentiteintée"@fr,
+        "Lentifumé"@it,
+        "いろめがね"@ja,
+        "색안경"@ko,
+        "有色眼鏡"@zh .
 
 bulba:Torrent_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2474,7 +4444,16 @@ bulba:Torrent_%28Ability%29 a bulba:Ability,
     bulba:jpname "げきりゅう" ;
     bulba:jptrans "Raging Rapids" ;
     bulba:jptranslit "Gekiryū" ;
-    bulba:name "Torrent" .
+    bulba:name "Torrent",
+        "Záplava"@czech,
+        "Sturzbach"@de,
+        "Torrent"@en,
+        "Torrente"@es,
+        "Torrent"@fr,
+        "Acquaiuto"@it,
+        "げきりゅう"@ja,
+        "급류"@ko,
+        "激流"@zh .
 
 bulba:Tough_Claws_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2483,7 +4462,15 @@ bulba:Tough_Claws_%28Ability%29 a bulba:Ability,
     bulba:jpname "かたいツメ" ;
     bulba:jptrans "Tough Claws" ;
     bulba:jptranslit "Katai Tsume" ;
-    bulba:name "Tough Claws" .
+    bulba:name "Tough Claws",
+        "Krallenwucht"@de,
+        "Tough Claws"@en,
+        "Garra Dura"@es,
+        "Griffe Dure"@fr,
+        "Unghiedure"@it,
+        "かたいツメ"@ja,
+        "단단한발톱"@ko,
+        "硬爪"@zh .
 
 bulba:Toxic_Boost_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2492,7 +4479,15 @@ bulba:Toxic_Boost_%28Ability%29 a bulba:Ability,
     bulba:jpname "どくぼうそう" ;
     bulba:jptrans "Poison Rampage" ;
     bulba:jptranslit "Doku Bōsō" ;
-    bulba:name "Toxic Boost" .
+    bulba:name "Toxic Boost",
+        "Giftwahn"@de,
+        "Toxic Boost"@en,
+        "Ímpetu Tóxico"@es,
+        "Rage Poison"@fr,
+        "Velenimpeto"@it,
+        "どくぼうそう"@ja,
+        "독폭주"@ko,
+        "中毒激升"@zh .
 
 bulba:Toxic_Chain_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2519,7 +4514,16 @@ bulba:Trace_%28Ability%29 a bulba:Ability,
     bulba:jpname "トレース" ;
     bulba:jptrans "Trace" ;
     bulba:jptranslit "Torēsu" ;
-    bulba:name "Trace" .
+    bulba:name "Trace",
+        "Kopírování"@czech,
+        "Erfassen"@de,
+        "Trace"@en,
+        "Rastro"@es,
+        "Calque"@fr,
+        "Traccia"@it,
+        "トレース"@ja,
+        "트레이스"@ko,
+        "複製"@zh .
 
 bulba:Transistor_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2528,7 +4532,15 @@ bulba:Transistor_%28Ability%29 a bulba:Ability,
     bulba:jpname "トランジスタ" ;
     bulba:jptrans "Transistor" ;
     bulba:jptranslit "Toranjisuta" ;
-    bulba:name "Transistor" .
+    bulba:name "Transistor",
+        "Transistor"@de,
+        "Transistor"@en,
+        "Transistor"@es,
+        "Transistor"@fr,
+        "Transistor"@it,
+        "トランジスタ"@ja,
+        "트랜지스터"@ko,
+        "電晶體"@zh .
 
 bulba:Triage_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2537,7 +4549,15 @@ bulba:Triage_%28Ability%29 a bulba:Ability,
     bulba:jpname "ヒーリングシフト" ;
     bulba:jptrans "Healing Shift" ;
     bulba:jptranslit "Hīringu Shifuto" ;
-    bulba:name "Triage" .
+    bulba:name "Triage",
+        "Heilwandel"@de,
+        "Triage"@en,
+        "Primer Auxilio"@es,
+        "Prioguérison"@fr,
+        "Primacura"@it,
+        "ヒーリングシフト"@ja,
+        "힐링시프트"@ko,
+        "先行治療"@zh .
 
 bulba:Truant_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2546,7 +4566,16 @@ bulba:Truant_%28Ability%29 a bulba:Ability,
     bulba:jpname "なまけ" ;
     bulba:jptrans "Lazy" ;
     bulba:jptranslit "Namake" ;
-    bulba:name "Truant" .
+    bulba:name "Truant",
+        "Ulejvání"@czech,
+        "Schnarchnase"@de,
+        "Truant"@en,
+        "Ausente"@es,
+        "Absentéisme"@fr,
+        "Pigrone"@it,
+        "なまけ"@ja,
+        "게으름"@ko,
+        "懶惰"@zh .
 
 bulba:Turboblaze_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2555,7 +4584,15 @@ bulba:Turboblaze_%28Ability%29 a bulba:Ability,
     bulba:jpname "ターボブレイズ" ;
     bulba:jptrans "Turboblaze" ;
     bulba:jptranslit "Tābobureizu" ;
-    bulba:name "Turboblaze" .
+    bulba:name "Turboblaze",
+        "Turbobrand"@de,
+        "Turboblaze"@en,
+        "Turbollama"@es,
+        "Turbo Brasier"@fr,
+        "Piroturbina"@it,
+        "ターボブレイズ"@ja,
+        "터보블레이즈"@ko,
+        "渦輪火焰"@zh .
 
 bulba:Unaware_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2564,7 +4601,15 @@ bulba:Unaware_%28Ability%29 a bulba:Ability,
     bulba:jpname "てんねん" ;
     bulba:jptrans "Airhead" ;
     bulba:jptranslit "Ten'nen" ;
-    bulba:name "Unaware" .
+    bulba:name "Unaware",
+        "Unkenntnis"@de,
+        "Unaware"@en,
+        "Ignorante"@es,
+        "Inconscient"@fr,
+        "Imprudenza"@it,
+        "てんねん"@ja,
+        "천진"@ko,
+        "純樸"@zh .
 
 bulba:Unburden_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2573,7 +4618,15 @@ bulba:Unburden_%28Ability%29 a bulba:Ability,
     bulba:jpname "かるわざ" ;
     bulba:jptrans "Acrobatics" ;
     bulba:jptranslit "Karuwaza" ;
-    bulba:name "Unburden" .
+    bulba:name "Unburden",
+        "Entlastung"@de,
+        "Unburden"@en,
+        "Liviano"@es,
+        "Délestage"@fr,
+        "Agiltecnica"@it,
+        "かるわざ"@ja,
+        "곡예"@ko,
+        "輕裝"@zh .
 
 bulba:Unnerve_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2582,7 +4635,15 @@ bulba:Unnerve_%28Ability%29 a bulba:Ability,
     bulba:jpname "きんちょうかん" ;
     bulba:jptrans "Tension" ;
     bulba:jptranslit "Kinchōkan" ;
-    bulba:name "Unnerve" .
+    bulba:name "Unnerve",
+        "Anspannung"@de,
+        "Unnerve"@en,
+        "Nerviosismo"@es,
+        "Tension"@fr,
+        "Agitazione"@it,
+        "きんちょうかん"@ja,
+        "긴장감"@ko,
+        "緊張感"@zh .
 
 bulba:Unseen_Fist_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2591,7 +4652,15 @@ bulba:Unseen_Fist_%28Ability%29 a bulba:Ability,
     bulba:jpname "ふかしのこぶし" ;
     bulba:jptrans "Invisible Fist" ;
     bulba:jptranslit "Fukashi no Kobushi" ;
-    bulba:name "Unseen Fist" .
+    bulba:name "Unseen Fist",
+        "Verborgene Faust"@de,
+        "Unseen Fist"@en,
+        "Puño Invisible"@es,
+        "Poing Invisible"@fr,
+        "Pugni Invisibili"@it,
+        "ふかしのこぶし"@ja,
+        "보이지않는주먹"@ko,
+        "無形拳"@zh .
 
 bulba:Vessel_of_Ruin_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2609,7 +4678,15 @@ bulba:Victory_Star_%28Ability%29 a bulba:Ability,
     bulba:jpname "しょうりのほし" ;
     bulba:jptrans "Victory Star" ;
     bulba:jptranslit "Shōri no Hoshi" ;
-    bulba:name "Victory Star" .
+    bulba:name "Victory Star",
+        "Triumphstern"@de,
+        "Victory Star"@en,
+        "Tinovictoria"@es,
+        "Victorieux"@fr,
+        "Vittorstella"@it,
+        "しょうりのほし"@ja,
+        "승리의별"@ko,
+        "勝利之星"@zh .
 
 bulba:Vital_Spirit_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2618,7 +4695,16 @@ bulba:Vital_Spirit_%28Ability%29 a bulba:Ability,
     bulba:jpname "やるき" ;
     bulba:jptrans "Willingness" ;
     bulba:jptranslit "Yaruki" ;
-    bulba:name "Vital Spirit" .
+    bulba:name "Vital Spirit",
+        "Neposednost"@czech,
+        "Munterkeit"@de,
+        "Vital Spirit"@en,
+        "Espíritu Vital"@es,
+        "Esprit Vital"@fr,
+        "Spiritovivo"@it,
+        "やるき"@ja,
+        "의기양양"@ko,
+        "幹勁"@zh .
 
 bulba:Volt_Absorb_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2627,7 +4713,16 @@ bulba:Volt_Absorb_%28Ability%29 a bulba:Ability,
     bulba:jpname "ちくでん" ;
     bulba:jptrans "Electricity Storage" ;
     bulba:jptranslit "Chikuden" ;
-    bulba:name "Volt Absorb" .
+    bulba:name "Volt Absorb",
+        "Nabíjení"@czech,
+        "Voltabsorber"@de,
+        "Volt Absorb"@en,
+        "Absorbe Elec"@es,
+        "Absorbe-Volt"@fr,
+        "Assorbivolt"@it,
+        "ちくでん"@ja,
+        "축전"@ko,
+        "蓄電"@zh .
 
 bulba:Wandering_Spirit_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2636,7 +4731,15 @@ bulba:Wandering_Spirit_%28Ability%29 a bulba:Ability,
     bulba:jpname "さまようたましい" ;
     bulba:jptrans "Wandering Spirit" ;
     bulba:jptranslit "Samayou Tamashii" ;
-    bulba:name "Wandering Spirit" .
+    bulba:name "Wandering Spirit",
+        "Rastlose Seele"@de,
+        "Wandering Spirit"@en,
+        "Alma Errante"@es,
+        "Âme Vagabonde"@fr,
+        "Anima Errante"@it,
+        "さまようたましい"@ja,
+        "떠도는영혼"@ko,
+        "遊魂"@zh .
 
 bulba:Water_Absorb_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2645,7 +4748,16 @@ bulba:Water_Absorb_%28Ability%29 a bulba:Ability,
     bulba:jpname "ちょすい" ;
     bulba:jptrans "Water Storage" ;
     bulba:jptranslit "Chosui" ;
-    bulba:name "Water Absorb" .
+    bulba:name "Water Absorb",
+        "Pohlcení vody"@czech,
+        "H2O-Absorber"@de,
+        "Water Absorb"@en,
+        "Absorbe Agua"@es,
+        "Absorbe-Eau"@fr,
+        "Assorbacqua"@it,
+        "ちょすい"@ja,
+        "저수"@ko,
+        "儲水"@zh .
 
 bulba:Water_Bubble_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2654,7 +4766,15 @@ bulba:Water_Bubble_%28Ability%29 a bulba:Ability,
     bulba:jpname "すいほう" ;
     bulba:jptrans "Water Bubble" ;
     bulba:jptranslit "Suihō" ;
-    bulba:name "Water Bubble" .
+    bulba:name "Water Bubble",
+        "Wasserblase"@de,
+        "Water Bubble"@en,
+        "Pompa"@es,
+        "Aquabulle"@fr,
+        "Bolladacqua"@it,
+        "すいほう"@ja,
+        "수포"@ko,
+        "水泡"@zh .
 
 bulba:Water_Compaction_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2663,7 +4783,15 @@ bulba:Water_Compaction_%28Ability%29 a bulba:Ability,
     bulba:jpname "みずがため" ;
     bulba:jptrans "Water Fortifying" ;
     bulba:jptranslit "Mizu Gatame" ;
-    bulba:name "Water Compaction" .
+    bulba:name "Water Compaction",
+        "Verklumpen"@de,
+        "Water Compaction"@en,
+        "Hidrorrefuerzo"@es,
+        "Sable Humide"@fr,
+        "Idrorinforzo"@it,
+        "みずがため"@ja,
+        "꾸덕꾸덕굳기"@ko,
+        "遇水凝固"@zh .
 
 bulba:Water_Veil_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2672,7 +4800,16 @@ bulba:Water_Veil_%28Ability%29 a bulba:Ability,
     bulba:jpname "みずのベール" ;
     bulba:jptrans "Water Veil" ;
     bulba:jptranslit "Mizu no Bēru" ;
-    bulba:name "Water Veil" .
+    bulba:name "Water Veil",
+        "Vodní rouška"@czech,
+        "Aquahülle"@de,
+        "Water Veil"@en,
+        "Velo Agua"@es,
+        "Ignifu-Voile"@fr,
+        "Idrovelo"@it,
+        "みずのベール"@ja,
+        "수의베일"@ko,
+        "水幕"@zh .
 
 bulba:Weak_Armor_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2681,7 +4818,15 @@ bulba:Weak_Armor_%28Ability%29 a bulba:Ability,
     bulba:jpname "くだけるよろい" ;
     bulba:jptrans "Broken Armor" ;
     bulba:jptranslit "Kudakeru Yoroi" ;
-    bulba:name "Weak Armor" .
+    bulba:name "Weak Armor",
+        "Bruchrüstung"@de,
+        "Weak Armor"@en,
+        "Armadura Frágil"@es,
+        "Armurouillée"@fr,
+        "Sottilguscio"@it,
+        "くだけるよろい"@ja,
+        "깨어진갑옷"@ko,
+        "碎裂鎧甲"@zh .
 
 bulba:Well-Baked_Body_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2699,7 +4844,16 @@ bulba:White_Smoke_%28Ability%29 a bulba:Ability,
     bulba:jpname "しろいけむり" ;
     bulba:jptrans "White Smoke" ;
     bulba:jptranslit "Shiroi Kemuri" ;
-    bulba:name "White Smoke" .
+    bulba:name "White Smoke",
+        "Bílý kouř"@czech,
+        "Pulverrauch"@de,
+        "White Smoke"@en,
+        "Humo Blanco"@es,
+        "Écran Fumée"@fr,
+        "Fumochiaro"@it,
+        "しろいけむり"@ja,
+        "하얀연기"@ko,
+        "白色煙霧"@zh .
 
 bulba:Wimp_Out_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2708,7 +4862,15 @@ bulba:Wimp_Out_%28Ability%29 a bulba:Ability,
     bulba:jpname "にげごし" ;
     bulba:jptrans "Back Off" ;
     bulba:jptranslit "Nigegoshi" ;
-    bulba:name "Wimp Out" .
+    bulba:name "Wimp Out",
+        "Reißaus"@de,
+        "Wimp Out"@en,
+        "Huida"@es,
+        "Escampette"@fr,
+        "Fuggifuggi"@it,
+        "にげごし"@ja,
+        "도망태세"@ko,
+        "躍躍欲逃"@zh .
 
 bulba:Wind_Power_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2735,7 +4897,16 @@ bulba:Wonder_Guard_%28Ability%29 a bulba:Ability,
     bulba:jpname "ふしぎなまもり" ;
     bulba:jptrans "Mysterious Protection" ;
     bulba:jptranslit "Fushigina Mamori" ;
-    bulba:name "Wonder Guard" .
+    bulba:name "Wonder Guard",
+        "Zázračný štít"@czech,
+        "Wunderwache"@de,
+        "Wonder Guard"@en,
+        "Superguarda"@es,
+        "Garde Mystik"@fr,
+        "Magidifesa"@it,
+        "ふしぎなまもり"@ja,
+        "불가사의부적"@ko,
+        "神奇守護"@zh .
 
 bulba:Wonder_Skin_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2744,7 +4915,15 @@ bulba:Wonder_Skin_%28Ability%29 a bulba:Ability,
     bulba:jpname "ミラクルスキン" ;
     bulba:jptrans "Miracle Skin" ;
     bulba:jptranslit "Mirakuru Sukin" ;
-    bulba:name "Wonder Skin" .
+    bulba:name "Wonder Skin",
+        "Wunderhaut"@de,
+        "Wonder Skin"@en,
+        "Piel Milagro"@es,
+        "Peau Miracle"@fr,
+        "Splendicute"@it,
+        "ミラクルスキン"@ja,
+        "미라클스킨"@ko,
+        "奇跡皮膚"@zh .
 
 bulba:Zen_Mode_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2753,7 +4932,15 @@ bulba:Zen_Mode_%28Ability%29 a bulba:Ability,
     bulba:jpname "ダルマモード" ;
     bulba:jptrans "Daruma Mode" ;
     bulba:jptranslit "Daruma Mōdo" ;
-    bulba:name "Zen Mode" .
+    bulba:name "Zen Mode",
+        "Trance-Modus"@de,
+        "Zen Mode"@en,
+        "Modo Daruma"@es,
+        "Mode Transe"@fr,
+        "Stato Zen"@it,
+        "ダルマモード"@ja,
+        "달마모드"@ko,
+        "達摩模式"@zh .
 
 bulba:Zero_to_Hero_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
