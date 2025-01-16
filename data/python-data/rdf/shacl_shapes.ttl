@@ -1,0 +1,43 @@
+@prefix bulba: <http://localhost:3030/bulba_vocab#> .
+@prefix schema1: <http://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+bulba:AbilityShape a sh:NodeShape ;
+    sh:property bulba:gen,
+        bulba:name ;
+    sh:targetClass bulba:Ability .
+
+bulba:PokemonShape a sh:NodeShape ;
+    sh:property bulba:ability1,
+        bulba:ability2,
+        bulba:abilityd,
+        bulba:ndex,
+        bulba:type1,
+        schema1:height,
+        schema1:weight ;
+    sh:targetClass bulba:Pokemon .
+
+bulba:ability1 sh:class_ bulba:Ability .
+
+bulba:ability2 sh:class_ bulba:Ability .
+
+bulba:abilityd sh:class_ bulba:Ability .
+
+bulba:gen sh:datatype schema1:Text .
+
+bulba:name sh:datatype schema1:Text ;
+    sh:minCount 1 .
+
+bulba:ndex sh:datatype schema1:Text ;
+    sh:pattern "^\\d{3,4}$" .
+
+bulba:type1 sh:datatype schema1:Text ;
+    sh:minCount 1 .
+
+schema1:height sh:datatype schema1:Text ;
+    sh:minCount 1 .
+
+schema1:weight sh:datatype schema1:Text ;
+    sh:minCount 1 .
+
