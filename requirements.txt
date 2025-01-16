@@ -4,3 +4,4 @@ requests
 mwclient
 pwiki
 mwparserfromhell
+plotly
