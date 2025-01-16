@@ -1,11 +1,10 @@
-from flask import Flask, request, render_template, jsonify
+from flask import Flask, request, render_template
 from SPARQLWrapper import SPARQLWrapper, JSON
-import os 
+import os
+from src.config import SPARQL_ENDPOINT
 
 app = Flask(__name__, template_folder=f"{os.getcwd()}/src/templates")
 
-# Fuseki SPARQL endpoint URL
-SPARQL_ENDPOINT = "http://localhost:3030/dataset/sparql"
 
 def query_fuseki(sparql_query):
     """Query the Fuseki triple store and return results."""
@@ -26,6 +25,5 @@ def home():
             return render_template("index.html", query=sparql_query, error=str(e))
     return render_template("index.html")
 
-    
 if __name__ == "__main__":
     app.run(debug=True)

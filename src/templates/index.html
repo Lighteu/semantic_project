@@ -2,10 +2,11 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>RDF Query Interface</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 
 <body class="bg-gray-100 text-gray-800">
@@ -14,12 +15,12 @@
 
         <form method="POST" class="bg-white p-6 rounded-lg shadow-md">
             <label for="sparql_query" class="block text-lg font-medium text-gray-700">SPARQL Query:</label>
-            <textarea id="sparql_query" name="sparql_query" rows="10"
-                class="w-full mt-2 p-3 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+            <textarea id="sparql_query" name="sparql_query" rows="10" class="w-full mt-2 p-3 border border-gray-300 rounded-lg shadow-sm
+               focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
 SELECT ?s ?p ?o WHERE {
   ?s ?p ?o .
 } LIMIT 10
-            </textarea>
+      </textarea>
             <button type="submit"
                 class="mt-4 bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition duration-200">
                 Run Query
@@ -34,28 +35,182 @@ SELECT ?s ?p ?o WHERE {
             {% if error %}
             <p class="text-red-600 mt-4">Error: {{ error }}</p>
             {% else %}
-            <table class="mt-4 w-full border-collapse border border-gray-300 text-sm text-left">
-                <thead class="bg-gray-200">
-                    <tr>
-                        {% for key in results[0].keys() %}
-                        <th class="border border-gray-300 p-2">{{ key }}</th>
+            <p class="text-lg font-medium text-gray-700 mt-4">
+                Number of rows: {{ results|length }}
+            </p>
+
+            <div class="mt-4">
+                <button id="showTableBtn" class="bg-blue-600 text-white px-4 py-1 rounded-md mr-2 hover:bg-blue-700">
+                    Table View
+                </button>
+                <button id="showGraphBtn" class="bg-green-600 text-white px-4 py-1 rounded-md hover:bg-green-700">
+                    Graph View
+                </button>
+            </div>
+
+            <div class="mt-4" id="resultsTable" style="display: block;">
+                <table class="w-full border-collapse border border-gray-300 text-sm text-left">
+                    <thead class="bg-gray-200">
+                        <tr>
+                            {% for key in results[0].keys() %}
+                            <th class="border border-gray-300 p-2">{{ key }}</th>
+                            {% endfor %}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for result in results %}
+                        <tr class="odd:bg-white even:bg-gray-100">
+                            {% for key, value in result.items() %}
+                            <td class="border border-gray-300 p-2">
+                                {% if value.type == 'uri' %}
+                                <a href="{{ value.value }}" class="text-blue-600 hover:underline" target="_blank"
+                                    rel="noopener noreferrer">
+                                    {{ value.value }}
+                                </a>
+                                {% else %}
+                                {{ value.value }}
+                                {% endif %}
+                            </td>
+                            {% endfor %}
+                        </tr>
                         {% endfor %}
-                    </tr>
-                </thead>
-                <tbody>
-                    {% for result in results %}
-                    <tr class="odd:bg-white even:bg-gray-100">
-                        {% for key, value in result.items() %}
-                        <td class="border border-gray-300 p-2">{{ value['value'] }}</td>
-                        {% endfor %}
-                    </tr>
-                    {% endfor %}
-                </tbody>
-            </table>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="mt-4" id="graphDiv" style="display: none;">
+                <div id="rdfGraph" style="width: 100%; height: 600px;"></div>
+            </div>
             {% endif %}
         </div>
         {% endif %}
     </div>
+
+    {% if results %}
+    <script type="application/json" id="plotData">
+    {{ results|tojson }}
+  </script>
+    {% endif %}
+
+    <script>
+        const showTableBtn = document.getElementById('showTableBtn');
+        const showGraphBtn = document.getElementById('showGraphBtn');
+        const resultsTable = document.getElementById('resultsTable');
+        const graphDiv = document.getElementById('graphDiv');
+
+        showTableBtn?.addEventListener('click', () => {
+            resultsTable.style.display = 'block';
+            graphDiv.style.display = 'none';
+        });
+
+        showGraphBtn?.addEventListener('click', () => {
+            resultsTable.style.display = 'none';
+            graphDiv.style.display = 'block';
+            createGraph();
+        });
+
+
+        function createGraph() {
+            const jsonDataEl = document.getElementById('plotData');
+            if (!jsonDataEl) return;
+
+            const data = JSON.parse(jsonDataEl.textContent);
+            if (!data || !data.length) return;
+
+            const nodeSet = new Set();
+            const edges = []; 
+
+            data.forEach(triple => {
+                const s = triple.s.value;
+                const p = triple.p.value;
+                const o = triple.o.value;
+
+                nodeSet.add(s);
+                nodeSet.add(o);
+
+                // Add an edge
+                edges.push({
+                    source: s,
+                    target: o,
+                    label: p
+                });
+            });
+
+            const nodes = Array.from(nodeSet);
+
+            const N = nodes.length;
+            const circleRadius = 1; 
+            const xCoords = [];
+            const yCoords = [];
+
+            nodes.forEach((node, i) => {
+                const angle = (2 * Math.PI * i) / N;
+                xCoords.push(circleRadius * Math.cos(angle));
+                yCoords.push(circleRadius * Math.sin(angle));
+            });
+
+            let edgeX = [];
+            let edgeY = [];
+            edges.forEach(edge => {
+                const sourceIdx = nodes.indexOf(edge.source);
+                const targetIdx = nodes.indexOf(edge.target);
+
+                edgeX.push(xCoords[sourceIdx]);
+                edgeY.push(yCoords[sourceIdx]);
+                edgeX.push(xCoords[targetIdx]);
+                edgeY.push(yCoords[targetIdx]);
+                edgeX.push(null);
+                edgeY.push(null);
+            });
+
+
+            const edgeTrace = {
+                x: edgeX,
+                y: edgeY,
+                mode: 'lines',
+                line: {
+                    width: 1,
+                    color: '#888'
+                },
+                hoverinfo: 'none'
+            };
+
+            const nodeTrace = {
+                x: xCoords,
+                y: yCoords,
+                mode: 'markers+text',
+                text: nodes,          
+                textposition: 'top center',
+                marker: {
+                    size: 10,
+                    color: '#1f77b4'
+                },
+                hoverinfo: 'text', 
+                textfont: {
+                    size: 10
+                }
+            };
+
+            const plotData = [edgeTrace, nodeTrace];
+
+            const layout = {
+                title: 'RDF Graph (Plotly)',
+                showlegend: false,
+                xaxis: {
+                    showgrid: false,
+                    zeroline: false,
+                    showticklabels: false
+                },
+                yaxis: {
+                    showgrid: false,
+                    zeroline: false,
+                    showticklabels: false
+                }
+            };
+
+            Plotly.newPlot('rdfGraph', plotData, layout);
+        }
+    </script>
 </body>
 
 </html>

@@ -3,6 +3,7 @@ API_URL = "https://bulbapedia.bulbagarden.net/w/api.php"
 HEADERS = {
     "User-Agent": "Mounir Rouibi from University Jean Monnet (mohamed.rouibi@etu.univ-st-etienne.fr)"
 }
+SPARQL_ENDPOINT = "http://localhost:3030/dataset/sparql"
 
 INFOBOXES_TEMPLATES = [
     "Template:AbilityInfobox",
