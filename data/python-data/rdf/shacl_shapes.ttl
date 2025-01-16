@@ -3,89 +3,44 @@
 @prefix sh: <http://www.w3.org/ns/shacl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-bulba:AbilityShape a sh:NodeShape ;
-    sh:property bulba:colorscheme,
-        bulba:gen,
-        bulba:name,
-        schema1:mainEntityOfPage ;
-    sh:targetClass bulba:Ability .
-
 bulba:PokemonShape a sh:NodeShape ;
-    sh:property bulba:ability1,
-        bulba:ability2,
-        bulba:abilityd,
-        bulba:body,
-        bulba:catchrate,
-        bulba:category,
-        bulba:color,
-        bulba:eggcycles,
-        bulba:gendercode,
-        bulba:generation,
-        bulba:ndex,
-        bulba:type1,
-        bulba:type2,
-        schema1:height,
-        schema1:mainEntityOfPage,
-        schema1:weight ;
+    sh:property [ sh:datatype xsd:string ;
+            sh:minCount 1 ;
+            sh:path bulba:generation ;
+            sh:pattern "^\\d+$" ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 1 ;
+            sh:path bulba:category ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 1 ;
+            sh:path schema1:height ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 1 ;
+            sh:path schema1:weight ],
+        [ sh:class_ bulba:Ability ;
+            sh:path bulba:abilityd ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 1 ;
+            sh:path bulba:type1 ],
+        [ sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path schema1:mainEntityOfPage ],
+        [ sh:datatype xsd:string ;
+            sh:path bulba:body ;
+            sh:pattern "^\\d{2}$" ],
+        [ sh:datatype xsd:string ;
+            sh:maxCount 1 ;
+            sh:path bulba:type2 ],
+        [ sh:class_ bulba:Ability ;
+            sh:path bulba:ability1 ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 1 ;
+            sh:path bulba:color ],
+        [ sh:class_ bulba:Ability ;
+            sh:path bulba:ability2 ],
+        [ sh:datatype xsd:string ;
+            sh:minCount 1 ;
+            sh:path bulba:ndex ;
+            sh:pattern "^\\d{3,4}$" ] ;
     sh:targetClass bulba:Pokemon .
-
-bulba:ability1 sh:class_ bulba:Ability .
-
-bulba:ability2 sh:class_ bulba:Ability .
-
-bulba:abilityd sh:class_ bulba:Ability .
-
-bulba:body sh:datatype schema1:Text ;
-    sh:pattern "^\\d{2}$" .
-
-bulba:catchrate sh:datatype schema1:Text ;
-    sh:pattern "^\\d+$" .
-
-bulba:category sh:datatype schema1:Text ;
-    sh:maxCount 1 ;
-    sh:minCount 1 .
-
-bulba:color sh:datatype schema1:Text ;
-    sh:maxCount 1 ;
-    sh:minCount 1 .
-
-bulba:colorscheme sh:datatype schema1:Text .
-
-bulba:eggcycles sh:datatype schema1:Text ;
-    sh:pattern "^\\d+$" .
-
-bulba:gen sh:datatype schema1:Text .
-
-bulba:gendercode sh:datatype schema1:Text ;
-    sh:pattern "^\\d+$" .
-
-bulba:generation sh:datatype schema1:Text ;
-    sh:maxCount 1 ;
-    sh:minCount 1 ;
-    sh:pattern "^\\d+$" .
-
-bulba:name sh:datatype schema1:Text ;
-    sh:minCount 1 .
-
-bulba:ndex sh:datatype schema1:Text ;
-    sh:pattern "^\\d{3,4}$" .
-
-bulba:type1 sh:datatype schema1:Text ;
-    sh:maxCount 1 ;
-    sh:minCount 1 .
-
-bulba:type2 sh:datatype schema1:Text ;
-    sh:maxCount 1 .
-
-schema1:height sh:datatype schema1:Text ;
-    sh:maxCount 1 ;
-    sh:minCount 1 .
-
-schema1:weight sh:datatype schema1:Text ;
-    sh:maxCount 1 ;
-    sh:minCount 1 .
-
-schema1:mainEntityOfPage sh:maxCount 1 ;
-    sh:minCount 1 ;
-    sh:nodeKind sh:IRI .
 
