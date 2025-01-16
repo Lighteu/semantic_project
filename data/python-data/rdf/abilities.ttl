@@ -16,7 +16,8 @@ bulba:Adaptability_%28Ability%29 a bulba:Ability,
         "Adattabilità"@it,
         "てきおうりょく"@ja,
         "적응력"@ko,
-        "適應力"@zh .
+        "適應力"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Adaptability_%28Ability%29> .
 
 bulba:Aerilate_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -33,7 +34,8 @@ bulba:Aerilate_%28Ability%29 a bulba:Ability,
         "Pellecielo"@it,
         "スカイスキン"@ja,
         "스카이스킨"@ko,
-        "飛行皮膚"@zh .
+        "飛行皮膚"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Aerilate_%28Ability%29> .
 
 bulba:Aftermath_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -50,7 +52,8 @@ bulba:Aftermath_%28Ability%29 a bulba:Ability,
         "Scoppio"@it,
         "ゆうばく"@ja,
         "유폭"@ko,
-        "引爆"@zh .
+        "引爆"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Aftermath_%28Ability%29> .
 
 bulba:Air_Lock_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -68,7 +71,8 @@ bulba:Air_Lock_%28Ability%29 a bulba:Ability,
         "Riparo"@it,
         "エアロック"@ja,
         "에어록"@ko,
-        "氣閘"@zh .
+        "氣閘"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Air_Lock_%28Ability%29> .
 
 bulba:Analytic_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -85,7 +89,8 @@ bulba:Analytic_%28Ability%29 a bulba:Ability,
         "Ponderazione"@it,
         "アナライズ"@ja,
         "애널라이즈"@ko,
-        "分析"@zh .
+        "分析"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Analytic_%28Ability%29> .
 
 bulba:Anger_Point_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -102,7 +107,8 @@ bulba:Anger_Point_%28Ability%29 a bulba:Ability,
         "Grancollera"@it,
         "いかりのつぼ"@ja,
         "분노의경혈"@ko,
-        "憤怒穴位"@zh .
+        "憤怒穴位"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Anger_Point_%28Ability%29> .
 
 bulba:Anger_Shell_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -111,7 +117,8 @@ bulba:Anger_Shell_%28Ability%29 a bulba:Ability,
     bulba:jpname "いかりのこうら" ;
     bulba:jptrans "Anger Shell" ;
     bulba:jptranslit "Ikari no Kōra" ;
-    bulba:name "Anger Shell" .
+    bulba:name "Anger Shell" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Anger_Shell_%28Ability%29> .
 
 bulba:Anticipation_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -128,7 +135,8 @@ bulba:Anticipation_%28Ability%29 a bulba:Ability,
         "Presagio"@it,
         "きけんよち"@ja,
         "위험예지"@ko,
-        "危險預知"@zh .
+        "危險預知"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Anticipation_%28Ability%29> .
 
 bulba:Arena_Trap_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -146,7 +154,8 @@ bulba:Arena_Trap_%28Ability%29 a bulba:Ability,
         "Trappoarena"@it,
         "ありじごく"@ja,
         "개미지옥"@ko,
-        "沙穴"@zh .
+        "沙穴"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Arena_Trap_%28Ability%29> .
 
 bulba:Armor_Tail_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -155,7 +164,8 @@ bulba:Armor_Tail_%28Ability%29 a bulba:Ability,
     bulba:jpname "テイルアーマー" ;
     bulba:jptrans "Tail Armor" ;
     bulba:jptranslit "Teiru Āmā" ;
-    bulba:name "Armor Tail" .
+    bulba:name "Armor Tail" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Armor_Tail_%28Ability%29> .
 
 bulba:Aroma_Veil_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -172,7 +182,8 @@ bulba:Aroma_Veil_%28Ability%29 a bulba:Ability,
         "Aromavelo"@it,
         "アロマベール"@ja,
         "아로마베일"@ko,
-        "芳香幕"@zh .
+        "芳香幕"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Aroma_Veil_%28Ability%29> .
 
 bulba:As_One_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -189,7 +200,8 @@ bulba:As_One_%28Ability%29 a bulba:Ability,
         "Sintonia Equina"@it,
         "じんばいったい"@ja,
         "혼연일체"@ko,
-        "人馬一體"@zh .
+        "人馬一體"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/As_One_%28Ability%29> .
 
 bulba:Aura_Break_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -206,7 +218,8 @@ bulba:Aura_Break_%28Ability%29 a bulba:Ability,
         "Frangiaura"@it,
         "オーラブレイク"@ja,
         "오라브레이크"@ko,
-        "氣場破壞"@zh .
+        "氣場破壞"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Aura_Break_%28Ability%29> .
 
 bulba:Bad_Dreams_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -223,7 +236,8 @@ bulba:Bad_Dreams_%28Ability%29 a bulba:Ability,
         "Sogniamari"@it,
         "ナイトメア"@ja,
         "나이트메어"@ko,
-        "夢魘"@zh .
+        "夢魘"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Bad_Dreams_%28Ability%29> .
 
 bulba:Ball_Fetch_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -240,7 +254,8 @@ bulba:Ball_Fetch_%28Ability%29 a bulba:Ability,
         "Raccattapalle"@it,
         "たまひろい"@ja,
         "볼줍기"@ko,
-        "撿球"@zh .
+        "撿球"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Ball_Fetch_%28Ability%29> .
 
 bulba:Battery_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -257,7 +272,8 @@ bulba:Battery_%28Ability%29 a bulba:Ability,
         "Batteria"@it,
         "バッテリー"@ja,
         "배터리"@ko,
-        "蓄電池"@zh .
+        "蓄電池"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Battery_%28Ability%29> .
 
 bulba:Battle_Armor_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -275,7 +291,8 @@ bulba:Battle_Armor_%28Ability%29 a bulba:Ability,
         "Lottascudo"@it,
         "カブトアーマー"@ja,
         "전투무장"@ko,
-        "戰鬥盔甲"@zh .
+        "戰鬥盔甲"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Battle_Armor_%28Ability%29> .
 
 bulba:Battle_Bond_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -292,7 +309,8 @@ bulba:Battle_Bond_%28Ability%29 a bulba:Ability,
         "Morfosintonia"@it,
         "きずなへんげ"@ja,
         "유대변화"@ko,
-        "牽絆變身"@zh .
+        "牽絆變身"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Battle_Bond_%28Ability%29> .
 
 bulba:Beads_of_Ruin_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -301,7 +319,8 @@ bulba:Beads_of_Ruin_%28Ability%29 a bulba:Ability,
     bulba:jpname "わざわいのたま" ;
     bulba:jptrans "Beads of Ruin" ;
     bulba:jptranslit "Wazawai no Tama" ;
-    bulba:name "Beads of Ruin" .
+    bulba:name "Beads of Ruin" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Beads_of_Ruin_%28Ability%29> .
 
 bulba:Beast_Boost_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -318,7 +337,8 @@ bulba:Beast_Boost_%28Ability%29 a bulba:Ability,
         "Ultraboost"@it,
         "ビーストブースト"@ja,
         "비스트부스트"@ko,
-        "異獸提升"@zh .
+        "異獸提升"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Beast_Boost_%28Ability%29> .
 
 bulba:Berserk_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -335,7 +355,8 @@ bulba:Berserk_%28Ability%29 a bulba:Ability,
         "Furore"@it,
         "ぎゃくじょう"@ja,
         "발끈"@ko,
-        "怒火沖天"@zh .
+        "怒火沖天"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Berserk_%28Ability%29> .
 
 bulba:Big_Pecks_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -352,7 +373,8 @@ bulba:Big_Pecks_%28Ability%29 a bulba:Ability,
         "Pettinfuori"@it,
         "はとむね"@ja,
         "부풀린가슴"@ko,
-        "健壯胸肌"@zh .
+        "健壯胸肌"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Big_Pecks_%28Ability%29> .
 
 bulba:Blaze_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -370,7 +392,8 @@ bulba:Blaze_%28Ability%29 a bulba:Ability,
         "Aiutofuoco"@it,
         "もうか"@ja,
         "맹화"@ko,
-        "猛火"@zh .
+        "猛火"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Blaze_%28Ability%29> .
 
 bulba:Bulletproof_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -387,7 +410,8 @@ bulba:Bulletproof_%28Ability%29 a bulba:Ability,
         "Antiproiettile"@it,
         "ぼうだん"@ja,
         "방탄"@ko,
-        "防彈"@zh .
+        "防彈"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Bulletproof_%28Ability%29> .
 
 bulba:Cacophony_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -396,7 +420,8 @@ bulba:Cacophony_%28Ability%29 a bulba:Ability,
     bulba:jpname "そうおん" ;
     bulba:jptrans "Noise" ;
     bulba:jptranslit "Sōon" ;
-    bulba:name "Cacophony" .
+    bulba:name "Cacophony" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Cacophony_%28Ability%29> .
 
 bulba:Cheek_Pouch_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -413,7 +438,8 @@ bulba:Cheek_Pouch_%28Ability%29 a bulba:Ability,
         "Guancegonfie"@it,
         "ほおぶくろ"@ja,
         "볼주머니"@ko,
-        "頰囊"@zh .
+        "頰囊"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Cheek_Pouch_%28Ability%29> .
 
 bulba:Chilling_Neigh_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -430,7 +456,8 @@ bulba:Chilling_Neigh_%28Ability%29 a bulba:Ability,
         "Nitrito Bianco"@it,
         "しろのいななき"@ja,
         "백의울음"@ko,
-        "蒼白嘶鳴"@zh .
+        "蒼白嘶鳴"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Chilling_Neigh_%28Ability%29> .
 
 bulba:Chlorophyll_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -448,7 +475,8 @@ bulba:Chlorophyll_%28Ability%29 a bulba:Ability,
         "Clorofilla"@it,
         "ようりょくそ"@ja,
         "엽록소"@ko,
-        "葉綠素"@zh .
+        "葉綠素"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Chlorophyll_%28Ability%29> .
 
 bulba:Clear_Body_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -466,7 +494,8 @@ bulba:Clear_Body_%28Ability%29 a bulba:Ability,
         "Corpochiaro"@it,
         "クリアボディ"@ja,
         "클리어바디"@ko,
-        "恆淨之軀"@zh .
+        "恆淨之軀"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Clear_Body_%28Ability%29> .
 
 bulba:Cloud_Nine_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -484,7 +513,8 @@ bulba:Cloud_Nine_%28Ability%29 a bulba:Ability,
         "Antimeteo"@it,
         "ノーてんき"@ja,
         "날씨부정"@ko,
-        "無關天氣"@zh .
+        "無關天氣"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Cloud_Nine_%28Ability%29> .
 
 bulba:Color_Change_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -502,7 +532,8 @@ bulba:Color_Change_%28Ability%29 a bulba:Ability,
         "Cambiacolore"@it,
         "へんしょく"@ja,
         "변색"@ko,
-        "變色"@zh .
+        "變色"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Color_Change_%28Ability%29> .
 
 bulba:Comatose_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -519,7 +550,8 @@ bulba:Comatose_%28Ability%29 a bulba:Ability,
         "Sonno Assoluto"@it,
         "ぜったいねむり"@ja,
         "절대안깸"@ko,
-        "絕對睡眠"@zh .
+        "絕對睡眠"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Comatose_%28Ability%29> .
 
 bulba:Commander_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -528,7 +560,8 @@ bulba:Commander_%28Ability%29 a bulba:Ability,
     bulba:jpname "しれいとう" ;
     bulba:jptrans "Commander" ;
     bulba:jptranslit "Shireitō" ;
-    bulba:name "Commander" .
+    bulba:name "Commander" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Commander_%28Ability%29> .
 
 bulba:Competitive_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -545,7 +578,8 @@ bulba:Competitive_%28Ability%29 a bulba:Ability,
         "Tenacia"@it,
         "かちき"@ja,
         "승기"@ko,
-        "好勝"@zh .
+        "好勝"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Competitive_%28Ability%29> .
 
 bulba:Compound_Eyes_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -563,7 +597,8 @@ bulba:Compound_Eyes_%28Ability%29 a bulba:Ability,
         "Insettocchi"@it,
         "ふくがん"@ja,
         "복안"@ko,
-        "複眼"@zh .
+        "複眼"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Compound_Eyes_%28Ability%29> .
 
 bulba:Contrary_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -580,7 +615,8 @@ bulba:Contrary_%28Ability%29 a bulba:Ability,
         "Inversione"@it,
         "あまのじゃく"@ja,
         "심술꾸러기"@ko,
-        "唱反調"@zh .
+        "唱反調"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Contrary_%28Ability%29> .
 
 bulba:Corrosion_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -597,7 +633,8 @@ bulba:Corrosion_%28Ability%29 a bulba:Ability,
         "Corrosione"@it,
         "ふしょく"@ja,
         "부식"@ko,
-        "腐蝕"@zh .
+        "腐蝕"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Corrosion_%28Ability%29> .
 
 bulba:Costar_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -606,7 +643,8 @@ bulba:Costar_%28Ability%29 a bulba:Ability,
     bulba:jpname "きょうえん" ;
     bulba:jptrans "Costarring" ;
     bulba:jptranslit "Kyōen" ;
-    bulba:name "Costar" .
+    bulba:name "Costar" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Costar_%28Ability%29> .
 
 bulba:Cotton_Down_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -623,7 +661,8 @@ bulba:Cotton_Down_%28Ability%29 a bulba:Ability,
         "Lanugine"@it,
         "わたげ"@ja,
         "솜털"@ko,
-        "棉絮"@zh .
+        "棉絮"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Cotton_Down_%28Ability%29> .
 
 bulba:Cud_Chew_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -632,7 +671,8 @@ bulba:Cud_Chew_%28Ability%29 a bulba:Ability,
     bulba:jpname "はんすう" ;
     bulba:jptrans "Cud Chew" ;
     bulba:jptranslit "Hansū" ;
-    bulba:name "Cud Chew" .
+    bulba:name "Cud Chew" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Cud_Chew_%28Ability%29> .
 
 bulba:Curious_Medicine_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -649,7 +689,8 @@ bulba:Curious_Medicine_%28Ability%29 a bulba:Ability,
         "Stranofarmaco"@it,
         "きみょうなくすり"@ja,
         "기묘한약"@ko,
-        "怪藥"@zh .
+        "怪藥"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Curious_Medicine_%28Ability%29> .
 
 bulba:Cursed_Body_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -666,7 +707,8 @@ bulba:Cursed_Body_%28Ability%29 a bulba:Ability,
         "Corpofunesto"@it,
         "のろわれボディ"@ja,
         "저주받은바디"@ko,
-        "詛咒之軀"@zh .
+        "詛咒之軀"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Cursed_Body_%28Ability%29> .
 
 bulba:Cute_Charm_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -684,7 +726,8 @@ bulba:Cute_Charm_%28Ability%29 a bulba:Ability,
         "Incantevole"@it,
         "メロメロボディ"@ja,
         "헤롱헤롱바디"@ko,
-        "迷人之軀"@zh .
+        "迷人之軀"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Cute_Charm_%28Ability%29> .
 
 bulba:Damp_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -702,7 +745,8 @@ bulba:Damp_%28Ability%29 a bulba:Ability,
         "Umidità"@it,
         "しめりけ"@ja,
         "습기"@ko,
-        "濕氣"@zh .
+        "濕氣"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Damp_%28Ability%29> .
 
 bulba:Dancer_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -719,7 +763,8 @@ bulba:Dancer_%28Ability%29 a bulba:Ability,
         "Sincrodanza"@it,
         "おどりこ"@ja,
         "무희"@ko,
-        "舞者"@zh .
+        "舞者"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Dancer_%28Ability%29> .
 
 bulba:Dark_Aura_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -736,7 +781,8 @@ bulba:Dark_Aura_%28Ability%29 a bulba:Ability,
         "Auratetra"@it,
         "ダークオーラ"@ja,
         "다크오라"@ko,
-        "暗黑氣場"@zh .
+        "暗黑氣場"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Dark_Aura_%28Ability%29> .
 
 bulba:Dauntless_Shield_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -753,7 +799,8 @@ bulba:Dauntless_Shield_%28Ability%29 a bulba:Ability,
         "Scudo Saldo"@it,
         "ふくつのたて"@ja,
         "불굴의방패"@ko,
-        "不屈之盾"@zh .
+        "不屈之盾"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Dauntless_Shield_%28Ability%29> .
 
 bulba:Dazzling_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -770,7 +817,8 @@ bulba:Dazzling_%28Ability%29 a bulba:Ability,
         "Corposgargiante"@it,
         "ビビッドボディ"@ja,
         "비비드바디"@ko,
-        "鮮艷之軀"@zh .
+        "鮮艷之軀"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Dazzling_%28Ability%29> .
 
 bulba:Defeatist_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -787,7 +835,8 @@ bulba:Defeatist_%28Ability%29 a bulba:Ability,
         "Sconforto"@it,
         "よわき"@ja,
         "무기력"@ko,
-        "軟弱"@zh .
+        "軟弱"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Defeatist_%28Ability%29> .
 
 bulba:Defiant_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -804,7 +853,8 @@ bulba:Defiant_%28Ability%29 a bulba:Ability,
         "Agonismo"@it,
         "まけんき"@ja,
         "오기"@ko,
-        "不服輸"@zh .
+        "不服輸"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Defiant_%28Ability%29> .
 
 bulba:Delta_Stream_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -821,7 +871,8 @@ bulba:Delta_Stream_%28Ability%29 a bulba:Ability,
         "Flusso Delta"@it,
         "デルタストリーム"@ja,
         "델타스트림"@ko,
-        "德爾塔氣流"@zh .
+        "德爾塔氣流"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Delta_Stream_%28Ability%29> .
 
 bulba:Desolate_Land_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -838,7 +889,8 @@ bulba:Desolate_Land_%28Ability%29 a bulba:Ability,
         "Terra Estrema"@it,
         "おわりのだいち"@ja,
         "끝의대지"@ko,
-        "終結之地"@zh .
+        "終結之地"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Desolate_Land_%28Ability%29> .
 
 bulba:Disguise_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -855,7 +907,8 @@ bulba:Disguise_%28Ability%29 a bulba:Ability,
         "Fantasmanto"@it,
         "ばけのかわ"@ja,
         "탈"@ko,
-        "畫皮"@zh .
+        "畫皮"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Disguise_%28Ability%29> .
 
 bulba:Download_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -872,7 +925,8 @@ bulba:Download_%28Ability%29 a bulba:Ability,
         "Download"@it,
         "ダウンロード"@ja,
         "다운로드"@ko,
-        "下載"@zh .
+        "下載"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Download_%28Ability%29> .
 
 bulba:Dragon%27s_Maw_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -881,7 +935,8 @@ bulba:Dragon%27s_Maw_%28Ability%29 a bulba:Ability,
     bulba:jpname "りゅうのあぎと" ;
     bulba:jptrans "Dragon's Jaw" ;
     bulba:jptranslit "Ryū no Agito" ;
-    bulba:name "Dragon's Maw" .
+    bulba:name "Dragon's Maw" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Dragon%27s_Maw_%28Ability%29> .
 
 bulba:Drizzle_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -899,7 +954,8 @@ bulba:Drizzle_%28Ability%29 a bulba:Ability,
         "Piovischio"@it,
         "あめふらし"@ja,
         "잔비"@ko,
-        "降雨"@zh .
+        "降雨"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Drizzle_%28Ability%29> .
 
 bulba:Drought_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -917,7 +973,8 @@ bulba:Drought_%28Ability%29 a bulba:Ability,
         "Siccità"@it,
         "ひでり"@ja,
         "가뭄"@ko,
-        "日照"@zh .
+        "日照"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Drought_%28Ability%29> .
 
 bulba:Dry_Skin_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -934,7 +991,8 @@ bulba:Dry_Skin_%28Ability%29 a bulba:Ability,
         "Pellearsa"@it,
         "かんそうはだ"@ja,
         "건조피부"@ko,
-        "乾燥皮膚"@zh .
+        "乾燥皮膚"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Dry_Skin_%28Ability%29> .
 
 bulba:Early_Bird_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -952,7 +1010,8 @@ bulba:Early_Bird_%28Ability%29 a bulba:Ability,
         "Sveglialampo"@it,
         "はやおき"@ja,
         "일찍기상"@ko,
-        "早起"@zh .
+        "早起"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Early_Bird_%28Ability%29> .
 
 bulba:Earth_Eater_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -961,7 +1020,8 @@ bulba:Earth_Eater_%28Ability%29 a bulba:Ability,
     bulba:jpname "どしょく" ;
     bulba:jptrans "Geophagy" ;
     bulba:jptranslit "Doshoku" ;
-    bulba:name "Earth Eater" .
+    bulba:name "Earth Eater" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Earth_Eater_%28Ability%29> .
 
 bulba:Effect_Spore_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -979,7 +1039,8 @@ bulba:Effect_Spore_%28Ability%29 a bulba:Ability,
         "Spargispora"@it,
         "ほうし"@ja,
         "포자"@ko,
-        "孢子"@zh .
+        "孢子"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Effect_Spore_%28Ability%29> .
 
 bulba:Electric_Surge_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -996,7 +1057,8 @@ bulba:Electric_Surge_%28Ability%29 a bulba:Ability,
         "Elettrogenesi"@it,
         "エレキメイカー"@ja,
         "일렉트릭메이커"@ko,
-        "電氣製造者"@zh .
+        "電氣製造者"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Electric_Surge_%28Ability%29> .
 
 bulba:Electromorphosis_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1005,7 +1067,8 @@ bulba:Electromorphosis_%28Ability%29 a bulba:Ability,
     bulba:jpname "でんきにかえる" ;
     bulba:jptrans "Change into Electricity" ;
     bulba:jptranslit "Denki ni Kaeru" ;
-    bulba:name "Electromorphosis" .
+    bulba:name "Electromorphosis" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Electromorphosis_%28Ability%29> .
 
 bulba:Embody_Aspect_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1014,7 +1077,8 @@ bulba:Embody_Aspect_%28Ability%29 a bulba:Ability,
     bulba:jpname "おもかげやどし" ;
     bulba:jptrans "Bearing Visage" ;
     bulba:jptranslit "Omokage Yadoshi" ;
-    bulba:name "Embody Aspect" .
+    bulba:name "Embody Aspect" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Embody_Aspect_%28Ability%29> .
 
 bulba:Emergency_Exit_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1031,7 +1095,8 @@ bulba:Emergency_Exit_%28Ability%29 a bulba:Ability,
         "Passoindietro"@it,
         "ききかいひ"@ja,
         "위기회피"@ko,
-        "危險迴避"@zh .
+        "危險迴避"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Emergency_Exit_%28Ability%29> .
 
 bulba:Fairy_Aura_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1048,7 +1113,8 @@ bulba:Fairy_Aura_%28Ability%29 a bulba:Ability,
         "Aurafolletto"@it,
         "フェアリーオーラ"@ja,
         "페어리오라"@ko,
-        "妖精氣場"@zh .
+        "妖精氣場"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Fairy_Aura_%28Ability%29> .
 
 bulba:Filter_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1065,7 +1131,8 @@ bulba:Filter_%28Ability%29 a bulba:Ability,
         "Filtro"@it,
         "フィルター"@ja,
         "필터"@ko,
-        "過濾"@zh .
+        "過濾"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Filter_%28Ability%29> .
 
 bulba:Flame_Body_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1083,7 +1150,8 @@ bulba:Flame_Body_%28Ability%29 a bulba:Ability,
         "Corpodifuoco"@it,
         "ほのおのからだ"@ja,
         "불꽃몸"@ko,
-        "火焰之軀"@zh .
+        "火焰之軀"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Flame_Body_%28Ability%29> .
 
 bulba:Flare_Boost_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1100,7 +1168,8 @@ bulba:Flare_Boost_%28Ability%29 a bulba:Ability,
         "Bruciaimpeto"@it,
         "ねつぼうそう"@ja,
         "열폭주"@ko,
-        "受熱激升"@zh .
+        "受熱激升"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Flare_Boost_%28Ability%29> .
 
 bulba:Flash_Fire_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1118,7 +1187,8 @@ bulba:Flash_Fire_%28Ability%29 a bulba:Ability,
         "Fuocardore"@it,
         "もらいび"@ja,
         "타오르는불꽃"@ko,
-        "引火"@zh .
+        "引火"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Flash_Fire_%28Ability%29> .
 
 bulba:Flower_Gift_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1134,7 +1204,8 @@ bulba:Flower_Gift_%28Ability%29 a bulba:Ability,
         "Don Floral"@fr,
         "Regalfiore"@it,
         "플라워기프트"@ko,
-        "花之禮"@zh .
+        "花之禮"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Flower_Gift_%28Ability%29> .
 
 bulba:Flower_Veil_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1151,7 +1222,8 @@ bulba:Flower_Veil_%28Ability%29 a bulba:Ability,
         "Fiorvelo"@it,
         "フラワーベール"@ja,
         "플라워베일"@ko,
-        "花幕"@zh .
+        "花幕"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Flower_Veil_%28Ability%29> .
 
 bulba:Fluffy_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1168,7 +1240,8 @@ bulba:Fluffy_%28Ability%29 a bulba:Ability,
         "Morbidone"@it,
         "もふもふ"@ja,
         "복슬복슬"@ko,
-        "毛茸茸"@zh .
+        "毛茸茸"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Fluffy_%28Ability%29> .
 
 bulba:Forecast_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1186,7 +1259,8 @@ bulba:Forecast_%28Ability%29 a bulba:Ability,
         "Previsioni"@it,
         "てんきや"@ja,
         "기분파"@ko,
-        "陰晴不定"@zh .
+        "陰晴不定"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Forecast_%28Ability%29> .
 
 bulba:Forewarn_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1203,7 +1277,8 @@ bulba:Forewarn_%28Ability%29 a bulba:Ability,
         "Premonizione"@it,
         "よちむ"@ja,
         "예지몽"@ko,
-        "預知夢"@zh .
+        "預知夢"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Forewarn_%28Ability%29> .
 
 bulba:Friend_Guard_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1220,7 +1295,8 @@ bulba:Friend_Guard_%28Ability%29 a bulba:Ability,
         "Amicoscudo"@it,
         "フレンドガード"@ja,
         "프렌드가드"@ko,
-        "友情防守"@zh .
+        "友情防守"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Friend_Guard_%28Ability%29> .
 
 bulba:Frisk_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1237,7 +1313,8 @@ bulba:Frisk_%28Ability%29 a bulba:Ability,
         "Indagine"@it,
         "おみとおし"@ja,
         "통찰"@ko,
-        "察覺"@zh .
+        "察覺"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Frisk_%28Ability%29> .
 
 bulba:Full_Metal_Body_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1254,7 +1331,8 @@ bulba:Full_Metal_Body_%28Ability%29 a bulba:Ability,
         "Metalprotezione"@it,
         "メタルプロテクト"@ja,
         "메탈프로텍트"@ko,
-        "金屬防護"@zh .
+        "金屬防護"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Full_Metal_Body_%28Ability%29> .
 
 bulba:Fur_Coat_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1271,7 +1349,8 @@ bulba:Fur_Coat_%28Ability%29 a bulba:Ability,
         "Foltopelo"@it,
         "ファーコート"@ja,
         "퍼코트"@ko,
-        "毛皮大衣"@zh .
+        "毛皮大衣"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Fur_Coat_%28Ability%29> .
 
 bulba:Gale_Wings_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1288,7 +1367,8 @@ bulba:Gale_Wings_%28Ability%29 a bulba:Ability,
         "Aliraffica"@it,
         "はやてのつばさ"@ja,
         "질풍날개"@ko,
-        "疾風之翼"@zh .
+        "疾風之翼"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Gale_Wings_%28Ability%29> .
 
 bulba:Galvanize_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1305,7 +1385,8 @@ bulba:Galvanize_%28Ability%29 a bulba:Ability,
         "Pellelettro"@it,
         "エレキスキン"@ja,
         "일렉트릭스킨"@ko,
-        "電氣皮膚"@zh .
+        "電氣皮膚"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Galvanize_%28Ability%29> .
 
 bulba:Gluttony_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1322,7 +1403,8 @@ bulba:Gluttony_%28Ability%29 a bulba:Ability,
         "Voracità"@it,
         "くいしんぼう"@ja,
         "먹보"@ko,
-        "貪吃鬼"@zh .
+        "貪吃鬼"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Gluttony_%28Ability%29> .
 
 bulba:Good_as_Gold_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1331,7 +1413,8 @@ bulba:Good_as_Gold_%28Ability%29 a bulba:Ability,
     bulba:jpname "おうごんのからだ" ;
     bulba:jptrans "Gold Body" ;
     bulba:jptranslit "Ōgon no Karada" ;
-    bulba:name "Good as Gold" .
+    bulba:name "Good as Gold" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Good_as_Gold_%28Ability%29> .
 
 bulba:Gooey_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1348,7 +1431,8 @@ bulba:Gooey_%28Ability%29 a bulba:Ability,
         "Viscosità"@it,
         "ぬめぬめ"@ja,
         "미끈미끈"@ko,
-        "黏滑"@zh .
+        "黏滑"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Gooey_%28Ability%29> .
 
 bulba:Gorilla_Tactics_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1365,7 +1449,8 @@ bulba:Gorilla_Tactics_%28Ability%29 a bulba:Ability,
         "Vigorilla"@it,
         "ごりむちゅう"@ja,
         "무아지경"@ko,
-        "一猩一意"@zh .
+        "一猩一意"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Gorilla_Tactics_%28Ability%29> .
 
 bulba:Grass_Pelt_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1382,7 +1467,8 @@ bulba:Grass_Pelt_%28Ability%29 a bulba:Ability,
         "Peloderba"@it,
         "くさのけがわ"@ja,
         "풀모피"@ko,
-        "草之毛皮"@zh .
+        "草之毛皮"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Grass_Pelt_%28Ability%29> .
 
 bulba:Grassy_Surge_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1399,7 +1485,8 @@ bulba:Grassy_Surge_%28Ability%29 a bulba:Ability,
         "Erbogenesi"@it,
         "グラスメイカー"@ja,
         "그래스메이커"@ko,
-        "青草製造者"@zh .
+        "青草製造者"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Grassy_Surge_%28Ability%29> .
 
 bulba:Grim_Neigh_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1416,7 +1503,8 @@ bulba:Grim_Neigh_%28Ability%29 a bulba:Ability,
         "Nitrito Nero"@it,
         "くろのいななき"@ja,
         "흑의울음"@ko,
-        "漆黑嘶鳴"@zh .
+        "漆黑嘶鳴"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Grim_Neigh_%28Ability%29> .
 
 bulba:Guard_Dog_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1425,7 +1513,8 @@ bulba:Guard_Dog_%28Ability%29 a bulba:Ability,
     bulba:jpname "ばんけん" ;
     bulba:jptrans "Guard Dog" ;
     bulba:jptranslit "Banken" ;
-    bulba:name "Guard Dog" .
+    bulba:name "Guard Dog" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Guard_Dog_%28Ability%29> .
 
 bulba:Gulp_Missile_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1442,7 +1531,8 @@ bulba:Gulp_Missile_%28Ability%29 a bulba:Ability,
         "Inghiottimissile"@it,
         "うのミサイル"@ja,
         "그대로꿀꺽미사일"@ko,
-        "一口飛彈"@zh .
+        "一口飛彈"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Gulp_Missile_%28Ability%29> .
 
 bulba:Guts_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1460,7 +1550,8 @@ bulba:Guts_%28Ability%29 a bulba:Ability,
         "Dentistretti"@it,
         "こんじょう"@ja,
         "근성"@ko,
-        "毅力"@zh .
+        "毅力"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Guts_%28Ability%29> .
 
 bulba:Hadron_Engine_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1469,7 +1560,8 @@ bulba:Hadron_Engine_%28Ability%29 a bulba:Ability,
     bulba:jpname "ハドロンエンジン" ;
     bulba:jptrans "Hadron Engine" ;
     bulba:jptranslit "Hadoron Enjin" ;
-    bulba:name "Hadron Engine" .
+    bulba:name "Hadron Engine" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Hadron_Engine_%28Ability%29> .
 
 bulba:Harvest_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1486,7 +1578,8 @@ bulba:Harvest_%28Ability%29 a bulba:Ability,
         "Coglibacche"@it,
         "しゅうかく"@ja,
         "수확"@ko,
-        "收穫"@zh .
+        "收穫"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Harvest_%28Ability%29> .
 
 bulba:Healer_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1503,7 +1596,8 @@ bulba:Healer_%28Ability%29 a bulba:Ability,
         "Curacuore"@it,
         "いやしのこころ"@ja,
         "치유의마음"@ko,
-        "治癒之心"@zh .
+        "治癒之心"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Healer_%28Ability%29> .
 
 bulba:Heatproof_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1520,7 +1614,8 @@ bulba:Heatproof_%28Ability%29 a bulba:Ability,
         "Antifuoco"@it,
         "たいねつ"@ja,
         "내열"@ko,
-        "耐熱"@zh .
+        "耐熱"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Heatproof_%28Ability%29> .
 
 bulba:Heavy_Metal_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1537,7 +1632,8 @@ bulba:Heavy_Metal_%28Ability%29 a bulba:Ability,
         "Metalpesante"@it,
         "ヘヴィメタル"@ja,
         "헤비메탈"@ko,
-        "重金屬"@zh .
+        "重金屬"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Heavy_Metal_%28Ability%29> .
 
 bulba:Honey_Gather_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1554,7 +1650,8 @@ bulba:Honey_Gather_%28Ability%29 a bulba:Ability,
         "Mielincetta"@it,
         "みつあつめ"@ja,
         "꿀모으기"@ko,
-        "採蜜"@zh .
+        "採蜜"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Honey_Gather_%28Ability%29> .
 
 bulba:Hospitality_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1563,7 +1660,8 @@ bulba:Hospitality_%28Ability%29 a bulba:Ability,
     bulba:jpname "おもてなし" ;
     bulba:jptrans "Hospitality" ;
     bulba:jptranslit "Omotenashi" ;
-    bulba:name "Hospitality" .
+    bulba:name "Hospitality" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Hospitality_%28Ability%29> .
 
 bulba:Huge_Power_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1581,7 +1679,8 @@ bulba:Huge_Power_%28Ability%29 a bulba:Ability,
         "Macroforza"@it,
         "ちからもち"@ja,
         "천하장사"@ko,
-        "大力士"@zh .
+        "大力士"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Huge_Power_%28Ability%29> .
 
 bulba:Hunger_Switch_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1598,7 +1697,8 @@ bulba:Hunger_Switch_%28Ability%29 a bulba:Ability,
         "Pancialterna"@it,
         "はらぺこスイッチ"@ja,
         "꼬르륵스위치"@ko,
-        "飽了又餓"@zh .
+        "飽了又餓"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Hunger_Switch_%28Ability%29> .
 
 bulba:Hustle_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1616,7 +1716,8 @@ bulba:Hustle_%28Ability%29 a bulba:Ability,
         "Tuttafretta"@it,
         "はりきり"@ja,
         "의욕"@ko,
-        "活力"@zh .
+        "活力"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Hustle_%28Ability%29> .
 
 bulba:Hydration_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1633,7 +1734,8 @@ bulba:Hydration_%28Ability%29 a bulba:Ability,
         "Idratazione"@it,
         "うるおいボディ"@ja,
         "촉촉바디"@ko,
-        "濕潤之軀"@zh .
+        "濕潤之軀"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Hydration_%28Ability%29> .
 
 bulba:Hyper_Cutter_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1651,7 +1753,8 @@ bulba:Hyper_Cutter_%28Ability%29 a bulba:Ability,
         "Ipertaglio"@it,
         "かいりきバサミ"@ja,
         "괴력집게"@ko,
-        "怪力鉗"@zh .
+        "怪力鉗"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Hyper_Cutter_%28Ability%29> .
 
 bulba:Ice_Body_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1668,7 +1771,8 @@ bulba:Ice_Body_%28Ability%29 a bulba:Ability,
         "Corpogelo"@it,
         "アイスボディ"@ja,
         "아이스바디"@ko,
-        "冰凍之軀"@zh .
+        "冰凍之軀"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Ice_Body_%28Ability%29> .
 
 bulba:Ice_Face_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1685,7 +1789,8 @@ bulba:Ice_Face_%28Ability%29 a bulba:Ability,
         "Gelofaccia"@it,
         "アイスフェイス"@ja,
         "아이스페이스"@ko,
-        "結凍頭"@zh .
+        "結凍頭"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Ice_Face_%28Ability%29> .
 
 bulba:Ice_Scales_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1702,7 +1807,8 @@ bulba:Ice_Scales_%28Ability%29 a bulba:Ability,
         "Geloscaglie"@it,
         "こおりのりんぷん"@ja,
         "얼음인분"@ko,
-        "冰鱗粉"@zh .
+        "冰鱗粉"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Ice_Scales_%28Ability%29> .
 
 bulba:Illuminate_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1720,7 +1826,8 @@ bulba:Illuminate_%28Ability%29 a bulba:Ability,
         "Risplendi"@it,
         "はっこう"@ja,
         "발광"@ko,
-        "發光"@zh .
+        "發光"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Illuminate_%28Ability%29> .
 
 bulba:Illusion_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1737,7 +1844,8 @@ bulba:Illusion_%28Ability%29 a bulba:Ability,
         "Illusione"@it,
         "イリュージョン"@ja,
         "일루전"@ko,
-        "幻覺"@zh .
+        "幻覺"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Illusion_%28Ability%29> .
 
 bulba:Immunity_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1755,7 +1863,8 @@ bulba:Immunity_%28Ability%29 a bulba:Ability,
         "Immunità"@it,
         "めんえき"@ja,
         "면역"@ko,
-        "免疫"@zh .
+        "免疫"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Immunity_%28Ability%29> .
 
 bulba:Imposter_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1772,7 +1881,8 @@ bulba:Imposter_%28Ability%29 a bulba:Ability,
         "Sosia"@it,
         "かわりもの"@ja,
         "괴짜"@ko,
-        "變身者"@zh .
+        "變身者"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Imposter_%28Ability%29> .
 
 bulba:Infiltrator_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1789,7 +1899,8 @@ bulba:Infiltrator_%28Ability%29 a bulba:Ability,
         "Intrapasso"@it,
         "すりぬけ"@ja,
         "틈새포착"@ko,
-        "穿透"@zh .
+        "穿透"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Infiltrator_%28Ability%29> .
 
 bulba:Innards_Out_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1806,7 +1917,8 @@ bulba:Innards_Out_%28Ability%29 a bulba:Ability,
         "Espellinterno"@it,
         "とびだすなかみ"@ja,
         "내용물분출"@ko,
-        "飛出的內在物"@zh .
+        "飛出的內在物"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Innards_Out_%28Ability%29> .
 
 bulba:Inner_Focus_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1824,7 +1936,8 @@ bulba:Inner_Focus_%28Ability%29 a bulba:Ability,
         "Forza Interiore"@it,
         "せいしんりょく"@ja,
         "정신력"@ko,
-        "精神力"@zh .
+        "精神力"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Inner_Focus_%28Ability%29> .
 
 bulba:Insomnia_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1842,7 +1955,8 @@ bulba:Insomnia_%28Ability%29 a bulba:Ability,
         "Insonnia"@it,
         "ふみん"@ja,
         "불면"@ko,
-        "不眠"@zh .
+        "不眠"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Insomnia_%28Ability%29> .
 
 bulba:Intimidate_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1860,7 +1974,8 @@ bulba:Intimidate_%28Ability%29 a bulba:Ability,
         "Prepotenza"@it,
         "いかく"@ja,
         "위협"@ko,
-        "威嚇"@zh .
+        "威嚇"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Intimidate_%28Ability%29> .
 
 bulba:Intrepid_Sword_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1877,7 +1992,8 @@ bulba:Intrepid_Sword_%28Ability%29 a bulba:Ability,
         "Spada Indomita"@it,
         "ふとうのけん"@ja,
         "불요의검"@ko,
-        "不撓之劍"@zh .
+        "不撓之劍"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Intrepid_Sword_%28Ability%29> .
 
 bulba:Iron_Barbs_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1894,7 +2010,8 @@ bulba:Iron_Barbs_%28Ability%29 a bulba:Ability,
         "Spineferrate"@it,
         "てつのトゲ"@ja,
         "철가시"@ko,
-        "鐵刺"@zh .
+        "鐵刺"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Iron_Barbs_%28Ability%29> .
 
 bulba:Iron_Fist_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1911,7 +2028,8 @@ bulba:Iron_Fist_%28Ability%29 a bulba:Ability,
         "Ferropugno"@it,
         "てつのこぶし"@ja,
         "철주먹"@ko,
-        "鐵拳"@zh .
+        "鐵拳"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Iron_Fist_%28Ability%29> .
 
 bulba:Justified_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1928,7 +2046,8 @@ bulba:Justified_%28Ability%29 a bulba:Ability,
         "Giustizia"@it,
         "せいぎのこころ"@ja,
         "정의의마음"@ko,
-        "正義之心"@zh .
+        "正義之心"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Justified_%28Ability%29> .
 
 bulba:Keen_Eye_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1946,7 +2065,8 @@ bulba:Keen_Eye_%28Ability%29 a bulba:Ability,
         "Sguardofermo"@it,
         "するどいめ"@ja,
         "날카로운눈"@ko,
-        "銳利目光"@zh .
+        "銳利目光"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Keen_Eye_%28Ability%29> .
 
 bulba:Klutz_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1963,7 +2083,8 @@ bulba:Klutz_%28Ability%29 a bulba:Ability,
         "Impaccio"@it,
         "ぶきよう"@ja,
         "서투름"@ko,
-        "笨拙"@zh .
+        "笨拙"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Klutz_%28Ability%29> .
 
 bulba:Leaf_Guard_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1980,7 +2101,8 @@ bulba:Leaf_Guard_%28Ability%29 a bulba:Ability,
         "Fogliamanto"@it,
         "リーフガード"@ja,
         "리프가드"@ko,
-        "葉子防守"@zh .
+        "葉子防守"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Leaf_Guard_%28Ability%29> .
 
 bulba:Levitate_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -1998,7 +2120,8 @@ bulba:Levitate_%28Ability%29 a bulba:Ability,
         "Levitazione"@it,
         "ふゆう"@ja,
         "부유"@ko,
-        "飄浮"@zh .
+        "飄浮"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Levitate_%28Ability%29> .
 
 bulba:Libero_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2015,7 +2138,8 @@ bulba:Libero_%28Ability%29 a bulba:Ability,
         "Libero"@it,
         "リベロ"@ja,
         "리베로"@ko,
-        "自由者"@zh .
+        "自由者"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Libero_%28Ability%29> .
 
 bulba:Light_Metal_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2032,7 +2156,8 @@ bulba:Light_Metal_%28Ability%29 a bulba:Ability,
         "Metalleggero"@it,
         "ライトメタル"@ja,
         "라이트메탈"@ko,
-        "輕金屬"@zh .
+        "輕金屬"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Light_Metal_%28Ability%29> .
 
 bulba:Lightning_Rod_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2050,7 +2175,8 @@ bulba:Lightning_Rod_%28Ability%29 a bulba:Ability,
         "Parafulmine"@it,
         "ひらいしん"@ja,
         "피뢰침"@ko,
-        "避雷針"@zh .
+        "避雷針"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Lightning_Rod_%28Ability%29> .
 
 bulba:Limber_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2068,7 +2194,8 @@ bulba:Limber_%28Ability%29 a bulba:Ability,
         "Scioltezza"@it,
         "じゅうなん"@ja,
         "유연"@ko,
-        "柔軟"@zh .
+        "柔軟"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Limber_%28Ability%29> .
 
 bulba:Lingering_Aroma_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2077,7 +2204,8 @@ bulba:Lingering_Aroma_%28Ability%29 a bulba:Ability,
     bulba:jpname "とれないにおい" ;
     bulba:jptrans "Lingering Scent" ;
     bulba:jptranslit "Torenai Nioi" ;
-    bulba:name "Lingering Aroma" .
+    bulba:name "Lingering Aroma" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Lingering_Aroma_%28Ability%29> .
 
 bulba:Liquid_Ooze_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2095,7 +2223,8 @@ bulba:Liquid_Ooze_%28Ability%29 a bulba:Ability,
         "Melma"@it,
         "ヘドロえき"@ja,
         "해감액"@ko,
-        "污泥漿"@zh .
+        "污泥漿"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Liquid_Ooze_%28Ability%29> .
 
 bulba:Liquid_Voice_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2112,7 +2241,8 @@ bulba:Liquid_Voice_%28Ability%29 a bulba:Ability,
         "Idrovoce"@it,
         "うるおいボイス"@ja,
         "촉촉보이스"@ko,
-        "濕潤之聲"@zh .
+        "濕潤之聲"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Liquid_Voice_%28Ability%29> .
 
 bulba:Long_Reach_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2129,7 +2259,8 @@ bulba:Long_Reach_%28Ability%29 a bulba:Ability,
         "Distacco"@it,
         "えんかく"@ja,
         "원격"@ko,
-        "遠隔"@zh .
+        "遠隔"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Long_Reach_%28Ability%29> .
 
 bulba:Magic_Bounce_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2146,7 +2277,8 @@ bulba:Magic_Bounce_%28Ability%29 a bulba:Ability,
         "Magispecchio"@it,
         "マジックミラー"@ja,
         "매직미러"@ko,
-        "魔法鏡"@zh .
+        "魔法鏡"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Magic_Bounce_%28Ability%29> .
 
 bulba:Magic_Guard_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2163,7 +2295,8 @@ bulba:Magic_Guard_%28Ability%29 a bulba:Ability,
         "Magicscudo"@it,
         "マジックガード"@ja,
         "매직가드"@ko,
-        "魔法防守"@zh .
+        "魔法防守"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Magic_Guard_%28Ability%29> .
 
 bulba:Magician_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2180,7 +2313,8 @@ bulba:Magician_%28Ability%29 a bulba:Ability,
         "Prestigiatore"@it,
         "マジシャン"@ja,
         "매지션"@ko,
-        "魔術師"@zh .
+        "魔術師"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Magician_%28Ability%29> .
 
 bulba:Magma_Armor_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2198,7 +2332,8 @@ bulba:Magma_Armor_%28Ability%29 a bulba:Ability,
         "Magmascudo"@it,
         "マグマのよろい"@ja,
         "마그마의무장"@ko,
-        "熔岩鎧甲"@zh .
+        "熔岩鎧甲"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Magma_Armor_%28Ability%29> .
 
 bulba:Magnet_Pull_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2216,7 +2351,8 @@ bulba:Magnet_Pull_%28Ability%29 a bulba:Ability,
         "Magnetismo"@it,
         "じりょく"@ja,
         "자력"@ko,
-        "磁力"@zh .
+        "磁力"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Magnet_Pull_%28Ability%29> .
 
 bulba:Marvel_Scale_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2234,7 +2370,8 @@ bulba:Marvel_Scale_%28Ability%29 a bulba:Ability,
         "Pelledura"@it,
         "ふしぎなうろこ"@ja,
         "이상한비늘"@ko,
-        "神奇鱗片"@zh .
+        "神奇鱗片"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Marvel_Scale_%28Ability%29> .
 
 bulba:Mega_Launcher_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2251,7 +2388,8 @@ bulba:Mega_Launcher_%28Ability%29 a bulba:Ability,
         "Megalancio"@it,
         "メガランチャー"@ja,
         "메가런처"@ko,
-        "超級發射器"@zh .
+        "超級發射器"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Mega_Launcher_%28Ability%29> .
 
 bulba:Merciless_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2268,7 +2406,8 @@ bulba:Merciless_%28Ability%29 a bulba:Ability,
         "Spietatezza"@it,
         "ひとでなし"@ja,
         "무도한행동"@ko,
-        "不仁不義"@zh .
+        "不仁不義"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Merciless_%28Ability%29> .
 
 bulba:Mimicry_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2285,7 +2424,8 @@ bulba:Mimicry_%28Ability%29 a bulba:Ability,
         "Mimetismo"@it,
         "ぎたい"@ja,
         "의태"@ko,
-        "擬態"@zh .
+        "擬態"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Mimicry_%28Ability%29> .
 
 bulba:Mind%27s_Eye_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2294,7 +2434,8 @@ bulba:Mind%27s_Eye_%28Ability%29 a bulba:Ability,
     bulba:jpname "しんがん" ;
     bulba:jptrans "Mind's Eye" ;
     bulba:jptranslit "Shingan" ;
-    bulba:name "Mind's Eye" .
+    bulba:name "Mind's Eye" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Mind%27s_Eye_%28Ability%29> .
 
 bulba:Minus_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2312,7 +2453,8 @@ bulba:Minus_%28Ability%29 a bulba:Ability,
         "Meno"@it,
         "マイナス"@ja,
         "마이너스"@ko,
-        "負電"@zh .
+        "負電"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Minus_%28Ability%29> .
 
 bulba:Mirror_Armor_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2329,7 +2471,8 @@ bulba:Mirror_Armor_%28Ability%29 a bulba:Ability,
         "Blindospecchio"@it,
         "ミラーアーマー"@ja,
         "미러아머"@ko,
-        "鏡甲"@zh .
+        "鏡甲"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Mirror_Armor_%28Ability%29> .
 
 bulba:Misty_Surge_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2346,7 +2489,8 @@ bulba:Misty_Surge_%28Ability%29 a bulba:Ability,
         "Nebbiogenesi"@it,
         "ミストメイカー"@ja,
         "미스트메이커"@ko,
-        "薄霧製造者"@zh .
+        "薄霧製造者"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Misty_Surge_%28Ability%29> .
 
 bulba:Mold_Breaker_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2363,7 +2507,8 @@ bulba:Mold_Breaker_%28Ability%29 a bulba:Ability,
         "Rompiforma"@it,
         "かたやぶり"@ja,
         "틀깨기"@ko,
-        "破格"@zh .
+        "破格"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Mold_Breaker_%28Ability%29> .
 
 bulba:Moody_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2380,7 +2525,8 @@ bulba:Moody_%28Ability%29 a bulba:Ability,
         "Altalena"@it,
         "ムラっけ"@ja,
         "변덕쟁이"@ko,
-        "心情不定"@zh .
+        "心情不定"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Moody_%28Ability%29> .
 
 bulba:Motor_Drive_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2397,7 +2543,8 @@ bulba:Motor_Drive_%28Ability%29 a bulba:Ability,
         "Elettrorapid"@it,
         "でんきエンジン"@ja,
         "전기엔진"@ko,
-        "電氣引擎"@zh .
+        "電氣引擎"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Motor_Drive_%28Ability%29> .
 
 bulba:Moxie_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2414,7 +2561,8 @@ bulba:Moxie_%28Ability%29 a bulba:Ability,
         "Arroganza"@it,
         "じしんかじょう"@ja,
         "자기과신"@ko,
-        "自信過度"@zh .
+        "自信過度"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Moxie_%28Ability%29> .
 
 bulba:Multiscale_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2431,7 +2579,8 @@ bulba:Multiscale_%28Ability%29 a bulba:Ability,
         "Multisquame"@it,
         "マルチスケイル"@ja,
         "멀티스케일"@ko,
-        "多重鱗片"@zh .
+        "多重鱗片"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Multiscale_%28Ability%29> .
 
 bulba:Multitype_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2440,7 +2589,8 @@ bulba:Multitype_%28Ability%29 a bulba:Ability,
     bulba:jpname "マルチタイプ" ;
     bulba:jptrans "Multitype" ;
     bulba:jptranslit "Maruchitaipu" ;
-    bulba:name "Multitype" .
+    bulba:name "Multitype" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Multitype_%28Ability%29> .
 
 bulba:Mummy_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2457,7 +2607,8 @@ bulba:Mummy_%28Ability%29 a bulba:Ability,
         "Mummia"@it,
         "ミイラ"@ja,
         "미라"@ko,
-        "木乃伊"@zh .
+        "木乃伊"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Mummy_%28Ability%29> .
 
 bulba:Mycelium_Might_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2466,7 +2617,8 @@ bulba:Mycelium_Might_%28Ability%29 a bulba:Ability,
     bulba:jpname "きんしのちから" ;
     bulba:jptrans "Hyphal Power" ;
     bulba:jptranslit "Kinshi no Chikara" ;
-    bulba:name "Mycelium Might" .
+    bulba:name "Mycelium Might" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Mycelium_Might_%28Ability%29> .
 
 bulba:Natural_Cure_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2484,7 +2636,8 @@ bulba:Natural_Cure_%28Ability%29 a bulba:Ability,
         "Alternacura"@it,
         "しぜんかいふく"@ja,
         "자연회복"@ko,
-        "自然回復"@zh .
+        "自然回復"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Natural_Cure_%28Ability%29> .
 
 bulba:Neuroforce_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2501,7 +2654,8 @@ bulba:Neuroforce_%28Ability%29 a bulba:Ability,
         "Cerebroforza"@it,
         "ブレインフォース"@ja,
         "브레인포스"@ko,
-        "腦核之力"@zh .
+        "腦核之力"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Neuroforce_%28Ability%29> .
 
 bulba:Neutralizing_Gas_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2518,7 +2672,8 @@ bulba:Neutralizing_Gas_%28Ability%29 a bulba:Ability,
         "Gas Reagente"@it,
         "かがくへんかガス"@ja,
         "화학변화가스"@ko,
-        "化學變化氣體"@zh .
+        "化學變化氣體"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Neutralizing_Gas_%28Ability%29> .
 
 bulba:No_Guard_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2535,7 +2690,8 @@ bulba:No_Guard_%28Ability%29 a bulba:Ability,
         "Nullodifesa"@it,
         "ノーガード"@ja,
         "노가드"@ko,
-        "無防守"@zh .
+        "無防守"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/No_Guard_%28Ability%29> .
 
 bulba:Normalize_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2552,7 +2708,8 @@ bulba:Normalize_%28Ability%29 a bulba:Ability,
         "Normalità"@it,
         "ノーマルスキン"@ja,
         "노말스킨"@ko,
-        "一般皮膚"@zh .
+        "一般皮膚"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Normalize_%28Ability%29> .
 
 bulba:Oblivious_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2570,7 +2727,8 @@ bulba:Oblivious_%28Ability%29 a bulba:Ability,
         "Indifferenza"@it,
         "どんかん"@ja,
         "둔감"@ko,
-        "遲鈍"@zh .
+        "遲鈍"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Oblivious_%28Ability%29> .
 
 bulba:Opportunist_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2579,7 +2737,8 @@ bulba:Opportunist_%28Ability%29 a bulba:Ability,
     bulba:jpname "びんじょう" ;
     bulba:jptrans "Opportunist" ;
     bulba:jptranslit "Binjō" ;
-    bulba:name "Opportunist" .
+    bulba:name "Opportunist" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Opportunist_%28Ability%29> .
 
 bulba:Orichalcum_Pulse_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2588,7 +2747,8 @@ bulba:Orichalcum_Pulse_%28Ability%29 a bulba:Ability,
     bulba:jpname "ひひいろのこどう" ;
     bulba:jptrans "Scarlet Pulse" ;
     bulba:jptranslit "Hihi'iro no Kodō" ;
-    bulba:name "Orichalcum Pulse" .
+    bulba:name "Orichalcum Pulse" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Orichalcum_Pulse_%28Ability%29> .
 
 bulba:Overcoat_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2605,7 +2765,8 @@ bulba:Overcoat_%28Ability%29 a bulba:Ability,
         "Copricapo"@it,
         "ぼうじん"@ja,
         "방진"@ko,
-        "防塵"@zh .
+        "防塵"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Overcoat_%28Ability%29> .
 
 bulba:Overgrow_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2623,7 +2784,8 @@ bulba:Overgrow_%28Ability%29 a bulba:Ability,
         "Erbaiuto"@it,
         "しんりょく"@ja,
         "심록"@ko,
-        "茂盛"@zh .
+        "茂盛"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Overgrow_%28Ability%29> .
 
 bulba:Own_Tempo_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2641,7 +2803,8 @@ bulba:Own_Tempo_%28Ability%29 a bulba:Ability,
         "Mente Locale"@it,
         "マイペース"@ja,
         "마이페이스"@ko,
-        "我行我素"@zh .
+        "我行我素"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Own_Tempo_%28Ability%29> .
 
 bulba:Parental_Bond_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2658,7 +2821,8 @@ bulba:Parental_Bond_%28Ability%29 a bulba:Ability,
         "Amorefiliale"@it,
         "おやこあい"@ja,
         "부자유친"@ko,
-        "親子愛"@zh .
+        "親子愛"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Parental_Bond_%28Ability%29> .
 
 bulba:Pastel_Veil_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2675,7 +2839,8 @@ bulba:Pastel_Veil_%28Ability%29 a bulba:Ability,
         "Pastelvelo"@it,
         "パステルベール"@ja,
         "파스텔베일"@ko,
-        "粉彩護幕"@zh .
+        "粉彩護幕"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Pastel_Veil_%28Ability%29> .
 
 bulba:Perish_Body_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2692,7 +2857,8 @@ bulba:Perish_Body_%28Ability%29 a bulba:Ability,
         "Ultimotocco"@it,
         "ほろびのボディ"@ja,
         "멸망의바디"@ko,
-        "滅亡之軀"@zh .
+        "滅亡之軀"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Perish_Body_%28Ability%29> .
 
 bulba:Pickpocket_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2709,7 +2875,8 @@ bulba:Pickpocket_%28Ability%29 a bulba:Ability,
         "Arraffalesto"@it,
         "わるいてぐせ"@ja,
         "나쁜손버릇"@ko,
-        "順手牽羊"@zh .
+        "順手牽羊"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Pickpocket_%28Ability%29> .
 
 bulba:Pickup_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2727,7 +2894,8 @@ bulba:Pickup_%28Ability%29 a bulba:Ability,
         "Raccolta"@it,
         "ものひろい"@ja,
         "픽업"@ko,
-        "撿拾"@zh .
+        "撿拾"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Pickup_%28Ability%29> .
 
 bulba:Pixilate_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2744,7 +2912,8 @@ bulba:Pixilate_%28Ability%29 a bulba:Ability,
         "Pellefolletto"@it,
         "フェアリースキン"@ja,
         "페어리스킨"@ko,
-        "妖精皮膚"@zh .
+        "妖精皮膚"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Pixilate_%28Ability%29> .
 
 bulba:Plus_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2762,7 +2931,8 @@ bulba:Plus_%28Ability%29 a bulba:Ability,
         "Più"@it,
         "プラス"@ja,
         "플러스"@ko,
-        "正電"@zh .
+        "正電"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Plus_%28Ability%29> .
 
 bulba:Poison_Heal_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2779,7 +2949,8 @@ bulba:Poison_Heal_%28Ability%29 a bulba:Ability,
         "Velencura"@it,
         "ポイズンヒール"@ja,
         "포이즌힐"@ko,
-        "毒療"@zh .
+        "毒療"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Poison_Heal_%28Ability%29> .
 
 bulba:Poison_Point_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2797,7 +2968,8 @@ bulba:Poison_Point_%28Ability%29 a bulba:Ability,
         "Velenopunto"@it,
         "どくのトゲ"@ja,
         "독가시"@ko,
-        "毒刺"@zh .
+        "毒刺"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Poison_Point_%28Ability%29> .
 
 bulba:Poison_Puppeteer_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2806,7 +2978,8 @@ bulba:Poison_Puppeteer_%28Ability%29 a bulba:Ability,
     bulba:jpname "どくくぐつ" ;
     bulba:jptrans "Poison Puppeteer" ;
     bulba:jptranslit "Doku Kugutsu" ;
-    bulba:name "Poison Puppeteer" .
+    bulba:name "Poison Puppeteer" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Poison_Puppeteer_%28Ability%29> .
 
 bulba:Poison_Touch_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2823,7 +2996,8 @@ bulba:Poison_Touch_%28Ability%29 a bulba:Ability,
         "Velentocco"@it,
         "どくしゅ"@ja,
         "독수"@ko,
-        "毒手"@zh .
+        "毒手"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Poison_Touch_%28Ability%29> .
 
 bulba:Power_Construct_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2840,7 +3014,8 @@ bulba:Power_Construct_%28Ability%29 a bulba:Ability,
         "Sciamefusione"@it,
         "スワームチェンジ"@ja,
         "스웜체인지"@ko,
-        "群聚變形"@zh .
+        "群聚變形"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Power_Construct_%28Ability%29> .
 
 bulba:Power_Spot_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2857,7 +3032,8 @@ bulba:Power_Spot_%28Ability%29 a bulba:Ability,
         "Fonte Energetica"@it,
         "パワースポット"@ja,
         "파워스폿"@ko,
-        "能量點"@zh .
+        "能量點"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Power_Spot_%28Ability%29> .
 
 bulba:Power_of_Alchemy_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2874,7 +3050,8 @@ bulba:Power_of_Alchemy_%28Ability%29 a bulba:Ability,
         "Forza Chimica"@it,
         "かがくのちから"@ja,
         "과학의힘"@ko,
-        "化學之力"@zh .
+        "化學之力"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Power_of_Alchemy_%28Ability%29> .
 
 bulba:Prankster_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2891,7 +3068,8 @@ bulba:Prankster_%28Ability%29 a bulba:Ability,
         "Burla"@it,
         "いたずらごころ"@ja,
         "짓궂은마음"@ko,
-        "惡作劇之心"@zh .
+        "惡作劇之心"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Prankster_%28Ability%29> .
 
 bulba:Pressure_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2909,7 +3087,8 @@ bulba:Pressure_%28Ability%29 a bulba:Ability,
         "Pressione"@it,
         "プレッシャー"@ja,
         "프레셔"@ko,
-        "壓迫感"@zh .
+        "壓迫感"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Pressure_%28Ability%29> .
 
 bulba:Primordial_Sea_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2926,7 +3105,8 @@ bulba:Primordial_Sea_%28Ability%29 a bulba:Ability,
         "Mare Primordiale"@it,
         "はじまりのうみ"@ja,
         "시작의바다"@ko,
-        "始源之海"@zh .
+        "始源之海"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Primordial_Sea_%28Ability%29> .
 
 bulba:Prism_Armor_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2943,7 +3123,8 @@ bulba:Prism_Armor_%28Ability%29 a bulba:Ability,
         "Scudoprisma"@it,
         "プリズムアーマー"@ja,
         "프리즘아머"@ko,
-        "稜鏡裝甲"@zh .
+        "稜鏡裝甲"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Prism_Armor_%28Ability%29> .
 
 bulba:Propeller_Tail_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2960,7 +3141,8 @@ bulba:Propeller_Tail_%28Ability%29 a bulba:Ability,
         "Elicopinna"@it,
         "スクリューおびれ"@ja,
         "스크루지느러미"@ko,
-        "螺旋尾鰭"@zh .
+        "螺旋尾鰭"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Propeller_Tail_%28Ability%29> .
 
 bulba:Protean_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2977,7 +3159,8 @@ bulba:Protean_%28Ability%29 a bulba:Ability,
         "Mutatipo"@it,
         "へんげんじざい"@ja,
         "변환자재"@ko,
-        "變幻自如"@zh .
+        "變幻自如"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Protean_%28Ability%29> .
 
 bulba:Protosynthesis_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -2986,7 +3169,8 @@ bulba:Protosynthesis_%28Ability%29 a bulba:Ability,
     bulba:jpname "こだいかっせい" ;
     bulba:jptrans "Ancient Activation" ;
     bulba:jptranslit "Kodaikassei" ;
-    bulba:name "Protosynthesis" .
+    bulba:name "Protosynthesis" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Protosynthesis_%28Ability%29> .
 
 bulba:Psychic_Surge_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3003,7 +3187,8 @@ bulba:Psychic_Surge_%28Ability%29 a bulba:Ability,
         "Psicogenesi"@it,
         "サイコメイカー"@ja,
         "사이코메이커"@ko,
-        "精神製造者"@zh .
+        "精神製造者"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Psychic_Surge_%28Ability%29> .
 
 bulba:Punk_Rock_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3020,7 +3205,8 @@ bulba:Punk_Rock_%28Ability%29 a bulba:Ability,
         "Punk Rock"@it,
         "パンクロック"@ja,
         "펑크록"@ko,
-        "龐克搖滾"@zh .
+        "龐克搖滾"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Punk_Rock_%28Ability%29> .
 
 bulba:Pure_Power_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3038,7 +3224,8 @@ bulba:Pure_Power_%28Ability%29 a bulba:Ability,
         "Forzapura"@it,
         "ヨガパワー"@ja,
         "순수한힘"@ko,
-        "瑜伽之力"@zh .
+        "瑜伽之力"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Pure_Power_%28Ability%29> .
 
 bulba:Purifying_Salt_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3047,7 +3234,8 @@ bulba:Purifying_Salt_%28Ability%29 a bulba:Ability,
     bulba:jpname "きよめのしお" ;
     bulba:jptrans "Purifying Salt" ;
     bulba:jptranslit "Kiyome no Shio" ;
-    bulba:name "Purifying Salt" .
+    bulba:name "Purifying Salt" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Purifying_Salt_%28Ability%29> .
 
 bulba:Quark_Drive_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3056,7 +3244,8 @@ bulba:Quark_Drive_%28Ability%29 a bulba:Ability,
     bulba:jpname "クォークチャージ" ;
     bulba:jptrans "Quark Charge" ;
     bulba:jptranslit "Kwōku Chāji" ;
-    bulba:name "Quark Drive" .
+    bulba:name "Quark Drive" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Quark_Drive_%28Ability%29> .
 
 bulba:Queenly_Majesty_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3073,7 +3262,8 @@ bulba:Queenly_Majesty_%28Ability%29 a bulba:Ability,
         "Regalità"@it,
         "じょおうのいげん"@ja,
         "여왕의위엄"@ko,
-        "女王的威嚴"@zh .
+        "女王的威嚴"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Queenly_Majesty_%28Ability%29> .
 
 bulba:Quick_Draw_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3090,7 +3280,8 @@ bulba:Quick_Draw_%28Ability%29 a bulba:Ability,
         "Colpolesto"@it,
         "クイックドロウ"@ja,
         "퀵드로"@ko,
-        "速擊"@zh .
+        "速擊"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Quick_Draw_%28Ability%29> .
 
 bulba:Quick_Feet_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3107,7 +3298,8 @@ bulba:Quick_Feet_%28Ability%29 a bulba:Ability,
         "Piedisvelti"@it,
         "はやあし"@ja,
         "속보"@ko,
-        "飛毛腿"@zh .
+        "飛毛腿"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Quick_Feet_%28Ability%29> .
 
 bulba:RKS_System_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3124,7 +3316,8 @@ bulba:RKS_System_%28Ability%29 a bulba:Ability,
         "Sistema Primevo"@it,
         "ＡＲシステム"@ja,
         "AR시스템"@ko,
-        "ＡＲ系統"@zh .
+        "ＡＲ系統"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/RKS_System_%28Ability%29> .
 
 bulba:Rain_Dish_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3142,7 +3335,8 @@ bulba:Rain_Dish_%28Ability%29 a bulba:Ability,
         "Copripioggia"@it,
         "あめうけざら"@ja,
         "젖은접시"@ko,
-        "雨盤"@zh .
+        "雨盤"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Rain_Dish_%28Ability%29> .
 
 bulba:Rattled_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3159,7 +3353,8 @@ bulba:Rattled_%28Ability%29 a bulba:Ability,
         "Paura"@it,
         "びびり"@ja,
         "주눅"@ko,
-        "膽怯"@zh .
+        "膽怯"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Rattled_%28Ability%29> .
 
 bulba:Receiver_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3176,7 +3371,8 @@ bulba:Receiver_%28Ability%29 a bulba:Ability,
         "Ricezione"@it,
         "レシーバー"@ja,
         "리시버"@ko,
-        "接球手"@zh .
+        "接球手"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Receiver_%28Ability%29> .
 
 bulba:Reckless_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3193,7 +3389,8 @@ bulba:Reckless_%28Ability%29 a bulba:Ability,
         "Temerarietà"@it,
         "すてみ"@ja,
         "이판사판"@ko,
-        "捨身"@zh .
+        "捨身"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Reckless_%28Ability%29> .
 
 bulba:Refrigerate_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3210,7 +3407,8 @@ bulba:Refrigerate_%28Ability%29 a bulba:Ability,
         "Pellegelo"@it,
         "フリーズスキン"@ja,
         "프리즈스킨"@ko,
-        "冰凍皮膚"@zh .
+        "冰凍皮膚"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Refrigerate_%28Ability%29> .
 
 bulba:Regenerator_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3227,7 +3425,8 @@ bulba:Regenerator_%28Ability%29 a bulba:Ability,
         "Rigenergia"@it,
         "さいせいりょく"@ja,
         "재생력"@ko,
-        "再生力"@zh .
+        "再生力"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Regenerator_%28Ability%29> .
 
 bulba:Ripen_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3244,7 +3443,8 @@ bulba:Ripen_%28Ability%29 a bulba:Ability,
         "Maturazione"@it,
         "じゅくせい"@ja,
         "숙성"@ko,
-        "熟成"@zh .
+        "熟成"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Ripen_%28Ability%29> .
 
 bulba:Rivalry_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3261,7 +3461,8 @@ bulba:Rivalry_%28Ability%29 a bulba:Ability,
         "Antagonismo"@it,
         "とうそうしん"@ja,
         "투쟁심"@ko,
-        "鬥爭心"@zh .
+        "鬥爭心"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Rivalry_%28Ability%29> .
 
 bulba:Rock_Head_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3279,7 +3480,8 @@ bulba:Rock_Head_%28Ability%29 a bulba:Ability,
         "Testadura"@it,
         "いしあたま"@ja,
         "돌머리"@ko,
-        "堅硬腦袋"@zh .
+        "堅硬腦袋"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Rock_Head_%28Ability%29> .
 
 bulba:Rocky_Payload_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3288,7 +3490,8 @@ bulba:Rocky_Payload_%28Ability%29 a bulba:Ability,
     bulba:jpname "いわはこび" ;
     bulba:jptrans "Rock Transport" ;
     bulba:jptranslit "Iwahakobi" ;
-    bulba:name "Rocky Payload" .
+    bulba:name "Rocky Payload" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Rocky_Payload_%28Ability%29> .
 
 bulba:Rough_Skin_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3306,7 +3509,8 @@ bulba:Rough_Skin_%28Ability%29 a bulba:Ability,
         "Cartavetro"@it,
         "さめはだ"@ja,
         "까칠한피부"@ko,
-        "粗糙皮膚"@zh .
+        "粗糙皮膚"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Rough_Skin_%28Ability%29> .
 
 bulba:Run_Away_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3324,7 +3528,8 @@ bulba:Run_Away_%28Ability%29 a bulba:Ability,
         "Fugafacile"@it,
         "にげあし"@ja,
         "도주"@ko,
-        "逃跑"@zh .
+        "逃跑"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Run_Away_%28Ability%29> .
 
 bulba:Sand_Force_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3341,7 +3546,8 @@ bulba:Sand_Force_%28Ability%29 a bulba:Ability,
         "Silicoforza"@it,
         "すなのちから"@ja,
         "모래의힘"@ko,
-        "沙之力"@zh .
+        "沙之力"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Sand_Force_%28Ability%29> .
 
 bulba:Sand_Rush_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3358,7 +3564,8 @@ bulba:Sand_Rush_%28Ability%29 a bulba:Ability,
         "Remasabbia"@it,
         "すなかき"@ja,
         "모래헤치기"@ko,
-        "撥沙"@zh .
+        "撥沙"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Sand_Rush_%28Ability%29> .
 
 bulba:Sand_Spit_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3375,7 +3582,8 @@ bulba:Sand_Spit_%28Ability%29 a bulba:Ability,
         "Sputasabbia"@it,
         "すなはき"@ja,
         "모래뿜기"@ko,
-        "吐沙"@zh .
+        "吐沙"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Sand_Spit_%28Ability%29> .
 
 bulba:Sand_Stream_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3393,7 +3601,8 @@ bulba:Sand_Stream_%28Ability%29 a bulba:Ability,
         "Sabbiafiume"@it,
         "すなおこし"@ja,
         "모래날림"@ko,
-        "揚沙"@zh .
+        "揚沙"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Sand_Stream_%28Ability%29> .
 
 bulba:Sand_Veil_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3411,7 +3620,8 @@ bulba:Sand_Veil_%28Ability%29 a bulba:Ability,
         "Sabbiavelo"@it,
         "すながくれ"@ja,
         "모래숨기"@ko,
-        "沙隱"@zh .
+        "沙隱"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Sand_Veil_%28Ability%29> .
 
 bulba:Sap_Sipper_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3428,7 +3638,8 @@ bulba:Sap_Sipper_%28Ability%29 a bulba:Ability,
         "Mangiaerba"@it,
         "そうしょく"@ja,
         "초식"@ko,
-        "食草"@zh .
+        "食草"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Sap_Sipper_%28Ability%29> .
 
 bulba:Schooling_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3445,7 +3656,8 @@ bulba:Schooling_%28Ability%29 a bulba:Ability,
         "Banco"@it,
         "ぎょぐん"@ja,
         "어군"@ko,
-        "魚群"@zh .
+        "魚群"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Schooling_%28Ability%29> .
 
 bulba:Scrappy_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3462,7 +3674,8 @@ bulba:Scrappy_%28Ability%29 a bulba:Ability,
         "Nervisaldi"@it,
         "きもったま"@ja,
         "배짱"@ko,
-        "膽量"@zh .
+        "膽量"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Scrappy_%28Ability%29> .
 
 bulba:Screen_Cleaner_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3479,7 +3692,8 @@ bulba:Screen_Cleaner_%28Ability%29 a bulba:Ability,
         "Annullabarriere"@it,
         "バリアフリー"@ja,
         "배리어프리"@ko,
-        "除障"@zh .
+        "除障"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Screen_Cleaner_%28Ability%29> .
 
 bulba:Seed_Sower_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3488,7 +3702,8 @@ bulba:Seed_Sower_%28Ability%29 a bulba:Ability,
     bulba:jpname "こぼれダネ" ;
     bulba:jptrans "Self-Sowing Seeds" ;
     bulba:jptranslit "Koboredane" ;
-    bulba:name "Seed Sower" .
+    bulba:name "Seed Sower" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Seed_Sower_%28Ability%29> .
 
 bulba:Serene_Grace_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3506,7 +3721,8 @@ bulba:Serene_Grace_%28Ability%29 a bulba:Ability,
         "Leggiadro"@it,
         "てんのめぐみ"@ja,
         "하늘의은총"@ko,
-        "天恩"@zh .
+        "天恩"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Serene_Grace_%28Ability%29> .
 
 bulba:Shadow_Shield_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3523,7 +3739,8 @@ bulba:Shadow_Shield_%28Ability%29 a bulba:Ability,
         "Spettroguardia"@it,
         "ファントムガード"@ja,
         "스펙터가드"@ko,
-        "幻影防守"@zh .
+        "幻影防守"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Shadow_Shield_%28Ability%29> .
 
 bulba:Shadow_Tag_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3541,7 +3758,8 @@ bulba:Shadow_Tag_%28Ability%29 a bulba:Ability,
         "Pedinombra"@it,
         "かげふみ"@ja,
         "그림자밟기"@ko,
-        "踩影"@zh .
+        "踩影"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Shadow_Tag_%28Ability%29> .
 
 bulba:Sharpness_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3550,7 +3768,8 @@ bulba:Sharpness_%28Ability%29 a bulba:Ability,
     bulba:jpname "きれあじ" ;
     bulba:jptrans "Sharpness" ;
     bulba:jptranslit "Kireaji" ;
-    bulba:name "Sharpness" .
+    bulba:name "Sharpness" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Sharpness_%28Ability%29> .
 
 bulba:Shed_Skin_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3568,7 +3787,8 @@ bulba:Shed_Skin_%28Ability%29 a bulba:Ability,
         "Muta"@it,
         "だっぴ"@ja,
         "탈피"@ko,
-        "蛻皮"@zh .
+        "蛻皮"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Shed_Skin_%28Ability%29> .
 
 bulba:Sheer_Force_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3585,7 +3805,8 @@ bulba:Sheer_Force_%28Ability%29 a bulba:Ability,
         "Forzabruta"@it,
         "ちからずく"@ja,
         "우격다짐"@ko,
-        "強行"@zh .
+        "強行"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Sheer_Force_%28Ability%29> .
 
 bulba:Shell_Armor_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3603,7 +3824,8 @@ bulba:Shell_Armor_%28Ability%29 a bulba:Ability,
         "Guscioscudo"@it,
         "シェルアーマー"@ja,
         "조가비갑옷"@ko,
-        "硬殼盔甲"@zh .
+        "硬殼盔甲"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Shell_Armor_%28Ability%29> .
 
 bulba:Shield_Dust_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3621,7 +3843,8 @@ bulba:Shield_Dust_%28Ability%29 a bulba:Ability,
         "Polvoscudo"@it,
         "りんぷん"@ja,
         "인분"@ko,
-        "鱗粉"@zh .
+        "鱗粉"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Shield_Dust_%28Ability%29> .
 
 bulba:Shields_Down_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3638,7 +3861,8 @@ bulba:Shields_Down_%28Ability%29 a bulba:Ability,
         "Scudosoglia"@it,
         "リミットシールド"@ja,
         "리밋실드"@ko,
-        "界限盾殼"@zh .
+        "界限盾殼"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Shields_Down_%28Ability%29> .
 
 bulba:Simple_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3655,7 +3879,8 @@ bulba:Simple_%28Ability%29 a bulba:Ability,
         "Disinvoltura"@it,
         "たんじゅん"@ja,
         "단순"@ko,
-        "單純"@zh .
+        "單純"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Simple_%28Ability%29> .
 
 bulba:Skill_Link_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3672,7 +3897,8 @@ bulba:Skill_Link_%28Ability%29 a bulba:Ability,
         "Abillegame"@it,
         "スキルリンク"@ja,
         "스킬링크"@ko,
-        "連續攻擊"@zh .
+        "連續攻擊"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Skill_Link_%28Ability%29> .
 
 bulba:Slow_Start_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3689,7 +3915,8 @@ bulba:Slow_Start_%28Ability%29 a bulba:Ability,
         "Lentoinizio"@it,
         "スロースタート"@ja,
         "슬로스타트"@ko,
-        "慢啟動"@zh .
+        "慢啟動"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Slow_Start_%28Ability%29> .
 
 bulba:Slush_Rush_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3706,7 +3933,8 @@ bulba:Slush_Rush_%28Ability%29 a bulba:Ability,
         "Spalaneve"@it,
         "ゆきかき"@ja,
         "눈치우기"@ko,
-        "撥雪"@zh .
+        "撥雪"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Slush_Rush_%28Ability%29> .
 
 bulba:Sniper_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3723,7 +3951,8 @@ bulba:Sniper_%28Ability%29 a bulba:Ability,
         "Cecchino"@it,
         "スナイパー"@ja,
         "스나이퍼"@ko,
-        "狙擊手"@zh .
+        "狙擊手"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Sniper_%28Ability%29> .
 
 bulba:Snow_Cloak_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3740,7 +3969,8 @@ bulba:Snow_Cloak_%28Ability%29 a bulba:Ability,
         "Mantelneve"@it,
         "ゆきがくれ"@ja,
         "눈숨기"@ko,
-        "雪隱"@zh .
+        "雪隱"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Snow_Cloak_%28Ability%29> .
 
 bulba:Snow_Warning_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3757,7 +3987,8 @@ bulba:Snow_Warning_%28Ability%29 a bulba:Ability,
         "Scendineve"@it,
         "ゆきふらし"@ja,
         "눈퍼뜨리기"@ko,
-        "降雪"@zh .
+        "降雪"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Snow_Warning_%28Ability%29> .
 
 bulba:Solar_Power_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3774,7 +4005,8 @@ bulba:Solar_Power_%28Ability%29 a bulba:Ability,
         "Solarpotere"@it,
         "サンパワー"@ja,
         "선파워"@ko,
-        "太陽之力"@zh .
+        "太陽之力"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Solar_Power_%28Ability%29> .
 
 bulba:Solid_Rock_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3791,7 +4023,8 @@ bulba:Solid_Rock_%28Ability%29 a bulba:Ability,
         "Solidroccia"@it,
         "ハードロック"@ja,
         "하드록"@ko,
-        "堅硬岩石"@zh .
+        "堅硬岩石"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Solid_Rock_%28Ability%29> .
 
 bulba:Soul-Heart_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3808,7 +4041,8 @@ bulba:Soul-Heart_%28Ability%29 a bulba:Ability,
         "Cuoreanima"@it,
         "ソウルハート"@ja,
         "소울하트"@ko,
-        "魂心"@zh .
+        "魂心"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Soul-Heart_%28Ability%29> .
 
 bulba:Soundproof_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3826,7 +4060,8 @@ bulba:Soundproof_%28Ability%29 a bulba:Ability,
         "Antisuono"@it,
         "ぼうおん"@ja,
         "방음"@ko,
-        "隔音"@zh .
+        "隔音"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Soundproof_%28Ability%29> .
 
 bulba:Speed_Boost_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3844,7 +4079,8 @@ bulba:Speed_Boost_%28Ability%29 a bulba:Ability,
         "Acceleratore"@it,
         "かそく"@ja,
         "가속"@ko,
-        "加速"@zh .
+        "加速"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Speed_Boost_%28Ability%29> .
 
 bulba:Stakeout_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3861,7 +4097,8 @@ bulba:Stakeout_%28Ability%29 a bulba:Ability,
         "Sorveglianza"@it,
         "はりこみ"@ja,
         "잠복"@ko,
-        "監視"@zh .
+        "監視"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Stakeout_%28Ability%29> .
 
 bulba:Stall_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3878,7 +4115,8 @@ bulba:Stall_%28Ability%29 a bulba:Ability,
         "Rallentatore"@it,
         "あとだし"@ja,
         "시간벌기"@ko,
-        "慢出"@zh .
+        "慢出"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Stall_%28Ability%29> .
 
 bulba:Stalwart_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3895,7 +4133,8 @@ bulba:Stalwart_%28Ability%29 a bulba:Ability,
         "Volontà di Ferro"@it,
         "すじがねいり"@ja,
         "굳건한신념"@ko,
-        "堅毅"@zh .
+        "堅毅"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Stalwart_%28Ability%29> .
 
 bulba:Stamina_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3912,7 +4151,8 @@ bulba:Stamina_%28Ability%29 a bulba:Ability,
         "Sopportazione"@it,
         "じきゅうりょく"@ja,
         "지구력"@ko,
-        "持久力"@zh .
+        "持久力"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Stamina_%28Ability%29> .
 
 bulba:Stance_Change_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3929,7 +4169,8 @@ bulba:Stance_Change_%28Ability%29 a bulba:Ability,
         "Accendilotta"@it,
         "バトルスイッチ"@ja,
         "배틀스위치"@ko,
-        "戰鬥切換"@zh .
+        "戰鬥切換"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Stance_Change_%28Ability%29> .
 
 bulba:Static_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3947,7 +4188,8 @@ bulba:Static_%28Ability%29 a bulba:Ability,
         "Statico"@it,
         "せいでんき"@ja,
         "정전기"@ko,
-        "靜電"@zh .
+        "靜電"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Static_%28Ability%29> .
 
 bulba:Steadfast_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3964,7 +4206,8 @@ bulba:Steadfast_%28Ability%29 a bulba:Ability,
         "Cuordeciso"@it,
         "ふくつのこころ"@ja,
         "불굴의마음"@ko,
-        "不屈之心"@zh .
+        "不屈之心"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Steadfast_%28Ability%29> .
 
 bulba:Steam_Engine_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3981,7 +4224,8 @@ bulba:Steam_Engine_%28Ability%29 a bulba:Ability,
         "Vapormacchina"@it,
         "じょうききかん"@ja,
         "증기기관"@ko,
-        "蒸汽機"@zh .
+        "蒸汽機"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Steam_Engine_%28Ability%29> .
 
 bulba:Steelworker_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -3998,7 +4242,8 @@ bulba:Steelworker_%28Ability%29 a bulba:Ability,
         "Tempracciaio"@it,
         "はがねつかい"@ja,
         "강철술사"@ko,
-        "鋼能力者"@zh .
+        "鋼能力者"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Steelworker_%28Ability%29> .
 
 bulba:Steely_Spirit_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4015,7 +4260,8 @@ bulba:Steely_Spirit_%28Ability%29 a bulba:Ability,
         "Spiritoferreo"@it,
         "はがねのせいしん"@ja,
         "강철정신"@ko,
-        "鋼之意志"@zh .
+        "鋼之意志"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Steely_Spirit_%28Ability%29> .
 
 bulba:Stench_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4033,7 +4279,8 @@ bulba:Stench_%28Ability%29 a bulba:Ability,
         "Tanfo"@it,
         "あくしゅう"@ja,
         "악취"@ko,
-        "惡臭"@zh .
+        "惡臭"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Stench_%28Ability%29> .
 
 bulba:Sticky_Hold_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4051,7 +4298,8 @@ bulba:Sticky_Hold_%28Ability%29 a bulba:Ability,
         "Antifurto"@it,
         "ねんちゃく"@ja,
         "점착"@ko,
-        "黏著"@zh .
+        "黏著"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Sticky_Hold_%28Ability%29> .
 
 bulba:Storm_Drain_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4068,7 +4316,8 @@ bulba:Storm_Drain_%28Ability%29 a bulba:Ability,
         "Acquascolo"@it,
         "よびみず"@ja,
         "마중물"@ko,
-        "引水"@zh .
+        "引水"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Storm_Drain_%28Ability%29> .
 
 bulba:Strong_Jaw_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4085,7 +4334,8 @@ bulba:Strong_Jaw_%28Ability%29 a bulba:Ability,
         "Ferromascella"@it,
         "がんじょうあご"@ja,
         "옹골찬턱"@ko,
-        "強壯之顎"@zh .
+        "強壯之顎"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Strong_Jaw_%28Ability%29> .
 
 bulba:Sturdy_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4103,7 +4353,8 @@ bulba:Sturdy_%28Ability%29 a bulba:Ability,
         "Vigore"@it,
         "がんじょう"@ja,
         "옹골참"@ko,
-        "結實"@zh .
+        "結實"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Sturdy_%28Ability%29> .
 
 bulba:Suction_Cups_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4121,7 +4372,8 @@ bulba:Suction_Cups_%28Ability%29 a bulba:Ability,
         "Ventose"@it,
         "きゅうばん"@ja,
         "흡반"@ko,
-        "吸盤"@zh .
+        "吸盤"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Suction_Cups_%28Ability%29> .
 
 bulba:Super_Luck_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4138,7 +4390,8 @@ bulba:Super_Luck_%28Ability%29 a bulba:Ability,
         "Supersorte"@it,
         "きょううん"@ja,
         "대운"@ko,
-        "超幸運"@zh .
+        "超幸運"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Super_Luck_%28Ability%29> .
 
 bulba:Supersweet_Syrup_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4147,7 +4400,8 @@ bulba:Supersweet_Syrup_%28Ability%29 a bulba:Ability,
     bulba:jpname "かんろなミツ" ;
     bulba:jptrans "Sweet Nectar" ;
     bulba:jptranslit "Kanro na Mitsu" ;
-    bulba:name "Supersweet Syrup" .
+    bulba:name "Supersweet Syrup" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Supersweet_Syrup_%28Ability%29> .
 
 bulba:Supreme_Overlord_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4156,7 +4410,8 @@ bulba:Supreme_Overlord_%28Ability%29 a bulba:Ability,
     bulba:jpname "そうだいしょう" ;
     bulba:jptrans "Supreme Commander" ;
     bulba:jptranslit "Sōdaishō" ;
-    bulba:name "Supreme Overlord" .
+    bulba:name "Supreme Overlord" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Supreme_Overlord_%28Ability%29> .
 
 bulba:Surge_Surfer_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4173,7 +4428,8 @@ bulba:Surge_Surfer_%28Ability%29 a bulba:Ability,
         "Codasurf"@it,
         "サーフテール"@ja,
         "서핑테일"@ko,
-        "衝浪之尾"@zh .
+        "衝浪之尾"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Surge_Surfer_%28Ability%29> .
 
 bulba:Swarm_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4191,7 +4447,8 @@ bulba:Swarm_%28Ability%29 a bulba:Ability,
         "Aiutinsetto"@it,
         "むしのしらせ"@ja,
         "벌레의알림"@ko,
-        "蟲之預感"@zh .
+        "蟲之預感"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Swarm_%28Ability%29> .
 
 bulba:Sweet_Veil_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4208,7 +4465,8 @@ bulba:Sweet_Veil_%28Ability%29 a bulba:Ability,
         "Dolcevelo"@it,
         "スイートベール"@ja,
         "스위트베일"@ko,
-        "甜幕"@zh .
+        "甜幕"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Sweet_Veil_%28Ability%29> .
 
 bulba:Swift_Swim_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4226,7 +4484,8 @@ bulba:Swift_Swim_%28Ability%29 a bulba:Ability,
         "Nuotovelox"@it,
         "すいすい"@ja,
         "쓱쓱"@ko,
-        "悠游自如"@zh .
+        "悠游自如"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Swift_Swim_%28Ability%29> .
 
 bulba:Sword_of_Ruin_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4235,7 +4494,8 @@ bulba:Sword_of_Ruin_%28Ability%29 a bulba:Ability,
     bulba:jpname "わざわいのつるぎ" ;
     bulba:jptrans "Sword of Ruin" ;
     bulba:jptranslit "Wazawai no Tsurugi" ;
-    bulba:name "Sword of Ruin" .
+    bulba:name "Sword of Ruin" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Sword_of_Ruin_%28Ability%29> .
 
 bulba:Symbiosis_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4252,7 +4512,8 @@ bulba:Symbiosis_%28Ability%29 a bulba:Ability,
         "Simbiosi"@it,
         "きょうせい"@ja,
         "공생"@ko,
-        "共生"@zh .
+        "共生"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Symbiosis_%28Ability%29> .
 
 bulba:Synchronize_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4270,7 +4531,8 @@ bulba:Synchronize_%28Ability%29 a bulba:Ability,
         "Sincronismo"@it,
         "シンクロ"@ja,
         "싱크로"@ko,
-        "同步"@zh .
+        "同步"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Synchronize_%28Ability%29> .
 
 bulba:Tablets_of_Ruin_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4279,7 +4541,8 @@ bulba:Tablets_of_Ruin_%28Ability%29 a bulba:Ability,
     bulba:jpname "わざわいのおふだ" ;
     bulba:jptrans "Talismans of Ruin" ;
     bulba:jptranslit "Wazawai no Ofuda" ;
-    bulba:name "Tablets of Ruin" .
+    bulba:name "Tablets of Ruin" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Tablets_of_Ruin_%28Ability%29> .
 
 bulba:Tangled_Feet_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4296,7 +4559,8 @@ bulba:Tangled_Feet_%28Ability%29 a bulba:Ability,
         "Intricopiedi"@it,
         "ちどりあし"@ja,
         "갈지자걸음"@ko,
-        "蹣跚"@zh .
+        "蹣跚"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Tangled_Feet_%28Ability%29> .
 
 bulba:Tangling_Hair_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4313,7 +4577,8 @@ bulba:Tangling_Hair_%28Ability%29 a bulba:Ability,
         "Boccolidoro"@it,
         "カーリーヘアー"@ja,
         "컬리헤어"@ko,
-        "捲髮"@zh .
+        "捲髮"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Tangling_Hair_%28Ability%29> .
 
 bulba:Technician_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4330,7 +4595,8 @@ bulba:Technician_%28Ability%29 a bulba:Ability,
         "Tecnico"@it,
         "テクニシャン"@ja,
         "테크니션"@ko,
-        "技術高手"@zh .
+        "技術高手"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Technician_%28Ability%29> .
 
 bulba:Telepathy_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4347,7 +4613,8 @@ bulba:Telepathy_%28Ability%29 a bulba:Ability,
         "Telepatia"@it,
         "テレパシー"@ja,
         "텔레파시"@ko,
-        "心靈感應"@zh .
+        "心靈感應"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Telepathy_%28Ability%29> .
 
 bulba:Tera_Shell_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4356,7 +4623,8 @@ bulba:Tera_Shell_%28Ability%29 a bulba:Ability,
     bulba:jpname "テラスシェル" ;
     bulba:jptrans "Tera Shell" ;
     bulba:jptranslit "Terasu Sheru" ;
-    bulba:name "Tera Shell" .
+    bulba:name "Tera Shell" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Tera_Shell_%28Ability%29> .
 
 bulba:Tera_Shift_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4365,7 +4633,8 @@ bulba:Tera_Shift_%28Ability%29 a bulba:Ability,
     bulba:jpname "テラスチェンジ" ;
     bulba:jptrans "Tera Change" ;
     bulba:jptranslit "Terasu Chenji" ;
-    bulba:name "Tera Shift" .
+    bulba:name "Tera Shift" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Tera_Shift_%28Ability%29> .
 
 bulba:Teraform_Zero_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4374,7 +4643,8 @@ bulba:Teraform_Zero_%28Ability%29 a bulba:Ability,
     bulba:jpname "ゼロフォーミング" ;
     bulba:jptrans "Zero-Forming" ;
     bulba:jptranslit "Zero-Fōmingu" ;
-    bulba:name "Teraform Zero" .
+    bulba:name "Teraform Zero" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Teraform_Zero_%28Ability%29> .
 
 bulba:Teravolt_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4391,7 +4661,8 @@ bulba:Teravolt_%28Ability%29 a bulba:Ability,
         "Teravolt"@it,
         "テラボルテージ"@ja,
         "테라볼티지"@ko,
-        "兆級電壓"@zh .
+        "兆級電壓"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Teravolt_%28Ability%29> .
 
 bulba:Thermal_Exchange_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4400,7 +4671,8 @@ bulba:Thermal_Exchange_%28Ability%29 a bulba:Ability,
     bulba:jpname "ねつこうかん" ;
     bulba:jptrans "Thermal Exchange" ;
     bulba:jptranslit "Netsu Kōkan" ;
-    bulba:name "Thermal Exchange" .
+    bulba:name "Thermal Exchange" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Thermal_Exchange_%28Ability%29> .
 
 bulba:Thick_Fat_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4418,7 +4690,8 @@ bulba:Thick_Fat_%28Ability%29 a bulba:Ability,
         "Grassospesso"@it,
         "あついしぼう"@ja,
         "두꺼운지방"@ko,
-        "厚脂肪"@zh .
+        "厚脂肪"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Thick_Fat_%28Ability%29> .
 
 bulba:Tinted_Lens_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4435,7 +4708,8 @@ bulba:Tinted_Lens_%28Ability%29 a bulba:Ability,
         "Lentifumé"@it,
         "いろめがね"@ja,
         "색안경"@ko,
-        "有色眼鏡"@zh .
+        "有色眼鏡"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Tinted_Lens_%28Ability%29> .
 
 bulba:Torrent_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4453,7 +4727,8 @@ bulba:Torrent_%28Ability%29 a bulba:Ability,
         "Acquaiuto"@it,
         "げきりゅう"@ja,
         "급류"@ko,
-        "激流"@zh .
+        "激流"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Torrent_%28Ability%29> .
 
 bulba:Tough_Claws_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4470,7 +4745,8 @@ bulba:Tough_Claws_%28Ability%29 a bulba:Ability,
         "Unghiedure"@it,
         "かたいツメ"@ja,
         "단단한발톱"@ko,
-        "硬爪"@zh .
+        "硬爪"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Tough_Claws_%28Ability%29> .
 
 bulba:Toxic_Boost_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4487,7 +4763,8 @@ bulba:Toxic_Boost_%28Ability%29 a bulba:Ability,
         "Velenimpeto"@it,
         "どくぼうそう"@ja,
         "독폭주"@ko,
-        "中毒激升"@zh .
+        "中毒激升"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Toxic_Boost_%28Ability%29> .
 
 bulba:Toxic_Chain_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4496,7 +4773,8 @@ bulba:Toxic_Chain_%28Ability%29 a bulba:Ability,
     bulba:jpname "どくのくさり" ;
     bulba:jptrans "Toxic Chain" ;
     bulba:jptranslit "Doku no Kusari" ;
-    bulba:name "Toxic Chain" .
+    bulba:name "Toxic Chain" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Toxic_Chain_%28Ability%29> .
 
 bulba:Toxic_Debris_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4505,7 +4783,8 @@ bulba:Toxic_Debris_%28Ability%29 a bulba:Ability,
     bulba:jpname "どくげしょう" ;
     bulba:jptrans "Scattered Poison" ;
     bulba:jptranslit "Dokugeshō" ;
-    bulba:name "Toxic Debris" .
+    bulba:name "Toxic Debris" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Toxic_Debris_%28Ability%29> .
 
 bulba:Trace_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4523,7 +4802,8 @@ bulba:Trace_%28Ability%29 a bulba:Ability,
         "Traccia"@it,
         "トレース"@ja,
         "트레이스"@ko,
-        "複製"@zh .
+        "複製"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Trace_%28Ability%29> .
 
 bulba:Transistor_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4540,7 +4820,8 @@ bulba:Transistor_%28Ability%29 a bulba:Ability,
         "Transistor"@it,
         "トランジスタ"@ja,
         "트랜지스터"@ko,
-        "電晶體"@zh .
+        "電晶體"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Transistor_%28Ability%29> .
 
 bulba:Triage_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4557,7 +4838,8 @@ bulba:Triage_%28Ability%29 a bulba:Ability,
         "Primacura"@it,
         "ヒーリングシフト"@ja,
         "힐링시프트"@ko,
-        "先行治療"@zh .
+        "先行治療"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Triage_%28Ability%29> .
 
 bulba:Truant_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4575,7 +4857,8 @@ bulba:Truant_%28Ability%29 a bulba:Ability,
         "Pigrone"@it,
         "なまけ"@ja,
         "게으름"@ko,
-        "懶惰"@zh .
+        "懶惰"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Truant_%28Ability%29> .
 
 bulba:Turboblaze_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4592,7 +4875,8 @@ bulba:Turboblaze_%28Ability%29 a bulba:Ability,
         "Piroturbina"@it,
         "ターボブレイズ"@ja,
         "터보블레이즈"@ko,
-        "渦輪火焰"@zh .
+        "渦輪火焰"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Turboblaze_%28Ability%29> .
 
 bulba:Unaware_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4609,7 +4893,8 @@ bulba:Unaware_%28Ability%29 a bulba:Ability,
         "Imprudenza"@it,
         "てんねん"@ja,
         "천진"@ko,
-        "純樸"@zh .
+        "純樸"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Unaware_%28Ability%29> .
 
 bulba:Unburden_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4626,7 +4911,8 @@ bulba:Unburden_%28Ability%29 a bulba:Ability,
         "Agiltecnica"@it,
         "かるわざ"@ja,
         "곡예"@ko,
-        "輕裝"@zh .
+        "輕裝"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Unburden_%28Ability%29> .
 
 bulba:Unnerve_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4643,7 +4929,8 @@ bulba:Unnerve_%28Ability%29 a bulba:Ability,
         "Agitazione"@it,
         "きんちょうかん"@ja,
         "긴장감"@ko,
-        "緊張感"@zh .
+        "緊張感"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Unnerve_%28Ability%29> .
 
 bulba:Unseen_Fist_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4660,7 +4947,8 @@ bulba:Unseen_Fist_%28Ability%29 a bulba:Ability,
         "Pugni Invisibili"@it,
         "ふかしのこぶし"@ja,
         "보이지않는주먹"@ko,
-        "無形拳"@zh .
+        "無形拳"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Unseen_Fist_%28Ability%29> .
 
 bulba:Vessel_of_Ruin_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4669,7 +4957,8 @@ bulba:Vessel_of_Ruin_%28Ability%29 a bulba:Ability,
     bulba:jpname "わざわいのうつわ" ;
     bulba:jptrans "Vessel of Ruin" ;
     bulba:jptranslit "Wazawai no Utsuwa" ;
-    bulba:name "Vessel of Ruin" .
+    bulba:name "Vessel of Ruin" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Vessel_of_Ruin_%28Ability%29> .
 
 bulba:Victory_Star_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4686,7 +4975,8 @@ bulba:Victory_Star_%28Ability%29 a bulba:Ability,
         "Vittorstella"@it,
         "しょうりのほし"@ja,
         "승리의별"@ko,
-        "勝利之星"@zh .
+        "勝利之星"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Victory_Star_%28Ability%29> .
 
 bulba:Vital_Spirit_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4704,7 +4994,8 @@ bulba:Vital_Spirit_%28Ability%29 a bulba:Ability,
         "Spiritovivo"@it,
         "やるき"@ja,
         "의기양양"@ko,
-        "幹勁"@zh .
+        "幹勁"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Vital_Spirit_%28Ability%29> .
 
 bulba:Volt_Absorb_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4722,7 +5013,8 @@ bulba:Volt_Absorb_%28Ability%29 a bulba:Ability,
         "Assorbivolt"@it,
         "ちくでん"@ja,
         "축전"@ko,
-        "蓄電"@zh .
+        "蓄電"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Volt_Absorb_%28Ability%29> .
 
 bulba:Wandering_Spirit_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4739,7 +5031,8 @@ bulba:Wandering_Spirit_%28Ability%29 a bulba:Ability,
         "Anima Errante"@it,
         "さまようたましい"@ja,
         "떠도는영혼"@ko,
-        "遊魂"@zh .
+        "遊魂"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Wandering_Spirit_%28Ability%29> .
 
 bulba:Water_Absorb_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4757,7 +5050,8 @@ bulba:Water_Absorb_%28Ability%29 a bulba:Ability,
         "Assorbacqua"@it,
         "ちょすい"@ja,
         "저수"@ko,
-        "儲水"@zh .
+        "儲水"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Water_Absorb_%28Ability%29> .
 
 bulba:Water_Bubble_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4774,7 +5068,8 @@ bulba:Water_Bubble_%28Ability%29 a bulba:Ability,
         "Bolladacqua"@it,
         "すいほう"@ja,
         "수포"@ko,
-        "水泡"@zh .
+        "水泡"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Water_Bubble_%28Ability%29> .
 
 bulba:Water_Compaction_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4791,7 +5086,8 @@ bulba:Water_Compaction_%28Ability%29 a bulba:Ability,
         "Idrorinforzo"@it,
         "みずがため"@ja,
         "꾸덕꾸덕굳기"@ko,
-        "遇水凝固"@zh .
+        "遇水凝固"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Water_Compaction_%28Ability%29> .
 
 bulba:Water_Veil_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4809,7 +5105,8 @@ bulba:Water_Veil_%28Ability%29 a bulba:Ability,
         "Idrovelo"@it,
         "みずのベール"@ja,
         "수의베일"@ko,
-        "水幕"@zh .
+        "水幕"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Water_Veil_%28Ability%29> .
 
 bulba:Weak_Armor_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4826,7 +5123,8 @@ bulba:Weak_Armor_%28Ability%29 a bulba:Ability,
         "Sottilguscio"@it,
         "くだけるよろい"@ja,
         "깨어진갑옷"@ko,
-        "碎裂鎧甲"@zh .
+        "碎裂鎧甲"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Weak_Armor_%28Ability%29> .
 
 bulba:Well-Baked_Body_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4835,7 +5133,8 @@ bulba:Well-Baked_Body_%28Ability%29 a bulba:Ability,
     bulba:jpname "こんがりボディ" ;
     bulba:jptrans "Well-Baked Body" ;
     bulba:jptranslit "Kongari Bodi" ;
-    bulba:name "Well-Baked Body" .
+    bulba:name "Well-Baked Body" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Well-Baked_Body_%28Ability%29> .
 
 bulba:White_Smoke_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4853,7 +5152,8 @@ bulba:White_Smoke_%28Ability%29 a bulba:Ability,
         "Fumochiaro"@it,
         "しろいけむり"@ja,
         "하얀연기"@ko,
-        "白色煙霧"@zh .
+        "白色煙霧"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/White_Smoke_%28Ability%29> .
 
 bulba:Wimp_Out_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4870,7 +5170,8 @@ bulba:Wimp_Out_%28Ability%29 a bulba:Ability,
         "Fuggifuggi"@it,
         "にげごし"@ja,
         "도망태세"@ko,
-        "躍躍欲逃"@zh .
+        "躍躍欲逃"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Wimp_Out_%28Ability%29> .
 
 bulba:Wind_Power_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4879,7 +5180,8 @@ bulba:Wind_Power_%28Ability%29 a bulba:Ability,
     bulba:jpname "ふうりょくでんき" ;
     bulba:jptrans "Wind-Powered Electricity" ;
     bulba:jptranslit "Fūryoku Denki" ;
-    bulba:name "Wind Power" .
+    bulba:name "Wind Power" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Wind_Power_%28Ability%29> .
 
 bulba:Wind_Rider_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4888,7 +5190,8 @@ bulba:Wind_Rider_%28Ability%29 a bulba:Ability,
     bulba:jpname "かぜのり" ;
     bulba:jptrans "Wind Riding" ;
     bulba:jptranslit "Kazenori" ;
-    bulba:name "Wind Rider" .
+    bulba:name "Wind Rider" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Wind_Rider_%28Ability%29> .
 
 bulba:Wonder_Guard_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4906,7 +5209,8 @@ bulba:Wonder_Guard_%28Ability%29 a bulba:Ability,
         "Magidifesa"@it,
         "ふしぎなまもり"@ja,
         "불가사의부적"@ko,
-        "神奇守護"@zh .
+        "神奇守護"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Wonder_Guard_%28Ability%29> .
 
 bulba:Wonder_Skin_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4923,7 +5227,8 @@ bulba:Wonder_Skin_%28Ability%29 a bulba:Ability,
         "Splendicute"@it,
         "ミラクルスキン"@ja,
         "미라클스킨"@ko,
-        "奇跡皮膚"@zh .
+        "奇跡皮膚"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Wonder_Skin_%28Ability%29> .
 
 bulba:Zen_Mode_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4940,7 +5245,8 @@ bulba:Zen_Mode_%28Ability%29 a bulba:Ability,
         "Stato Zen"@it,
         "ダルマモード"@ja,
         "달마모드"@ko,
-        "達摩模式"@zh .
+        "達摩模式"@zh ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Zen_Mode_%28Ability%29> .
 
 bulba:Zero_to_Hero_%28Ability%29 a bulba:Ability,
         schema1:Thing ;
@@ -4949,5 +5255,6 @@ bulba:Zero_to_Hero_%28Ability%29 a bulba:Ability,
     bulba:jpname "マイティチェンジ" ;
     bulba:jptrans "Mighty Change" ;
     bulba:jptranslit "Maiti Chenji" ;
-    bulba:name "Zero to Hero" .
+    bulba:name "Zero to Hero" ;
+    schema1:mainEntityOfPage <https://bulbapedia.bulbagarden.net/wiki/Zero_to_Hero_%28Ability%29> .
 
