@@ -1,6 +1,0 @@
-- link pokemon resources with ability resources [S]
-- add move infoboxes [R]
-- create shacl classes for at least pokemon (and if possible abilities and moves) [S]
-- enhance the vocabulary with moves properties [R]
-- make a simple visual interface [RS]
-- make presentation [SR]
