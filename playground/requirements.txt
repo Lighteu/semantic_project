@@ -1,6 +1,0 @@
-rdflib
-SPARQLWrapper
-requests
-mwclient
-pwiki
-mwparserfromhell

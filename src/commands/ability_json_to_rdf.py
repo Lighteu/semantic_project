@@ -7,16 +7,6 @@ import urllib.parse
 from src.utils.html_handler import *
 
 def json_to_rdf(json_list, base_url="http://localhost:3030/bulba_vocab#"):
-    """
-    Converts a list of JSON data representing Pokémon abilities into RDF format using schema.org vocabulary.
-
-    Args:
-        json_list (list): A list of dictionaries containing Pokémon ability data.
-        base_url (str): The base URL for Pokémon ability resources.
-
-    Returns:
-        str: RDF data in Turtle format.
-    """
     # Namespaces
     SCHEMA = Namespace("http://schema.org/")
     BULBA = Namespace(base_url)
