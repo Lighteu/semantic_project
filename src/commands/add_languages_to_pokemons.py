@@ -55,8 +55,8 @@ def update_rdf_with_languages(rdf_file, tsv_file, output_file):
     g.serialize(destination=output_file, format="turtle")
 
 if __name__ == '__main__':
-    rdf_file = "data/python-data/rdf/pokemons.ttl"
+    rdf_file = "data/python-data/rdf/pokemons_linked.ttl"
     tsv_file = "data/python-data/pokedex-i18n.tsv"
-    output_file = "data/python-data/rdf/pokemons.ttl"
+    output_file = "data/python-data/rdf/pokemons_linked.ttl"
 
     update_rdf_with_languages(rdf_file, tsv_file, output_file)
