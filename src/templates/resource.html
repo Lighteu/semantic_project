@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{ resource_name }} - Resource View</title>
+    <!-- Tailwind CSS (via CDN) -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.2/dist/tailwind.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-gray-50 min-h-screen flex items-center justify-center p-4">
+    <div class="max-w-3xl w-full bg-white rounded-lg shadow-lg p-6">
+        <h1 class="text-2xl font-bold mb-4">Resource: bulba:{{ resource_name }}</h1>
+
+        {% if error %}
+        <p class="text-red-500 mb-4 font-semibold">Error: {{ error }}</p>
+        {% else %}
+        {% if results and results|length > 0 %}
+        <div class="overflow-x-auto">
+            <table class="min-w-full divide-y divide-gray-200 border border-gray-200">
+                <thead class="bg-gray-100">
+                    <tr>
+                        <th scope="col"
+                            class="px-6 py-3 text-left text-xs font-bold text-gray-600 uppercase tracking-wider">
+                            Predicate
+                        </th>
+                        <th scope="col"
+                            class="px-6 py-3 text-left text-xs font-bold text-gray-600 uppercase tracking-wider">
+                            Object
+                        </th>
+                    </tr>
+                </thead>
+                <tbody class="bg-white divide-y divide-gray-200">
+                    {% for row in results %}
+                    <tr>
+                        <!-- Predicate cell -->
+                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-700">
+                            {% if row.p.value.startswith("http") %}
+                            <a class="text-blue-600 hover:underline" href="{{ row.p.value }}" target="_blank">
+                                {{ row.p.value }}
+                            </a>
+                            {% else %}
+                            {{ row.p.value }}
+                            {% endif %}
+                        </td>
+                        <!-- Object cell -->
+                        <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-700">
+                            {% if row.o.value.startswith("http") %}
+                            <a class="text-blue-600 hover:underline" href="{{ row.o.value }}" target="_blank">
+                                {{ row.o.value }}
+                            </a>
+                            {% else %}
+                            {{ row.o.value }}
+                            {% endif %}
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% else %}
+        <p class="text-gray-700">No data found for this resource.</p>
+        {% endif %}
+        {% endif %}
+    </div>
+</body>
+
+</html>
