@@ -2,7 +2,7 @@
 # Contributors
 
 - Mounir ROUIBI  
-- Mathew SROUR  
+- Mathieu SROUR  
 
 # Overview
 
@@ -79,10 +79,14 @@ We create three files for three types of infoboxes:
 
 2. After creating a list of potential Pokémon pages, we go through the wikitext of each page and look for the "Pokémon Infobox". If we succeed in finding it, then the page is confirmed to be a Pokémon page and we get the infobox as json data and store it in the **data/python-data/infobox/pokemons.ttl**. This is done in the file **src/commands/get_pokemons_infoboxes.py**.
 
-3. We transform the infobox, which is in JSON format, into RDF in the file **src/commands/pokemon_json_to_rdf.py**.
+3. We transform the infobox, which is in JSON format, into RDF in the file **src/commands/pokemon_json_to_rdf.py**, given that we created the abilities rdf before this point.
 
-4. Finally, we add the different languages given in **pokedex-i18n.tsv** to the triples in **pokemon.ttl**. This is done in the file **src/commands/add_languages_to_pokemons.py**.
+4. Finally, we add the different languages given in **pokedex-i18n.tsv** to the triples in **pokemon.ttl**. This is done in the file **src/commands/add_languages_to_pokemons.py**. We also add links to the web pages, by running **src/commands/add links to identities.py**.
 
 ## The Rest of the RDF Files
 
 We follow the exact same steps for the **move infoboxes** and the **abilities infoboxes**, using the same naming convention for the files in the **src/commands** folder.
+
+## SHACL Classes
+
+In order to validate our rdfs against SHACL, we need to create SHACL nodes. This is done in **src/commands/create_shacl_classes.py**. After running this file, the validation can be done by running **src/commands/validate_rdf_against_shacl.py**.
